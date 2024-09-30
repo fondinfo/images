@@ -91,13 +91,13 @@
       <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 470 280 C 470,260 480,220 319.736,220"/>
       <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="312.236,220 322.236,215 319.736,220 322.236,225 "/>
     </g>
-    <image x="230" y="240" width="60" height="60" xlink:href="https://fondinfo.github.io/images/algo/guard.svg"/>
+    <image x="230" y="240" width="60" height="60" xlink:href="/images/algo/guard.svg"/>
     <g>
       <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="351" y1="270" x2="359.444" y2="270"/>
       <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="366.944,270 356.944,275 359.444,270 356.944,265 "/>
     </g>
     <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 443.35 330 C 463.27,330 470,310 470,280"/>
-    <image x="390" y="180" width="70" height="70" xlink:href="https://fondinfo.github.io/images/algo/shopping-cart.svg"/>
+    <image x="390" y="180" width="70" height="70" xlink:href="/images/algo/shopping-cart.svg"/>
     <g transform="matrix(1.18827,0,0,1.18827,-103.333,-342.346)">
       <ellipse style="fill: #1e90ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" cx="440" cy="456" rx="8" ry="8"/>
       <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x1="440" y1="450" x2="440" y2="462"/>
