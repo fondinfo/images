@@ -91,7 +91,7 @@
       <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 470 280 C 470,260 480,220 319.736,220"/>
       <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="312.236,220 322.236,215 319.736,220 322.236,225 "/>
     </g>
-    <embed x="230" y="240" width="60" height="60" src="https://fondinfo.github.io/images/algo/guard.svg"/>
+    <image x="230" y="240" width="60" height="60" href="https://fondinfo.github.io/images/algo/guard.svg"/>
     <g>
       <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="351" y1="270" x2="359.444" y2="270"/>
       <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="366.944,270 356.944,275 359.444,270 356.944,265 "/>
