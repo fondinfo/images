@@ -1,100 +1,68 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="12cm" height="19cm" viewBox="258 37 237 375" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background">
-    <g>
-      <path style="fill: #90ee90; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 290 40 L 330,40 C 335.523,40 340,48.9543 340,60 C 340,71.0457 335.523,80 330,80 L 290,80 C 284.477,80 280,71.0457 280,60 C 280,48.9543 284.477,40 290,40z"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="310" y="66.4">
-        <tspan x="310" y="66.4">Start</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #bfbfbf; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="260" y="160" width="100" height="40" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="310" y="177.7">
-        <tspan x="310" y="177.7">total = 0</tspan>
-        <tspan x="310" y="193.7">count = 1</tspan>
-      </text>
-    </g>
-    <g>
-      <polygon style="fill: #add8e6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" fill-rule="evenodd" points="274.559,100 360,100 345.441,140 260,140 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="310" y="125.7">
-        <tspan x="310" y="125.7">n ?</tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="310" y1="80" x2="310" y2="89.2874"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="310,96.7874 305,86.7874 310,89.2874 315,86.7874 "/>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="310" y1="140.991" x2="310" y2="149.273"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="310,156.773 305,146.773 310,149.273 315,146.773 "/>
-    </g>
-    <g>
-      <polygon style="fill: #ffff00; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="310.098,230 360.196,260 310.098,290 260,260 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="310.098" y="265.7">
-        <tspan x="310.098" y="265.7">count ≤ n</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #bfbfbf; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="380" y="240" width="100.5" height="40" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="430.25" y="257.7">
-        <tspan x="430.25" y="257.7">total += count</tspan>
-        <tspan x="430.25" y="273.7">count += 1</tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="361.196" y1="260" x2="369.26" y2="260"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="376.76,260 366.76,265 369.26,260 366.76,255 "/>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="310.026" y1="200.977" x2="310.048" y2="219.278"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="310.057,226.778 305.045,216.784 310.048,219.278 315.045,216.771 "/>
-    </g>
-    <g>
-      <polygon style="fill: #ffc0cb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="274.559,310 359.999,310 345.44,350 260,350 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="310" y="335.7">
-        <tspan x="310" y="335.7">total</tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="310.055" y1="290.975" x2="310.043" y2="299.269"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="310.032,306.769 305.046,296.762 310.043,299.269 315.046,296.776 "/>
-    </g>
-    <g>
-      <path style="fill: #ff4040; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 290 370 L 330,370 C 335.523,370 340,378.954 340,390 C 340,401.046 335.523,410 330,410 L 290,410 C 284.477,410 280,401.046 280,390 C 280,378.954 284.477,370 290,370z"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="310" y="396.4">
-        <tspan x="310" y="396.4">Stop</tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="310" y1="350.991" x2="310" y2="359.273"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="310,366.773 305,356.773 310,359.273 315,356.773 "/>
-    </g>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="244.95">
-      <tspan x="360" y="244.95">True</tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="280" y="294.95">
-      <tspan x="280" y="294.95">False</tspan>
-    </text>
-    <g>
-      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 480.5 260 C 540,220 390,210 319.736,210"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="312.236,210 322.236,205 319.736,210 322.236,215 "/>
-    </g>
-    <image x="400" y="280" width="70" height="70" xlink:href="shopping-cart.svg"/>
-    <g transform="matrix(1,0,0,1,-30,-10)">
-      <ellipse style="fill: #1e90ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" cx="460" cy="310" rx="10" ry="10"/>
-      <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="460" y="320.039">
-        <tspan x="460" y="320.039"></tspan>
-      </text>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x1="460" y1="304" x2="460" y2="316"/>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x1="454" y1="310" x2="466" y2="310"/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12cm" height="19cm" version="1.1" viewBox="258 37 237 375" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <path d="m290 40h40c5.52 0 10 8.95 10 20s-4.48 20-10 20h-40c-5.52 0-10-8.95-10-20s4.48-20 10-20z" fill="#90ee90" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <text x="310" y="66.400002" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="310" y="66.400002">Start</tspan></text>
+ </g>
+ <g>
+  <rect x="260" y="160" width="100" height="40" rx="0" ry="0" fill="#bfbfbf" stroke="#000" stroke-width="2"/>
+  <text x="310" y="177.7" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="310" y="177.7">total = 0</tspan><tspan x="310" y="193.7">count = 1</tspan></text>
+ </g>
+ <g>
+  <polygon points="345 140 260 140 275 100 360 100" fill="#add8e6" fill-rule="evenodd" stroke="#000" stroke-dasharray="10" stroke-width="2"/>
+  <text x="310" y="125.7" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="310" y="125.7">n ?</tspan></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="310" x2="310" y1="80" y2="89.3" fill="none"/>
+  <polygon points="310 89.3 315 86.8 310 96.8 305 86.8" fill-rule="evenodd"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="310" x2="310" y1="141" y2="149" fill="none"/>
+  <polygon points="310 149 315 147 310 157 305 147" fill-rule="evenodd"/>
+ </g>
+ <g>
+  <polygon points="310 290 260 260 310 230 360 260" fill="#ff0" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <text x="310.09799" y="265.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="310.09799" y="265.70001">count ≤ n</tspan></text>
+ </g>
+ <g>
+  <rect x="380" y="240" width="100" height="40" rx="0" ry="0" fill="#bfbfbf" stroke="#000" stroke-width="2"/>
+  <text x="430.25" y="257.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="430.25" y="257.70001">total += count</tspan><tspan x="430.25" y="273.70001">count += 1</tspan></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="361" x2="369" y1="260" y2="260" fill="none"/>
+  <polygon points="369 260 367 255 377 260 367 265" fill-rule="evenodd"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="310" x2="310" y1="201" y2="219" fill="none"/>
+  <polygon points="310 219 315 217 310 227 305 217" fill-rule="evenodd"/>
+ </g>
+ <g>
+  <polygon points="345 350 260 350 275 310 360 310" fill="#ffc0cb" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <text x="310" y="335.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="310" y="335.70001">total</tspan></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="310" x2="310" y1="291" y2="299" fill="none"/>
+  <polygon points="310 299 315 297 310 307 305 297" fill-rule="evenodd"/>
+ </g>
+ <g>
+  <path d="m290 370h40c5.52 0 10 8.95 10 20s-4.48 20-10 20h-40c-5.52 0-10-8.95-10-20s4.48-20 10-20z" fill="#ff4040" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <text x="310" y="396.39999" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="310" y="396.39999">Stop</tspan></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="310" x2="310" y1="351" y2="359" fill="none"/>
+  <polygon points="310 359 315 357 310 367 305 357" fill-rule="evenodd"/>
+ </g>
+ <text x="360" y="244.95" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="360" y="244.95">True</tspan></text>
+ <text x="280" y="294.95001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="280" y="294.95001">False</tspan></text>
+ <g stroke="#000" stroke-width="2">
+  <path d="m480 260c59.5-40-90.5-50-161-50" fill="none"/>
+  <polygon points="320 210 322 215 312 210 322 205" fill-rule="evenodd"/>
+ </g>
+ <image x="400" y="280" width="70" height="70" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBBcGFj aGUuIE1hZGUgYnkgZ29vZ2xlZm9udHM6IGh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGVmb250cy9u b3RvLWVtb2ppIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0i MCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxp bms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGFyaWEtaGlkZGVuPSJ0cnVlIiByb2xl PSJpbWciIGNsYXNzPSJpY29uaWZ5IGljb25pZnktLW5vdG8iIHByZXNlcnZlQXNwZWN0UmF0aW89 InhNaWRZTWlkIG1lZXQiPgoKPGNpcmNsZSBjeD0iMTE3LjMzIiBjeT0iOS42OSIgcj0iNS42OSIg ZmlsbD0iI2Y0NDMzNiI+Cgo8L2NpcmNsZT4KCjxwYXRoIGQ9Ik04MC4wOSA3OC4zOHM5LjUxIDEy LjggOS41MSAxNy44NXMtNC4xIDkuMTUtOS4xNSA5LjE1Yy00LjMxIDAtNTguMi0uMTEtNjQuMTUt LjExcy05LjMyIDMuNDktOS4zMiAzLjQ5IiBmaWxsPSJub25lIiBzdHJva2U9IiM4NGIwYzEiIHN0 cm9rZS13aWR0aD0iNC45MTMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGlt aXQ9IjEwIj4KCjwvcGF0aD4KCjxwYXRoIGQ9Ik01OC44MyA3Ny4xM3MxMC42IDE0LjA1IDEwLjYg MTkuMTFzLTQuNjQgOS4xMi05LjY5IDkuMTIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzg0YjBjMSIg c3Ryb2tlLXdpZHRoPSI0LjkxMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbWl0ZXJs aW1pdD0iMTAiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTgyLjc3IDg2LjczYy0yLjAxLTMuNDQtMy42 NC01LjQ0LTYuMjYtOS4wMmMwIDAgLjY5LjE1IDIuNTUuMTVzMy4yLS41OSAzLjItLjU5YzIuNjQg My43MyAzLjQzIDQuNjggNC44NCA3LjE4YzAgMC0uMDUgMS42My0xLjM1IDIuNDljLTEuMy44Ni0y Ljk4LS4yMS0yLjk4LS4yMXoiIGZpbGw9IiMyZjc4ODkiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTYy LjU2IDg2LjljLTIuNzktNC4yNi01LjAyLTcuNTEtNS4wMi03LjUxbDYgLjE0czIuNjkgMy42MSA0 LjIzIDYuNDdjMCAwIC4yMyAxLjMtMS40OSAxLjk4Yy0xLjcyLjY2LTMuNzItMS4wOC0zLjcyLTEu MDh6IiBmaWxsPSIjMmY3ODg5Ij4KCjwvcGF0aD4KCjxwYXRoIGQ9Ik04MC4xMSA3OC42NGwtNjku OTQtNC42NmMtLjIzLS4wMi0uNC0uMi0uNC0uNDNWMzQuNWMwLS4zNy4yOS0uNjguNjYtLjdsODgu NjMtNS42NGMuODYtLjA2IDEuNDguOCAxLjE3IDEuNkw4MS40MSA3Ny44MmMtLjIxLjUzLS43My44 Ni0xLjMuODJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiM4NGIwYzEiIHN0cm9rZS13aWR0aD0iNC45 MTMiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCI+Cgo8L3BhdGg+Cgo8ZyBmaWxsPSJub25lIiBzdHJv a2U9IiM4NGIwYzEiIHN0cm9rZS13aWR0aD0iMi45NDgiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCI+ Cgo8cGF0aCBkPSJNMjMuNjcgMzMuMDZMMjEuODMgNzQuNSI+Cgo8L3BhdGg+Cgo8cGF0aCBkPSJN MzkuNTQgMzEuOThsLTUuNzUgNDMuNDEiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTU1LjQyIDMwLjls LTkuNjcgNDUuMzgiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTcxLjMgMjkuODJMNTcuNzEgNzcuMTci PgoKPC9wYXRoPgoKPHBhdGggZD0iTTg3LjE3IDI4Ljc0bC0xNy41IDQ5LjMyIj4KCjwvcGF0aD4K CjxwYXRoIGQ9Ik04LjI5IDQ4LjQ4bDg1LjU2LTIuOTQiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTku MDggNjIuMTFoNzkuNCI+Cgo8L3BhdGg+Cgo8L2c+Cgo8Y2lyY2xlIGN4PSI4MC40MSIgY3k9IjEx Ni40NiIgcj0iNy41NCIgZmlsbD0iIzQyNDI0MiI+Cgo8L2NpcmNsZT4KCjxwYXRoIGQ9Ik03NS41 NSAxMDYuMDhoOS43M2wtMi4zMiAxMC4wOWMtLjIyIDEuNTctMS4yOSAyLjcxLTIuNTQgMi43MXMt Mi4zMy0xLjE0LTIuNTQtMi43MWwtMi4zMy0xMC4wOXoiIGZpbGw9IiM4NGIwYzEiPgoKPC9wYXRo PgoKPHBhdGggZD0iTTgxLjk3IDExNi41M2MtLjE4LjY2LS41MSAxLjQxLTEuMTggMS41OGMtMi40 Mi42Mi0yLjc2LTUuMzMtMS41NC02LjM1Yy43NC0uNjIgMi4yOC0uNzMgMi45My4wNGMuODMuOTgu MSAzLjY0LS4yMSA0LjczeiIgZmlsbD0iI2E4ZTNmMCI+Cgo8L3BhdGg+Cgo8cGF0aCBkPSJNODAu NTMgMTA5LjY1Yy0xLjYxIDAtMi43NS0uOTUtMy4zMS0xLjU0YS4yODMuMjgzIDAgMCAxIC4xOS0u NDhjMS4wNC0uMDUgMi4wOC0uMDQgMy4xMS0uMDdjMS4wNC4wMyAyLjA4LjAyIDMuMTEuMDdjLjI0 LjAxLjM2LjMxLjE5LjQ4Yy0uNTMuNTktMS42OCAxLjU0LTMuMjkgMS41NHoiIGZpbGw9IiMyZjc4 ODkiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTc4LjA0IDExOS4wMmMuNjUuNzUgMS42OSAxLjEgMi42 OC45OGMuOTgtLjEyIDEuODgtLjcgMi40Ny0xLjVjLjM0LS40Ny41OC0xLjAxLjk3LTEuNDRjLjM5 LS40MyAxLjAxLS43MyAxLjU1LS41MWMuNzYuMy44NiAxLjM2LjYgMi4xM2E2LjA4IDYuMDggMCAw IDEtMy4wOSAzLjU2Yy0uOTkuNDktMi4zNy42OS0zLjQ3LjU4Yy0yLjExLS4yMi00LjM4LTIuMTMt NS4xMi00LjA5Yy0uNC0xLjA1LS43NS0zLjE2IDEuMzQtMi42OGMuOTcuMjMgMS4yOSAyLjA3IDIu MDcgMi45N3oiIGZpbGw9IiM3NTc1NzUiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTk5LjgyIDMwLjcx bDQuNjEtMTEuMjdjMS44OC00LjYgMy4yNy01LjYzIDYuMDYtNi44OGw2LjUzLTIuNjUiIGZpbGw9 Im5vbmUiIHN0cm9rZT0iIzg0YjBjMSIgc3Ryb2tlLXdpZHRoPSI0LjkxMyIgc3Ryb2tlLWxpbmVj YXA9InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiPgoKPC9wYXRoPgoKPGc+Cgo8Y2lyY2xl IGN4PSIxOS42IiBjeT0iMTE2LjQ2IiByPSI3LjU0IiBmaWxsPSIjNDI0MjQyIj4KCjwvY2lyY2xl PgoKPHBhdGggZD0iTTE0LjczIDEwNi4wOGg5LjczbC0yLjMyIDEwLjA5Yy0uMjIgMS41Ny0xLjI5 IDIuNzEtMi41NCAyLjcxcy0yLjMzLTEuMTQtMi41NC0yLjcxbC0yLjMzLTEwLjA5eiIgZmlsbD0i Izg0YjBjMSI+Cgo8L3BhdGg+Cgo8cGF0aCBkPSJNMjEuMTYgMTE2LjUzYy0uMTguNjYtLjUxIDEu NDEtMS4xOCAxLjU4Yy0yLjQyLjYyLTIuNzYtNS4zMy0xLjU0LTYuMzVjLjc0LS42MiAyLjI4LS43 MyAyLjkzLjA0Yy44My45OC4wOSAzLjY0LS4yMSA0LjczeiIgZmlsbD0iI2E4ZTNmMCI+Cgo8L3Bh dGg+Cgo8cGF0aCBkPSJNMTkuNzIgMTA5LjY1Yy0xLjYxIDAtMi43NS0uOTUtMy4zMS0xLjU0YS4y ODMuMjgzIDAgMCAxIC4xOS0uNDhjMS4wNC0uMDUgMi4wOC0uMDQgMy4xMS0uMDdjMS4wNC4wMyAy LjA4LjAyIDMuMTEuMDdjLjI0LjAxLjM2LjMxLjE5LjQ4Yy0uNTQuNTktMS42OSAxLjU0LTMuMjkg MS41NHoiIGZpbGw9IiMyZjc4ODkiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTE3LjIyIDExOS4wMmMu NjUuNzUgMS42OSAxLjEgMi42OC45OGMuOTgtLjEyIDEuODgtLjcgMi40Ny0xLjVjLjM0LS40Ny41 OC0xLjAxLjk3LTEuNDRjLjM5LS40MyAxLjAxLS43MyAxLjU1LS41MWMuNzYuMy44NiAxLjM2LjYg Mi4xM2E2LjA4IDYuMDggMCAwIDEtMy4wOSAzLjU2Yy0uOTkuNDktMi4zNy42OS0zLjQ3LjU4Yy0y LjExLS4yMi00LjM4LTIuMTMtNS4xMi00LjA5Yy0uNC0xLjA1LS43NS0zLjE2IDEuMzQtMi42OGMu OTcuMjMgMS4yOSAyLjA3IDIuMDcgMi45N3oiIGZpbGw9IiM3NTc1NzUiPgoKPC9wYXRoPgoKPC9n PgoKPC9zdmc+ "/>
+ <g transform="translate(-30,-10)">
+  <circle cx="460" cy="310" r="10" fill="#1e90ff" stroke="#fff" stroke-width="2"/>
+  <text x="460" y="320.039" fill="#ffffff" font-family="sans-serif" font-size="22.6px" font-weight="700" text-anchor="middle"><tspan x="460" y="320.039"/></text>
+  <line x1="460" x2="460" y1="304" y2="316" fill="none" stroke="#fff" stroke-width="2"/>
+  <line x1="454" x2="466" y1="310" y2="310" fill="none" stroke="#fff" stroke-width="2"/>
+ </g>
 </svg>
