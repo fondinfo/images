@@ -1,130 +1,94 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="17cm" height="26cm" viewBox="177 280 334 513" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background">
-    <image x="320" y="280" width="120" height="120" xlink:href="spaghetti.svg"/>
-    <g>
-      <path style="fill: #ff4040; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 190 750 L 230,750 C 235.523,750 240,758.954 240,770 C 240,781.046 235.523,790 230,790 L 190,790 C 184.477,790 180,781.046 180,770 C 180,758.954 184.477,750 190,750z"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="776.4">
-        <tspan x="210" y="776.4"></tspan>
-      </text>
-    </g>
-    <g>
-      <polygon style="fill: #ffff00; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="210,500 240,530 210,560 180,530 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="535.7">
-        <tspan x="210" y="535.7"></tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="210" y1="451.002" x2="210" y2="489.264"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="210,496.764 205,486.764 210,489.264 215,486.764 "/>
-    </g>
-    <g>
-      <path style="fill: #90ee90; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 190 290 L 230,290 C 235.523,290 240,298.954 240,310 C 240,321.046 235.523,330 230,330 L 190,330 C 184.477,330 180,321.046 180,310 C 180,298.954 184.477,290 190,290z"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="316.4">
-        <tspan x="210" y="316.4"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #bfbfbf; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="180" y="350" width="60" height="40" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="375.7">
-        <tspan x="210" y="375.7"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #bfbfbf; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="180" y="410" width="60" height="40" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="435.7">
-        <tspan x="210" y="435.7"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #bfbfbf; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="260" y="510" width="60" height="40" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="290" y="535.7">
-        <tspan x="290" y="535.7"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #bfbfbf; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="370" y="510" width="60" height="40" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="400" y="535.7">
-        <tspan x="400" y="535.7"></tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="241" y1="530" x2="249.287" y2="530"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="256.787,530 246.787,535 249.287,530 246.787,525 "/>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="321.005" y1="530" x2="359.259" y2="530"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="366.759,530 356.759,535 359.259,530 356.759,525 "/>
-    </g>
-    <g>
-      <polygon style="fill: #ffff00; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="480,500 510,530 480,560 450,530 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="480" y="535.7">
-        <tspan x="480" y="535.7"></tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="430.977" y1="530" x2="439.264" y2="530"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="446.764,530 436.764,535 439.264,530 436.764,525 "/>
-    </g>
-    <g>
-      <rect style="fill: #bfbfbf; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="180" y="610" width="60" height="40" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="635.7">
-        <tspan x="210" y="635.7"></tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="210" y1="561" x2="210" y2="599.262"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="210,606.762 205,596.762 210,599.262 215,596.762 "/>
-    </g>
-    <g>
-      <polygon style="fill: #ffff00; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="210,670 240,700 210,730 180,700 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="705.7">
-        <tspan x="210" y="705.7"></tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="210" y1="650.995" x2="210" y2="659.264"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="210,666.764 205,656.764 210,659.264 215,656.764 "/>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="210" y1="731" x2="210" y2="739.269"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="210,746.769 205,736.769 210,739.269 215,736.769 "/>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="210" y1="330.991" x2="210" y2="339.273"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="210,346.773 205,336.773 210,339.273 215,336.773 "/>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="210" y1="390.991" x2="210" y2="399.273"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="210,406.773 205,396.773 210,399.273 215,396.773 "/>
-    </g>
-    <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="241,700 340,700 340,539.736 "/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="340,532.236 345,542.236 340,539.736 335,542.236 "/>
-    </g>
-    <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="480,499 480,470 219.736,470 "/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="212.236,470 222.236,465 219.736,470 222.236,475 "/>
-    </g>
-    <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="480,561 480,580 219.736,580 "/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="212.236,580 222.236,575 219.736,580 222.236,585 "/>
-    </g>
-    <text font-size="27.0933" style="fill: #ff0000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="380" y="410.525">
-      <tspan x="380" y="410.525">⚠️ Spaghetti code</tspan>
-    </text>
-    <text font-size="27.0933" style="fill: #005500; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="380" y="440.525">
-      <tspan x="380" y="440.525">Don't do this!</tspan>
-    </text>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17cm" height="26cm" version="1.1" viewBox="177 280 334 513" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <image x="320" y="280" width="120" height="120" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBBcGFj aGUuIE1hZGUgYnkgZ29vZ2xlZm9udHM6IGh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGVmb250cy9u b3RvLWVtb2ppIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0i MCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxp bms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGFyaWEtaGlkZGVuPSJ0cnVlIiByb2xl PSJpbWciIGNsYXNzPSJpY29uaWZ5IGljb25pZnktLW5vdG8iIHByZXNlcnZlQXNwZWN0UmF0aW89 InhNaWRZTWlkIG1lZXQiPjxwYXRoIGQ9Ik02Mi4yNyA1Mi45MWMtMzUuODkuNDYtNTcuNzkgMTUu NzItNTcuMDEgMzYuNjNjLjgyIDIyLjEyIDI4LjA3IDM1LjEzIDU5LjgxIDM1LjFjMzYuMTUtLjAz IDU2Ljg2LTE3LjU1IDU3LjMyLTM0LjA0Yy41NC0xOS4yMy0xOC44LTM4LjIxLTYwLjEyLTM3LjY5 eiIgZmlsbD0iI2RiZGFkOCI+PC9wYXRoPjxwYXRoIGQ9Ik02Mi4yOSA1MS4xOEMyOC41IDUxLjYy IDcuODcgNjYuMjUgOC42IDg2LjI5Yy43NyAyMS4yIDI3Ljk0IDMzLjkgNTYuMzMgMzMuNjVjMzIu NzctLjI5IDUzLjU1LTE2LjgyIDUzLjk5LTMyLjYzYy41MS0xOC40NC0xNy43MS0zNi42NC01Ni42 My0zNi4xM3oiIGZpbGw9IiNmNmY2ZjYiPjwvcGF0aD48cGF0aCBkPSJNMzYuNjkgNjguMzhzLTYu NSAxLjAzLTEwLjYyIDQuODVzLTUuNTcgMTMuNjEgMS4zNCAyMi4yN3MxMy44IDcuMzYgMTMuOCA3 LjM2czIuOTEgMy4xNiA1LjQ4IDQuNnM2LjI5IDMuNzEgNy42MyA1LjA1czQuMzIgNC4yMSA2LjI1 IDMuNzFjLjcxLS4xOCAxLjE4LS43NyAxLjM4LTEuMDFjLjM5LS40OC0uMDUtLjg2LS4yLTEuMjZj LS4yMS0uNTItNy45NC01Ljk4LTcuOTQtNS45OGwtLjMxLTEuNzVzMy45MiAxLjU1IDYuMDggMi45 OWMyLjE3IDEuNDQgNS44NCAzLjY5IDcuMzMgMy41YzEuNTQtLjIgMS43NC0uNzcgMS44OC0uOTdj Ljc5LTEuMDktLjc2LTMuMTUtLjc2LTMuMTVzMS4zNC0uODIgMy45Mi0uNzJzMTQuMzMgMS42NSAx OS44LTMuMmMzLjI1LTIuODggNC4wNi01LjE4IDQuMTgtNi41N2MuMDgtLjk1LjE5LTEuNDkuMTkt MS40OXM3LjkxLjk0IDExLjEtMy43czMuODItMTEuMTQgMi4wNi0xNC4xM2MtMS43NS0yLjk5LTMu NzEtNS41Ny0zLjcxLTUuNTdzLS40LTIuNjEtMi44NC00LjI0Yy0yLjU4LTEuNzMtNi4yNC0yLjU2 LTYuMjQtMi41NmwtNTkuOCAxLjk3eiIgZmlsbD0iI2ZmYTcyNiI+PC9wYXRoPjxwYXRoIGQ9Ik03 Ny42MiAxMDIuNjFzMy4zLTEuMjQgNS4xNi0yLjI3YzIuMDMtMS4xMyAzLjcxLTIuNTggNC42NC0x Ljc1Yy45My44Mi0uNjEgMi43My0yLjg5IDMuM2MtMy4zLjgyLTYuOTEuNzItNi45MS43MnoiIGZp bGw9IiNmNmY2ZjYiPjwvcGF0aD48cGF0aCBkPSJNMzIuMiA5NC40NWMtLjA4LjEzLjg5IDEuODIg Mi43MSAzLjAxYzEuNTcgMS4wMiAzLjE4IDEuNyAzLjM5IDEuMTljLjE3LS40Mi0uMjUtLjU1LTEu MDYtMS4zNmMtLjU2LS41Ni0uOTMtMS4zMS0uOTMtMS4zMXMtLjkzIDAtMS45OS0uMzhjLTEuMjUt LjQ1LTIuMTItMS4xNS0yLjEyLTEuMTV6IiBmaWxsPSIjZjZmNmY2Ij48L3BhdGg+PHBhdGggZD0i TTY5LjE4IDc5LjA0Yy4wOC4xMyAxLjg2IDIuNSA0LjQ0IDIuMzJzNC44OC0zLjI0IDQuODgtMy4y NHMtNi44Ny0xLjA3LTYuOTItLjk3Yy0uMDUuMTEtMi40IDEuODktMi40IDEuODl6IiBmaWxsPSIj ZjdkZjkyIj48L3BhdGg+PHBhdGggZD0iTTEwMy42NSA3Ni40N3MxLjc0LTMuNDQtLjg3LTUuNzFj LTIuNjEtMi4yOC01LjYyLTIuNDItNS42Mi0yLjQybC00LjAyIDIuMjNzNC4xNi4xOSA2IDEuMTZz Mi4zNyAyLjI4IDEuODQgMi44MWMtLjUzLjUzLTIuNDUtLjY0LTUuNi0uNjRjLTMuMTUgMC00LjQ3 Ljc0LTQuNDcuNzRsLjI5IDIuNzFzNy4yNi0uODIgMTAuMjIgMi4wOGMyLjk1IDIuOSAzLjY3IDku MzktMi4zNyAxMS4yM2MtNi4wNSAxLjg0LTEyLjItNS4yOC0xOS40MS00LjE2Yy02LjMxLjk3LTgu NjcgOC40Mi04LjY3IDguNDJzMy4yOS0zLjc4IDguNTItNS4xOGMzLjgzLTEuMDMgMTAuMTIgMi44 MSAxMC4xMiAyLjgxbC0zLjg3LjI5cy0zLjE2LTIuMjItNy4zNi0uNzdjLTQuNjUgMS42LTguNDcg Ny40Ni0xNS4yIDguNjJjLTUuMTMuODktMTEuOTEtLjM0LTE3LjA5LTMuNzNzLTkuMTctOS40My05 Ljg4LTEwLjdjLS40OC0uODctMS4yLTIuMTktLjU5LTIuNjFjLjYzLS40NCAxLjM3IDEuMiAyLjE5 IDIuMjdjLjgxIDEuMDUgOS4wOSAxMy41OCAyMi45IDEyLjQ5YzE0LjE0LTEuMTEgOS0xMi44MyA5 LTEyLjgzczMuMzYgMS4wNCA2LjU3LjE1YzQuODUtMS4zNSA2Ljg0LTUuNDIgNi44NC01LjQybC0z LjI0LS41M3MtMi45IDMuMzktNi43MyAzLjFjLTMuODItLjI5LTUuOTEtMy4xNS01LjkxLTMuMTVs LTMuMTUgMS4yNmwyLjE4IDIuNDJzLTIuNDItLjczLTQuNi0uMTVjLTIuMTguNTgtMy40MyAxLjc2 LTIuNTIgMy4xYy44MiAxLjIxIDIuODctLjA5IDMuNDktLjI5YzEuMDItLjM0IDMuNzMtLjE5IDQu NjUgMi4yM2MuOTIgMi40Mi4yOSA2LjQ0LTUuNDcgNy4wN2MtNS43Ni42My0xMi45My0xLjg5LTE4 LjAxLTYuNThzLTQuNDQtNi43Ni03LjU4LTguNDhjLTIuODgtMS41Ny00LjM5LjUyLTQuMjMgMy4w NWMuMTcgMi44IDIuNTIgNi43MyAyLjUyIDYuNzNzLTMuOTctMy00LjctNy4wMnMwLTUuOTUgMi4w My02LjA1YzIuMDMtLjEgMi4yMyAxLjIxIDIuNzYuNjhjLjUzLS41My0yLjEzLTQuMjEtNS44MS0y LjAzYy0zLjU3IDIuMTEtMi4wMSA3Ljk1LTEuNTggOS41Yy42MiAyLjI3IDIuODQgNi41MiA1Ljk5 IDcuNzhjMi4zMS45MiAzLjE1LjI0IDMuMTUuMjRzNC4xNiA0Ljc5IDguMDQgNy4wN2MzLjg3IDIu MjggMTAuNDYgNC44NCAxNC43NyA3LjAyYzQuMzEgMi4xOCA3LjMxIDQuNSA4LjM4IDQuODRjMS4w Ny4zNCAyLjQ3LTEuMTEgMS4zNi0yLjYxYy0xLjExLTEuNS0yLjQyLTIuMTgtMy4zNC0yLjgxYy0u OTItLjYzLTQuMDItMi4xOC00LjAyLTIuMThzMS44NC4yNCAzLjM5LjE1YzEuNTUtLjEgMi4xMy0u MzQgMi4xMy0uMzRzLS4wNSAyLjAzIDEuNjUgMi4zN2MxLjY5LjM0IDMuNTUtLjQ5IDYuNDQtLjE1 YzQuNDUuNTMgMTMuOC41OCAxNy4zNC00Ljg5YzMuNTItNS40NS0uMTgtNy44Ni0uMTgtNy44NnM5 LjIzIDIuNTggMTMuMzUtNC4wNWM0LjI1LTYuOTEtMi4wMi0xMy4yOC0yLjAyLTEzLjI4ek03Ni4z OCA5NS45M2MzLjE1LTIuMTEgNS41LTEuNTIgNS41LTEuNTJzLTIuMTUgMS42NC01LjA0IDMuMjNj LTMgMS42NS01LjQ4IDIuMTctNS40OCAyLjE3Yy4zNC0uMTUgMy4xMS0yLjYgNS4wMi0zLjg4em04 Ljc1IDYuODhjLTUuNiAxLjY4LTEyLjQyLjAzLTEyLjQyLjAzczUuNDUtMS44NCA4LjQ0LTQuMDRj My0yLjIgNy40Ny00LjQgOS4xOC0yLjI2YzEuNTYgMS45Ni0yLjA3IDUuMzMtNS4yIDYuMjd6IiBm aWxsPSIjZjdkZjkyIj48L3BhdGg+PHBhdGggZD0iTTgwLjU1IDg0Ljg2Yy0uMDQuMTggMy4zLS4y NyA2LjkzIDEuMjFjMy42MyAxLjQ3IDExLjI5IDUuNzIgMTMuNzQuNzdjMi4yNC00LjU0LTEuMzUt Ny4zLTQuNzctNy42NWMtMi4zOS0uMjUtNC4yLS4yOS01LjE2LjE3Yy0xLjI0LjU5LTEuMzMgMi41 OS42MiAyLjU2YzEuOTUtLjAzIDYuOTMtLjY2IDYuMDEgMi44OWMtLjc3IDIuOTgtNi45LTEtOS41 OC0xLjc0Yy00LjMyLTEuMTktNy41Ni43Ni03Ljc5IDEuNzl6IiBmaWxsPSIjZjdkZjkyIj48L3Bh dGg+PHBhdGggZD0iTTk1LjQ5IDk1LjQ2Yy4yMy4zNi4zNy44OS40MSAxLjE5Yy4wOC41My4wNCAx LjIuMDQgMS4yM2MuMDIuMjUgMTEuMjcgMi4yIDE0Ljc1LTcuOTFjMi4wNy02LjAxLS40MS0xMS40 MS0xLjY2LTEzLjI3Yy0xLjI0LTEuODctMy4wNC0zLjk0LTMuNDYtMy44Yy0uNDEuMTQuMDkgMi42 MS45NyA0LjE1YzEuMTggMi4wNyA0LjA0IDcuODYgMS4zOCAxMi43MmMtNC4xMyA3LjU5LTEyLjQz IDUuNjktMTIuNDMgNS42OXoiIGZpbGw9IiNmN2RmOTIiPjwvcGF0aD48cGF0aCBkPSJNMzkuNzUg NzEuNTljLjA0LjkxIDEuNDYgNC4zNCA1Ljg0IDEwLjA0YzIuOTMgMy44MSA2Ljg4IDUuODcgOS4w MiA2LjFjMi4zNy4yNiAyLjQ1LTIuNTIuNTUtMy4yNWMtMS45LS43My0zLjk2LTEuODgtNS4zNy0z LjE4Yy0yLjk2LTIuNzQtNC42NC02LjI0LTQuNjQtNi4yNGwtMi43Ny0zLjFsLTIuNjMtLjM3eiIg ZmlsbD0iI2Y3ZGY5MiI+PC9wYXRoPjxwYXRoIGQ9Ik01NS42MiA4OS42MWMtMy42Mi0uNy04LjI4 LTIuNDUtMTIuODgtOS41NWMtNC42LTcuMS02LjIyLTEwLjQ4LTkuODktMTEuMTdzLTkuMDEgMS40 Mi0xMS4yMSA3Ljg4Yy0xLjQ2IDQuMjktLjczIDE1Ljc3IDcuNDkgMjIuODJzMTAuOTcgNS42OCAx Mi4xOSA0LjM2Yy44NS0uOTIuNjktMi4zNS42OS0yLjM1czEuNjYgMi4yIDUuMTkgNC40NmMyLjIg MS40MSA1LjMyIDMuMDIgNy4xNSA0LjU1YzIuNzQgMi4zIDQuMDIgMy45NyA1LjYzIDQuN2MxLjQ3 LjY3IDMuMDQtLjI0IDIuMDEtMS43MWMtMS4wMy0xLjQ3LTMuMTgtMy4zOC01LjE0LTUuMDljLTEu NDEtMS4yMy0zLjU5LTIuNDUtMy41OS0yLjQ1cy0yLjU4LS44OC01LjQ3LTIuMmMtNC43LTIuMTUt Ny44NC01LjA5LTguMTMtNS4xOWMtLjI1LS4wOC4xNSAyLjc0LTEuOTEgMi41NWMtMi4wNi0uMi04 LjQ3LTQuOTUtMTEuMTItMTAuMTljLTIuMy00LjU1LTMuMDctMTAuOTYtMS40NC0xNC4zMmMxLjk4 LTQuMSA1LjQxLTQuMTYgNy4xNy0zLjljMi4zLjM0IDMuNzIgMy4xOCA1LjM5IDUuNjNzNy44NyAx My4xNyAxNi43IDE0Ljg0YzkuNiAxLjgxIDExLjUxLTMuODcgMTAuMTQtNC41MXMtMy4zOSAxLjky LTguOTcuODR6IiBmaWxsPSIjZjdkZjkyIj48L3BhdGg+PHBhdGggZD0iTTM4LjkxIDYyLjRzLTcu MjggMi4zMy03LjQyIDYuMDVjLS4wOSAyLjMgNS43MiAzLjU4IDkuNTMgNS42MWMzLjggMi4wNCA2 Ljk1IDYuNzUgMTIuNDggOC4xM2M1LjcgMS40MSAxMC4xNC0uNzcgMTIuNTMtMS4zOWMyLjM5LS42 MiA1Ljg4LTEuODUgOC42Mi0xLjQ1YzIuNzQuNCA3LjU1IDEuODUgMTEuMzYgMS4wMWMzLjgtLjg0 IDYuMS0yLjg3IDcuNDQtNS40MmMxLjA3LTIuMDMgMS4yNC00LjE0IDEuMjQtNC4xNHMzLjk4LTEu NTEgNC4yNC00LjEyYy4zNC0zLjM2LTUuMjItNS4xLTUuMjItNS4xbC01NC44LjgyeiIgZmlsbD0i I2JjMmExNiI+PC9wYXRoPjxwYXRoIGQ9Ik0zNS40IDYzLjkyYy4wNy40NyAyLjg0IDEuMjggNS42 NyAxLjIxYzIuODMtLjA3IDUuMTUuNTQgNi41IDIuMDljMS4zNSAxLjU1IDEuMjkgNS45IDYuNjYg Ny44NWM1LjcxIDIuMDggMTIuOTQtMS45NCAxOS4yMS0yLjI4czguMiAxLjM2IDEyLjM4LS42NmM0 LjE4LTIuMDIgNC4wNC02LjI3IDUuMTktNy44MmMxLjE1LTEuNTUgMi44My0yLjcgMi44My0yLjdz LTMuMjUtMS4xNy01LjYxLTIuNTJjLTIuMzYtMS4zNS01LjIyLTMuNTMtNy40Ny00LjUyYy0yLjM2 LTEuMDQtNC4zMi0xLjUxLTUuNDUtMS45MmMtLjY3LS4yNS00LjQxLTIuNi04LjM5LTIuNDZjLTMu OTguMTMtOS4yIDIuMDYtMTAuOTYgMi43M2MtMS43NS42Ny02LjYxLjc0LTkuODQgMy43MXMtMy4y MiA0LjEtNi4yNiA1LjIzYy0yLjE3LjgxLTQuNDYgMi4wNi00LjQ2IDIuMDZ6IiBmaWxsPSIjZGM0 ZTIwIj48L3BhdGg+PHBhdGggZD0iTTc1LjQgNjVjLS4xNSAxLjYxIDEuMDkgMy4yMiAzLjUyIDMu MjJjMi41MSAwIDMuNTItMi4wMSAzLjIyLTMuNDdjLS4zNi0xLjc0LTEuODUtMi41Mi0zLjc3LTIu NDZjLTEuNTYuMDUtMi44MyAxLjE1LTIuOTcgMi43MXoiIGZpbGw9IiNiYzJhMTYiPjwvcGF0aD48 cGF0aCBkPSJNNzEuNDggNjguMjdjLTEuMjYuNTUtMS40NyAxLjk4LTEuMTYgMi42MWMuMzUuNyAx LjE2IDEuMTYgMi40Ni45NWMuOC0uMTIgMi4wMS0xLjI0IDEuNjYtMi40MWMtLjQtMS4zNS0xLjc4 LTEuNjctMi45Ni0xLjE1eiIgZmlsbD0iI2JjMmExNiI+PC9wYXRoPjxwYXRoIGQ9Ik00Ni40IDYy Ljg5Yy4yMyAyIDIuMjYgMy4zNyA1LjMzIDIuMDFjMy4zLTEuNDYgMi44MS00LjEyIDEuNzEtNS40 OGMtMS4xMS0xLjM2LTMuMTgtMS4yOS00LjUyLS43Yy0xLjYyLjctMi44MiAxLjU2LTIuNTIgNC4x N3oiIGZpbGw9IiNiYzJhMTYiPjwvcGF0aD48cGF0aCBkPSJNNjAuMTggMjIuNzJjLTEuMDcgMS45 Mi0uNTYgMi45Mi0uMzEgNS45OXMuODUgOC43NS44NSA4Ljc1cy0xLjI1LS4xMi0xLjE4LjkxYy4w NyAxLjAzIDQuOTQgMTkuMzUgNC43MyAxOS40MmMtLjIxLjA3LS45OSA3LjYyLS40OSA3Ljg4Yy4w MSAwIC43Ni41IDEuODItLjc3YzEuMTYtMS40LjczLTcuNDUuMjUtMTAuNTRzLTEuOC03LjAxLTIu NTQtOS4yNmMtLjc5LTIuNDMtLjY4LTMuOTQtLjY4LTMuOTRzLjQyLS4zMy42OS0uNTRjLjI3LS4y MS41Ni0uNzEuNTYtLjcxcy0uMiAyLjYuOCA2LjQ3Yy41MiAyLjAyIDEuOTkgNS40MyAyLjUxIDgu OTFjLjczIDQuOTMtLjE0IDguMTYuMzIgOC44NGMuNzkgMS4xNiAyLjIxLjE2IDIuODEtMi41NWMu MzctMS42NS0uMjctOC41Ny0xLjU0LTExLjg4cy0xLjY4LTUuNDYtMS44OS03LjE4Yy0uMTQtMS4x MS4wNC0yLjgyLjA0LTIuODJzLjQ0LjY2IDEuMjkuNTFjLjY3LS4xMiAxLjExLS43NCAxLjExLS43 NGwtMS41MS0yLjMzbC0xLjcuMjZzLS44OS0xLjM5LTEuMDgtMi42M3MtLjczLTYuMS0uODktNi4y NWMtLjE1LS4xNS0yLjQ3LTQuNzgtMi40Ny00Ljc4bC0xLjUtMS4wMnoiIGZpbGw9IiNmYmMxMWEi PjwvcGF0aD48cGF0aCBkPSJNNTEuNyAyNi4xNnMtLjYzLS43NS0xLjg4LjE0Yy0uNzYuNTQtLjYx IDEuOTctLjQ5IDMuNzRjLjExIDEuNTcuNTYgNC42IDEuMTMgNi4yNGMuODQgMi40MiAzLjExIDQu OCA1LjAzIDQuNzRjMS45Mi0uMDYtLjU5LTIuNDYtMS43OS01LjkyYy0uOTMtMi42OS0xLjE4LTYu MS0xLjMtNi4zN2MtLjEyLS4yNi0uNy0yLjU3LS43LTIuNTd6IiBmaWxsPSIjZmJjMTFhIj48L3Bh dGg+PHBhdGggZD0iTTQyLjc5IDMxLjE4Yy4wOC40OS42MSAxLjQ5IDEuNzggMS4zMWMxLjE1LS4x NyAyMS4wMi00LjgyIDIxLjAyLTQuODJsLS44Ni0yLjE2cy0xNC42NiAzLjc1LTE1LjUyIDQuMDFj LS44NS4yNi01LjU1IDEuMjctNS44NiAxLjQxYy0uNDEuMTktLjU2LjI1LS41Ni4yNXoiIGZpbGw9 IiNhZGFkYWQiPjwvcGF0aD48cGF0aCBkPSJNNDMuMjcgMzQuMjFzLS4wNy4xNS4yOC44Yy4xNC4y Ny40Ny43MiAxLjUxLjU3Yy43NC0uMTEgMjIuODMtMy41MyAyMi44My0zLjUzbC0uMTktMS43NGwt MS0uODlsLTIzLjQzIDQuNzl6IiBmaWxsPSIjYWRhZGFkIj48L3BhdGg+PHBhdGggZD0iTTQ0LjM2 IDM3Ljcxcy0uMDUuODQuNzggMS4xMmMxLjE1LjM5IDE5Ljc3LTEuMjUgMjIuOTYtMS43YzMuMTkt LjQ1IDguNDMtMS40OCAxMi45NS00LjQyczYuMDUtOS4wOSA2LjktMTEuMTRjLjg1LTIuMDQgMy45 My02LjI0IDguMTMtNy40MmM0LjE5LTEuMTkgMTMuNjYtMy40OSAxNy43OC00LjI3czYuMDUtMS40 MSA2Ljk0LTIuNDlzLjcxLTIuNzUuNzEtMi43NXMtMTMuMDMgMi4wOC0xMy40IDIuMjZjLS4zNy4x OS0xNS40NCA0LjgzLTE1LjQ0IDQuODNsLTkuMzUgOS4yMUw3MC43IDMzLjA5cy03LjM1IDIuMTUt Ny41IDIuMTljLS4xNC4wMy0xOC44NCAyLjQzLTE4Ljg0IDIuNDN6IiBmaWxsPSIjYWRhZGFkIj48 L3BhdGg+PHBhdGggZD0iTTExNy41NCAzLjI2YzEuNDItLjI2IDMuMjUtLjQ0IDMuNzMuMzFjLjQ4 Ljc0LjIgMS42MS4yIDEuNjFzLTEzLjIxIDMuNC0xNi44NyA0LjI3cy0xMC44MSAzLjMxLTEyLjQy IDQuMjNjLTEuNjEuOTItMy44OCAzLjA5LTUuMzYgNS4yN3MtMy40IDguMDItNi4wMSAxMC44MXMt OC43NiA1LjEtMTMuNTUgNi4wMXMtMjIuODEgMi4zOS0yMi44MSAyLjM5cy0uNDEtMS4wOC0uMDEt MS4yNmMuMzktLjE3IDMuNzUtLjQ4IDMuNzUtLjQ4bDE3Ljg3LTIuNDhjLjU3LS4wOSAxLjM1LS41 MiAxLjMxLTEuMjJjLS4wNC0uNy0uMDctMS42NS0xLjA3LTEuN2MtMS0uMDQtMjEuNyAzLjkxLTIy LjQ4IDMuODVjLS41OC0uMDQtLjc3LTEuMTUtLjI3LTEuMjljLjUtLjE0IDIxLjgyLTQuMzkgMjIu MTctNC42NmMuMzUtLjI2LS40NC0yLjIyLS45Ni0yLjM1Yy0uNTItLjEzLTIwLjgyIDUtMjEuMzEg NS4xMWMtLjUuMTEtMS4wNS0uODgtLjMtMS4zMmMuNzQtLjQ0IDExLjQyLTMuMTQgMTMuMjUtMy42 NnMxNS4wOC0zLjUzIDE4LjMxLTQuMzZjMy4yMy0uODMgNi4yOC0yLjUzIDcuNzEtNC4wMWMxLjQ0 LTEuNDggNS4yNy01LjA2IDcuNTgtNi4yOGMyLjMxLTEuMjIgMTAuMDQtNC42NiAxNi41Mi02LjMy YzUuNzctMS40NiA5LjYtMi4yIDExLjAyLTIuNDd6IiBmaWxsPSIjZDBkMGQyIj48L3BhdGg+PHBh dGggZD0iTTY3LjA1IDIyLjQ0bC0xLjU3LjY1bDIuODggNS4yN2wuNjEgNi44NWwtLjA5IDMuMjJz Mi40LjU3IDIuNC4yNnMuNDQtNy40NS4zOS03LjU4Yy0uMDQtLjEzLTEuMTMtNi4xOS0xLjMxLTYu MzJjLS4xNy0uMTMtMy4zMS0yLjM1LTMuMzEtMi4zNXoiIGZpbGw9IiNmZmE3MjQiPjwvcGF0aD48 cGF0aCBkPSJNNTEuNDUgMzEuMThjLjAzLjI2LjEzIDEuMDYgMS4yOCAxLjAyYzEuMTUtLjAzIDEu MTgtLjkzIDEuMTUtMS43NmMtLjAzLS44My0uMTktMi42My0uMTktMi45NXMtLjA2LTEuMDkuNDUt MS4wOWMuOTEgMCAxLjc4IDIuMzMgMi4wOCA1Ljk1Yy4zNiA0LjM1LS4xNSA1LjU4LS45OSA1Ljky Yy0uNTQuMjItLjczLjE1LTEuMjkuNjVjLS4zNC4zLS4wOCAxLjU2LjgxIDIuMDFjLjMyLjE2Ljk5 LjIyIDEuNTMuMTZjMi40MS0uMjcgMi44Mi01LjA3IDIuNTktOC4yN2MtLjM4LTUuMjMtMS4wNy02 LjE3LTIuMTEtNy41N2MtMS40MS0xLjg5LTMuMy0xLjU3LTQuMjMtMS4wNmMtLjkzLjUxLTEuMzkg MS42OC0xLjMyIDMuMjljLjA5IDEuNjQuMjQgMy43LjI0IDMuN3oiIGZpbGw9IiNmY2MwMWUiPjwv cGF0aD48cGF0aCBkPSJNNTMuMiAyNC4yNWMtLjEzLjU4LjQ1IDEuMDkuOSAxLjQ3Yy40NS4zOCAx LjA5IDEuMjUgMS41NCAyLjRjLjI2LjY3LjY3IDMuNDYgMi4wNSAzLjE3YzEuMzgtLjI5LjU4LTMu MzMuMS00LjM1Yy0uNDgtMS4wMi0xLjA3LTIuMjktMi40Ny0yLjk1Yy0xLjA0LS40OC0yLjAzLS4x NS0yLjEyLjI2eiIgZmlsbD0iI2ZkZGQ5YyI+PC9wYXRoPjxwYXRoIGQ9Ik02My42OCAyMC45cy0x LS4yMS0yLjIuNTNjLS42LjM3LTEuNDcgMS4yMS0xLjQ3IDEuODhjMCAuNjctLjA5LjkzLjE3IDEu MTljLjI2LjI2LjcyLjYgMS4xOCAxLjRjLjc2IDEuMyAxLjc1IDIuNzkgMi4wNCA0LjQ1Yy41MSAy Ljk5LjQ3IDUuMzgtLjMzIDYuNjJzLTEuMTEgMS4xNi0xLjExIDEuMTZsMi43NSAxLjI1cy42Ny0x LjQ0LjY0LTIuMDJzLS4xOS0xMC4zNy0uMTktMTAuMzdzMS4zMyAxLjYzIDEuNzIgMy42NHMuNjUg NC4yNi41MiA1LjIzYy0uMTQgMS4wNS0uNDMgMi4zNy0uNDMgMi4zN2wyLjUzIDEuMzlzLjQtLjM0 LjU3LTEuNjhjLjExLS44NS4wNy0zLjUxLS4yLTUuOTdjLS4xOC0xLjY3LS41Mi0yLjI0LS41Mi0y LjI0bC0zLjE3LTYuMDdsLjY0LTEuNjNsMS4yOC45OWwxLjQ1IDIuNjhsLjc2IDIuMzFzLjkgMi43 OS45IDUuMzVzLTEuMjUgNC45Ni0xLjI1IDQuOTZsLTEuNDcgMS44NnMtLjMyIDEuNi45OSAxLjg5 YzEuMzEuMjkgMi40LTEuNDEgMy4xNC0zLjI3Yy4zNi0uOS45OS0yLjY3IDEuMDQtNC42N2MuMDYt Mi4xMi0uNDgtNC41LTEuMDctNi43MmMtMS4xNS00LjMyLTMuNTctNS43MS01LjA0LTYuNjdjLTEu NDgtLjk2LTMuODcuMTYtMy44Ny4xNnoiIGZpbGw9IiNmYmMxMWEiPjwvcGF0aD48cGF0aCBkPSJN NjEuODIgMjIuMjNzLTEuMDMuMjgtMS4zNC44NWMtLjQ2Ljg1LjQ5IDEuNDkuOTMgMS45OGMuNTEu NTggMS41NiAyLjA3IDIuMTQgMy4zM2MuNjcgMS40NC44OCAzLjg1LjkgNS4xNWMuMDMgMi42Ni0u ODYgNC4yMy0uOTkgNC41MWMtLjEzLjI5LjAzLjkzLjgzIDEuMDZjLjguMTMgMS42Ny0xLjMzIDIu MTEtMy41MmMuNTgtMi44NS0uMjEtNi4xMS0uNTEtNy4xMWMtLjY2LTIuMTYtMS44Ni00LjAxLTEu NzktNC4yYy4wNi0uMTkgMS4zOC44IDIuNSAzLjU5Yy43MiAxLjggMS4xNCAzLjI1IDEuMjcgMy42 NWMuMjYuODMuOTYgMS4xNCAxLjUuN2MuODUtLjcuMTYtMy4zNy0uODEtNS42NWMtLjcyLTEuNjkt Mi4wOS0zLjQ0LTIuMDUtMy41M2MuMDgtLjE2IDEuNzUuNTcgMi42OSAyLjE2Yy44MyAxLjQxIDEu MjcgMi45MiAyLjIgMi44NmMuOTMtLjA2Ljk2LTIuNDQtLjQzLTQuNDVjLTEuMDQtMS41MS0yLjkz LTIuNjYtMy41Ny0yLjk0Yy0uODEtLjM2LTEuODEtLjc2LTIuNzMtLjM1Yy0uNDYuMi0uNjguNjQt LjY4LjY0cy0uNy0uMzEtMS42LjE4Yy0uNjUuMzYtLjU3IDEuMDktLjU3IDEuMDl6IiBmaWxsPSIj ZmRkZDljIj48L3BhdGg+PHBhdGggZD0iTTYxLjM4IDM4LjQ3Yy0uMTYtLjEzLTEuNS0uNTEtMS44 Mi4zMmMtLjMyLjgzLS41IDIuNjMtLjAzIDQuOWMuNzQgMy41OSAyLjY3IDguNTkgMy4zIDEyLjI2 YzEuMDIgNS45NS4wNCA4LjY0LjIyIDkuMTZjLjI5LjggMS4zMS43NyAxLjYzLjAzYy4yOS0uNjcu NTEtMi4yMS41NC00LjU4Yy4wNC0zLjE0LS4zOC02LjM0LTEuMDktOC42MWMtLjctMi4yNy0xLjg5 LTYuMzItMi40My04LjcxYy0uNjEtMi42OC0uMzItNC43Ny0uMzItNC43N3oiIGZpbGw9IiNmZGRk OWMiPjwvcGF0aD48L3N2Zz4= "/>
+ <g>
+  <path d="m190 750h40c5.52 0 10 8.95 10 20s-4.48 20-10 20h-40c-5.52 0-10-8.95-10-20s4.48-20 10-20z" fill="#ff4040" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <text x="210" y="776.40002" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="210" y="776.40002"/></text>
+ </g>
+ <g>
+  <polygon points="210 560 180 530 210 500 240 530" fill="#ff0" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <text x="210" y="535.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="210" y="535.70001"/></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="210" x2="210" y1="451" y2="489" fill="none"/>
+  <polygon points="210 489 215 487 210 497 205 487" fill-rule="evenodd"/>
+ </g>
+ <g>
+  <path d="m190 290h40c5.52 0 10 8.95 10 20s-4.48 20-10 20h-40c-5.52 0-10-8.95-10-20s4.48-20 10-20z" fill="#90ee90" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <text x="210" y="316.39999" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="210" y="316.39999"/></text>
+ </g>
+ <g>
+  <rect x="180" y="350" width="60" height="40" rx="0" ry="0" fill="#bfbfbf" stroke="#000" stroke-width="2"/>
+  <text x="210" y="375.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="210" y="375.70001"/></text>
+ </g>
+ <g>
+  <rect x="180" y="410" width="60" height="40" rx="0" ry="0" fill="#bfbfbf" stroke="#000" stroke-width="2"/>
+  <text x="210" y="435.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="210" y="435.70001"/></text>
+ </g>
+ <g>
+  <rect x="260" y="510" width="60" height="40" rx="0" ry="0" fill="#bfbfbf" stroke="#000" stroke-width="2"/>
+  <text x="290" y="535.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="290" y="535.70001"/></text>
+ </g>
+ <g>
+  <rect x="370" y="510" width="60" height="40" rx="0" ry="0" fill="#bfbfbf" stroke="#000" stroke-width="2"/>
+  <text x="400" y="535.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="400" y="535.70001"/></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="241" x2="249" y1="530" y2="530" fill="none"/>
+  <polygon points="249 530 247 525 257 530 247 535" fill-rule="evenodd"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="321" x2="359" y1="530" y2="530" fill="none"/>
+  <polygon points="359 530 357 525 367 530 357 535" fill-rule="evenodd"/>
+ </g>
+ <g>
+  <polygon points="480 560 450 530 480 500 510 530" fill="#ff0" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <text x="480" y="535.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="480" y="535.70001"/></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="431" x2="439" y1="530" y2="530" fill="none"/>
+  <polygon points="439 530 437 525 447 530 437 535" fill-rule="evenodd"/>
+ </g>
+ <g>
+  <rect x="180" y="610" width="60" height="40" rx="0" ry="0" fill="#bfbfbf" stroke="#000" stroke-width="2"/>
+  <text x="210" y="635.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="210" y="635.70001"/></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="210" x2="210" y1="561" y2="599" fill="none"/>
+  <polygon points="210 599 215 597 210 607 205 597" fill-rule="evenodd"/>
+ </g>
+ <g>
+  <polygon points="210 730 180 700 210 670 240 700" fill="#ff0" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <text x="210" y="705.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="210" y="705.70001"/></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="210" x2="210" y1="651" y2="659" fill="none"/>
+  <polygon points="210 659 215 657 210 667 205 657" fill-rule="evenodd"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="210" x2="210" y1="731" y2="739" fill="none"/>
+  <polygon points="210 739 215 737 210 747 205 737" fill-rule="evenodd"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="210" x2="210" y1="331" y2="339" fill="none"/>
+  <polygon points="210 339 215 337 210 347 205 337" fill-rule="evenodd"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="210" x2="210" y1="391" y2="399" fill="none"/>
+  <polygon points="210 399 215 397 210 407 205 397" fill-rule="evenodd"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <polyline points="241 700 340 700 340 540" fill="none"/>
+  <polygon points="340 540 335 542 340 532 345 542" fill-rule="evenodd"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <polyline points="480 499 480 470 220 470" fill="none"/>
+  <polygon points="220 470 222 475 212 470 222 465" fill-rule="evenodd"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <polyline points="480 561 480 580 220 580" fill="none"/>
+  <polygon points="220 580 222 585 212 580 222 575" fill-rule="evenodd"/>
+ </g>
+ <text x="380" y="410.52499" fill="#ff0000" font-family="sans-serif" font-size="27.1px" font-weight="700" text-anchor="middle"><tspan x="380" y="410.52499">⚠️ Spaghetti code</tspan></text>
+ <text x="380" y="440.52499" fill="#005500" font-family="sans-serif" font-size="27.1px" font-style="italic" text-anchor="middle"><tspan x="380" y="440.52499">Don't do this!</tspan></text>
 </svg>

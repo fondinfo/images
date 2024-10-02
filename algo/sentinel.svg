@@ -1,107 +1,77 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="13cm" height="20cm" viewBox="230 47 242 385" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background">
-    <g>
-      <path style="fill: #90ee90; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 290 50 L 330,50 C 335.523,50 340,58.9543 340,70 C 340,81.0457 335.523,90 330,90 L 290,90 C 284.477,90 280,81.0457 280,70 C 280,58.9543 284.477,50 290,50z"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="310" y="76.4">
-        <tspan x="310" y="76.4">Start</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #bfbfbf; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="270" y="110" width="80" height="40" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="310" y="135.7">
-        <tspan x="310" y="135.7">total = 0</tspan>
-      </text>
-    </g>
-    <g>
-      <polygon style="fill: #add8e6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" fill-rule="evenodd" points="284.559,170 350,170 335.441,210 270,210 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="310" y="195.7">
-        <tspan x="310" y="195.7">val ?</tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="310" y1="90.9912" x2="310" y2="99.2727"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="310,106.773 305,96.7727 310,99.2727 315,96.7727 "/>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="310" y1="210.977" x2="310" y2="229.264"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="310,236.764 305,226.764 310,229.264 315,226.764 "/>
-    </g>
-    <g>
-      <polygon style="fill: #ffff00; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="310,240 350,270 310,300 270,270 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="310" y="275.7">
-        <tspan x="310" y="275.7">val ≠ -1</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #bfbfbf; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="370" y="250" width="80" height="40" rx="0" ry="0"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="410" y="275.7">
-        <tspan x="410" y="275.7">total += val</tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="310" y1="150.991" x2="310" y2="159.273"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="310,166.773 305,156.773 310,159.273 315,156.773 "/>
-    </g>
-    <g>
-      <polygon style="fill: #ffc0cb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="284.559,330 350,330 335.441,370 270,370 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="310" y="355.7">
-        <tspan x="310" y="355.7">total</tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="310" y1="301" x2="310" y2="319.287"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="310,326.787 305,316.787 310,319.287 315,316.787 "/>
-    </g>
-    <g>
-      <path style="fill: #ff4040; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 290 390 L 330,390 C 335.523,390 340,398.954 340,410 C 340,421.046 335.523,430 330,430 L 290,430 C 284.477,430 280,421.046 280,410 C 280,398.954 284.477,390 290,390z"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="310" y="416.4">
-        <tspan x="310" y="416.4">Stop</tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="310" y1="370.991" x2="310" y2="379.273"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="310,386.773 305,376.773 310,379.273 315,376.773 "/>
-    </g>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="350" y="250">
-      <tspan x="350" y="250">True</tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="280" y="320">
-      <tspan x="280" y="320">False</tspan>
-    </text>
-    <g>
-      <polygon style="fill: #add8e6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" fill-rule="evenodd" points="384.559,310 450,310 435.441,350 370,350 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="410" y="335.7">
-        <tspan x="410" y="335.7">val ?</tspan>
-      </text>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="410" y1="290.991" x2="410" y2="299.273"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="410,306.773 405,296.773 410,299.273 415,296.773 "/>
-    </g>
-    <g>
-      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 470 280 C 470,260 480,220 319.736,220"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="312.236,220 322.236,215 319.736,220 322.236,225 "/>
-    </g>
-    <image x="230" y="240" width="60" height="60" xlink:href="guard.svg"/>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="351" y1="270" x2="359.444" y2="270"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="366.944,270 356.944,275 359.444,270 356.944,265 "/>
-    </g>
-    <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 443.35 330 C 463.27,330 470,310 470,280"/>
-    <image x="390" y="180" width="70" height="70" xlink:href="shopping-cart.svg"/>
-    <g transform="matrix(1.18827,0,0,1.18827,-103.333,-342.346)">
-      <ellipse style="fill: #1e90ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" cx="440" cy="456" rx="8" ry="8"/>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x1="440" y1="450" x2="440" y2="462"/>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x1="434" y1="456" x2="446" y2="456"/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13cm" height="20cm" version="1.1" viewBox="230 47 242 385" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <path d="m290 50h40c5.52 0 10 8.95 10 20s-4.48 20-10 20h-40c-5.52 0-10-8.95-10-20s4.48-20 10-20z" fill="#90ee90" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <text x="310" y="76.400002" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="310" y="76.400002">Start</tspan></text>
+ </g>
+ <g>
+  <rect x="270" y="110" width="80" height="40" rx="0" ry="0" fill="#bfbfbf" stroke="#000" stroke-width="2"/>
+  <text x="310" y="135.7" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="310" y="135.7">total = 0</tspan></text>
+ </g>
+ <g>
+  <polygon points="285 170 350 170 335 210 270 210" fill="#add8e6" fill-rule="evenodd" stroke="#000" stroke-dasharray="10" stroke-width="2"/>
+  <text x="310" y="195.7" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="310" y="195.7">val ?</tspan></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="310" x2="310" y1="91" y2="99.3" fill="none"/>
+  <polygon points="310 107 305 96.8 310 99.3 315 96.8" fill-rule="evenodd"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="310" x2="310" y1="211" y2="229" fill="none"/>
+  <polygon points="310 237 305 227 310 229 315 227" fill-rule="evenodd"/>
+ </g>
+ <g>
+  <polygon points="310 240 350 270 310 300 270 270" fill="#ff0" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <text x="310" y="275.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="310" y="275.70001">val ≠ -1</tspan></text>
+ </g>
+ <g>
+  <rect x="370" y="250" width="80" height="40" rx="0" ry="0" fill="#bfbfbf" stroke="#000" stroke-width="2"/>
+  <text x="410" y="275.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="410" y="275.70001">total += val</tspan></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="310" x2="310" y1="151" y2="159" fill="none"/>
+  <polygon points="310 167 305 157 310 159 315 157" fill-rule="evenodd"/>
+ </g>
+ <g>
+  <polygon points="285 330 350 330 335 370 270 370" fill="#ffc0cb" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <text x="310" y="355.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="310" y="355.70001">total</tspan></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="310" x2="310" y1="301" y2="319" fill="none"/>
+  <polygon points="310 327 305 317 310 319 315 317" fill-rule="evenodd"/>
+ </g>
+ <g>
+  <path d="m290 390h40c5.52 0 10 8.95 10 20s-4.48 20-10 20h-40c-5.52 0-10-8.95-10-20s4.48-20 10-20z" fill="#ff4040" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+  <text x="310" y="416.39999" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="310" y="416.39999">Stop</tspan></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="310" x2="310" y1="371" y2="379" fill="none"/>
+  <polygon points="310 387 305 377 310 379 315 377" fill-rule="evenodd"/>
+ </g>
+ <text x="350" y="250" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="350" y="250">True</tspan></text>
+ <text x="280" y="320" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="280" y="320">False</tspan></text>
+ <g>
+  <polygon points="385 310 450 310 435 350 370 350" fill="#add8e6" fill-rule="evenodd" stroke="#000" stroke-dasharray="10" stroke-width="2"/>
+  <text x="410" y="335.70001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="410" y="335.70001">val ?</tspan></text>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="410" x2="410" y1="291" y2="299" fill="none"/>
+  <polygon points="410 307 405 297 410 299 415 297" fill-rule="evenodd"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <path d="m470 280c0-20 10-60-150-60" fill="none"/>
+  <polygon points="312 220 322 215 320 220 322 225" fill-rule="evenodd"/>
+ </g>
+ <image x="230" y="240" width="60" height="60" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBBcGFj aGUuIE1hZGUgYnkgZ29vZ2xlZm9udHM6IGh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGVmb250cy9u b3RvLWVtb2ppIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0i MCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxp bms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGFyaWEtaGlkZGVuPSJ0cnVlIiByb2xl PSJpbWciIGNsYXNzPSJpY29uaWZ5IGljb25pZnktLW5vdG8iIHByZXNlcnZlQXNwZWN0UmF0aW89 InhNaWRZTWlkIG1lZXQiPgoKPHBhdGggZD0iTTEwMS4wNyAyMi41NUM5Ny4yMiA2LjE1IDc0LjUx IDQuNTQgNjQuOCA0LjM4di0uMDJoLTIuMTZ2LjAyYy05LjcxLjE2LTMxLjg4IDEuNzctMzUuNzMg MTguMTdjLTIuMzggMTAuMTItMy4yNyAzOC4xMS0yLjc5IDQzLjYzYy45NyAxMS4xMSA1LjYgMTQu NjQgMjAuMjggMTkuMDRjMTAuNzIgMy4yMSAxNi4wOCA0LjI4IDE4LjI0IDQuNjF2LjA5cy4xOS4w OCAxLjA4LjAyYy44OS4wNiAxLjA4LS4wMiAxLjA4LS4wMnYtLjA5YzIuMTYtLjMzIDgtMS40IDE4 LjcyLTQuNjFjMTQuNjgtNC40IDE5LjUtNy45MyAyMC40Ny0xOS4wNGMuNDgtNS41My0uNTQtMzMu NTEtMi45Mi00My42M3oiIGZpbGw9IiM0MjQyNDIiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTk2LjYg NzcuNTJjLTEuNDYtMi40MS0uMjktNC44MiAxLjgtNy43M2MzLjIyLTQuNSA1LjczLTE0LjMyLjU5 LTIzLjUyYy4wMS0uMDUtLjkzLTEuNTMtLjkyLTEuNThsLTEuNDctLjA3Yy0uNDgtLjA3LTE2LjUz LS4xLTMyLjU5LS4xcy0zMi4xMS4wMy0zMi41OS4xYzAgMC0yLjQxIDEuNi0yLjQgMS42NWMtNS4x NCA5LjIxLTIuNjMgMTkuMDMuNTkgMjMuNTJjMi4wOSAyLjkyIDMuMjUgNS4zMiAxLjggNy43M2Mt MS40NCAyLjM4LTQuODkgMi43NC00Ljg5IDIuNzRzLjQzIDIuNDkgMi4xNiAzLjg2YzEuNjEgMS4y NyAzLjc3IDEuNTcgNS4yOCAxLjYyYzAgMCA1LjAyIDEwLjA3IDIxLjEgMTAuMDdoMTcuODljMTYu MDggMCAyMS4xLTEwLjA3IDIxLjEtMTAuMDdjMS41MS0uMDQgMy42Ny0uMzQgNS4yOC0xLjYyYzEu NzMtMS4zNiAyLjE2LTMuODYgMi4xNi0zLjg2cy0zLjQ1LS4zNi00Ljg5LTIuNzR6IiBmaWxsPSIj NTQzOTMwIj4KCjwvcGF0aD4KCjxyYWRpYWxHcmFkaWVudCBpZD0iSWNvbmlmeUlkMTdlY2RiMjkw NGQxNzhlYWI4OTk0IiBjeD0iMTAwLjE2OCIgY3k9IjQ3LjA4NiIgcj0iMjQuODk4IiBncmFkaWVu dFRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIC40OTEyIC0yMi4xMTUgNTYuNzQ5KSIgZ3JhZGllbnRV bml0cz0idXNlclNwYWNlT25Vc2UiPgoKPHN0b3Agb2Zmc2V0PSIuNzI4IiBzdG9wLWNvbG9yPSIj NmQ0YzQxIiBzdG9wLW9wYWNpdHk9IjAiPgoKPC9zdG9wPgoKPHN0b3Agb2Zmc2V0PSIxIiBzdG9w LWNvbG9yPSIjNmQ0YzQxIj4KCjwvc3RvcD4KCjwvcmFkaWFsR3JhZGllbnQ+Cgo8cGF0aCBkPSJN NjMuOTkgOTUuNzlWODQuNjdsMjcuMTctMi41M2wyLjg4IDMuNTlTODkuMDIgOTUuOCA3Mi45NCA5 NS44bC04Ljk1LS4wMXoiIGZpbGw9InVybCgjSWNvbmlmeUlkMTdlY2RiMjkwNGQxNzhlYWI4OTk0 KSI+Cgo8L3BhdGg+Cgo8cmFkaWFsR3JhZGllbnQgaWQ9Ikljb25pZnlJZDE3ZWNkYjI5MDRkMTc4 ZWFiODk5NSIgY3g9IjgwLjIyOCIgY3k9IjU0LjQwOCIgcj0iNi45OTUiIGdyYWRpZW50VHJhbnNm b3JtPSJtYXRyaXgoLS45MDU3IC40MjM4IC0uMzE0NCAtLjY3MTkgMTg5LjI0NyA3OC45MzcpIiBn cmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+Cgo8c3RvcCBvZmZzZXQ9Ii42NjMiIHN0b3At Y29sb3I9IiM2ZDRjNDEiPgoKPC9zdG9wPgoKPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIj NmQ0YzQxIiBzdG9wLW9wYWNpdHk9IjAiPgoKPC9zdG9wPgoKPC9yYWRpYWxHcmFkaWVudD4KCjxw YXRoIGQ9Ik05My40NSA4MS4xMWMtNC43My02Ljk2IDMuNy05LjQ3IDMuNy05LjQ3bC4wMS4wMWMt MS4yNCAyLjExLTEuNyAzLjk5LS41NyA1Ljg3YzEuNDQgMi4zOCA0Ljg5IDIuNzQgNC44OSAyLjc0 cy00LjAzIDQuODUtOC4wMy44NXoiIGZpbGw9InVybCgjSWNvbmlmeUlkMTdlY2RiMjkwNGQxNzhl YWI4OTk1KSI+Cgo8L3BhdGg+Cgo8cmFkaWFsR3JhZGllbnQgaWQ9Ikljb25pZnlJZDE3ZWNkYjI5 MDRkMTc4ZWFiODk5NiIgY3g9IjUxLjk2OSIgY3k9IjQ3LjA4NiIgcj0iMjQuODk4IiBncmFkaWVu dFRyYW5zZm9ybT0ibWF0cml4KC0xIDAgMCAuNDkxMiAxMDEuOTM3IDU2Ljc0OSkiIGdyYWRpZW50 VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KCjxzdG9wIG9mZnNldD0iLjcyOCIgc3RvcC1jb2xvcj0i IzZkNGM0MSIgc3RvcC1vcGFjaXR5PSIwIj4KCjwvc3RvcD4KCjxzdG9wIG9mZnNldD0iMSIgc3Rv cC1jb2xvcj0iIzZkNGM0MSI+Cgo8L3N0b3A+Cgo8L3JhZGlhbEdyYWRpZW50PgoKPHBhdGggZD0i TTY0LjAzIDk1Ljc5Vjg0LjY3bC0yNy4xNy0yLjUzbC0yLjg4IDMuNTlTMzkgOTUuOCA1NS4wOCA5 NS44bDguOTUtLjAxeiIgZmlsbD0idXJsKCNJY29uaWZ5SWQxN2VjZGIyOTA0ZDE3OGVhYjg5OTYp Ij4KCjwvcGF0aD4KCjxyYWRpYWxHcmFkaWVudCBpZD0iSWNvbmlmeUlkMTdlY2RiMjkwNGQxNzhl YWI4OTk3IiBjeD0iMjguMjE2IiBjeT0iNTMuMjY2IiByPSI2Ljk5NSIgZ3JhZGllbnRUcmFuc2Zv cm09Im1hdHJpeCguOTA1NyAuNDIzOCAuMzE0NCAtLjY3MTkgLTEzLjc1NyAxMDAuMjEzKSIgZ3Jh ZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgoKPHN0b3Agb2Zmc2V0PSIuNjYzIiBzdG9wLWNv bG9yPSIjNmQ0YzQxIj4KCjwvc3RvcD4KCjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzZk NGM0MSIgc3RvcC1vcGFjaXR5PSIwIj4KCjwvc3RvcD4KCjwvcmFkaWFsR3JhZGllbnQ+Cgo8cGF0 aCBkPSJNMzQuNTcgODEuMTFjNC43My02Ljk2LTMuNy05LjQ3LTMuNy05LjQ3bC0uMDEuMDFjMS4y NCAyLjExIDEuNyAzLjk5LjU3IDUuODdjLTEuNDQgMi4zOC00Ljg5IDIuNzQtNC44OSAyLjc0czQu MDMgNC44NSA4LjAzLjg1eiIgZmlsbD0idXJsKCNJY29uaWZ5SWQxN2VjZGIyOTA0ZDE3OGVhYjg5 OTcpIj4KCjwvcGF0aD4KCjxnPgoKPGxpbmVhckdyYWRpZW50IGlkPSJJY29uaWZ5SWQxN2VjZGIy OTA0ZDE3OGVhYjg5OTgiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iNjQiIHkx PSIzOC4wMDMiIHgyPSI2NCIgeTI9IjMuNzY2IiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDEg MCAwIC0xIDAgMTMwKSI+Cgo8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmNDQzMzYiPgoK PC9zdG9wPgoKPHN0b3Agb2Zmc2V0PSIuMzU5IiBzdG9wLWNvbG9yPSIjZTczYjMyIj4KCjwvc3Rv cD4KCjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2M2MjgyOCI+Cgo8L3N0b3A+Cgo8L2xp bmVhckdyYWRpZW50PgoKPHBhdGggZD0iTTY0LjE0IDk2SDY0Yy0yNS42NS4wMy01MiA3LjEtNTIg MjQuOTlWMTI0aDEwNHYtMy4wMUMxMTYgMTA0LjEzIDg5LjkgOTYgNjQuMTQgOTZ6IiBmaWxsPSJ1 cmwoI0ljb25pZnlJZDE3ZWNkYjI5MDRkMTc4ZWFiODk5OCkiPgoKPC9wYXRoPgoKPHBhdGggZD0i TTY2IDEyNHYtMTcuMmMwLS41NS0uOS0xLTItMXMtMiAuNDUtMiAxVjEyNGg0eiIgZmlsbD0iI2Zm ZmZmZiI+Cgo8L3BhdGg+Cgo8Y2lyY2xlIGN4PSI3NC4xIiBjeT0iMTE4LjI0IiByPSIzIiBmaWxs PSIjZmZmZmZmIj4KCjwvY2lyY2xlPgoKPHBhdGggZD0iTTQ2LjczIDkwLjc4Yy0uNzQgMC0xLjUy LjA5LTIuMzQuM2MtNS4xMiAxLjI4LTE1LjQ1IDMuMzQtMjAuMTEgMy4zNGMtLjE5IDAtLjM4IDAt LjU1LS4wMXMtLjM0LS4wMS0uNTEtLjAxYy03LjQyIDAtOS41MiA3LjEyLTcuMzIgMTAuNTFjMS44 NiAyLjg3IDQuODYgMy45MyA4LjM2IDMuOTNjOC4wOCAwIDE4LjgxLTUuNzIgMjQuMTQtOC4xYzYu OTktMy4xMiA0LjU0LTkuOTYtMS42Ny05Ljk2eiIgZmlsbD0iIzQwNDA0MCI+Cgo8L3BhdGg+Cgo8 cGF0aCBkPSJNMTA0Ljc5IDk0LjQxYy0uMTcgMC0uMzQgMC0uNTEuMDFjLS4xNy4wMS0uMzYuMDEt LjU1LjAxYy00LjY2IDAtMTQuOTktMi4wNi0yMC4xMS0zLjM0Yy0uODMtLjIxLTEuNjEtLjMxLTIu MzUtLjMxYy02LjIyIDAtOC42NiA2Ljg0LTEuNjYgOS45N2M1LjM0IDIuMzggMTYuMDYgOC4xIDI0 LjE0IDguMWMzLjQ5IDAgNi41LTEuMDcgOC4zNi0zLjkzYzIuMi0zLjM5LjEtMTAuNTEtNy4zMi0x MC41MXoiIGZpbGw9IiM0MDQwNDAiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTc2LjI3IDkyLjE0Yy0u NTEgMC0xLjIuNzMtMS45MiAxLjAxYy0yLjI5Ljg5LTUuNiAxLjgyLTcuNjkgMi4yM2MtMS4yOS4y NS0yLjMyIDEuNTQtMi42NiAzYy0uMzQtMS40Ny0xLjM2LTIuNzUtMi42Ni0zYy0yLjA5LS40LTUu MzYtMS42NS03LjctMi4zNWMtLjQ4LS4xNC0uOTctLjMyLTEuNDEtLjMyYy0uNzYgMC0xLjM0LjUz LTEuMzQgMi42OHY5LjIxYzAgLjc3LjM5IDEuNDkgMS4wMyAxLjg3YzEuMTYuNjggNi42MSAxLjAz IDEyLjA2IDEuMDNzMTAuOTEtLjM0IDEyLjA2LTEuMDNjLjY1LS4zOCAxLjAzLTEuMSAxLjAzLTEu ODd2LTkuMjFjLjAzLTIuNTQtLjMtMy4yNS0uOC0zLjI1eiIgZmlsbD0iIzM4MzUzNSI+Cgo8L3Bh dGg+Cgo8L2c+Cgo8cGF0aCBkPSJNOTAuNTMgNTAuNDNIMzcuNDZjLTUuNzIgMC0xMC40IDUuMTQt MTAuNCAxMS40MWMwIDYuMjggNC42OCAxMS40MSAxMC40IDExLjQxaDUzLjA2YzUuNzIgMCAxMC40 LTUuMTQgMTAuNC0xMS40MWMuMDEtNi4yNy00LjY3LTExLjQxLTEwLjM5LTExLjQxeiIgZmlsbD0i I2U1OTYwMCI+Cgo8L3BhdGg+Cgo8cGF0aCBkPSJNNjQgMTYuMDRjLTE3LjIgMC0zMy4xMyAxMi43 OS0zMy4xMyAzOS45MWMwIDIxLjc5IDEzLjQ5IDM0LjY3IDI1LjIzIDM4LjgzYzIuOC45OSA1LjUg MS40OSA3LjkgMS40OWMyLjM4IDAgNS4wNy0uNDkgNy44NS0xLjQ3YzExLjc2LTQuMTQgMjUuMjgt MTcuMDMgMjUuMjgtMzguODRjMC0yNy4xMy0xNS45My0zOS45Mi0zMy4xMy0zOS45MnoiIGZpbGw9 IiNmZmNhMjgiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTY3LjgxIDc0LjA1Yy0uMS0uMDQtLjIxLS4w Ny0uMzItLjA4SDYwLjVjLS4xMS4wMS0uMjEuMDQtLjMyLjA4Yy0uNjMuMjYtLjk4LjkxLS42OCAx LjYxczEuNjkgMi42NiA0LjQ5IDIuNjZjMi44IDAgNC4xOS0xLjk2IDQuNDktMi42NmMuMzEtLjY5 LS4wMy0xLjM1LS42Ny0xLjYxeiIgZmlsbD0iI2U1OTYwMCI+Cgo8L3BhdGg+Cgo8cGF0aCBkPSJN NzIuMzIgODEuMTRjLTMuMTUgMS44Ny0xMy40NiAxLjg3LTE2LjYxIDBjLTEuODEtMS4wNy0zLjY1 LjU3LTIuOSAyLjIxYy43NCAxLjYxIDYuMzcgNS4zNiAxMS4yMyA1LjM2czEwLjQyLTMuNzUgMTEu MTYtNS4zNmMuNzUtMS42NC0xLjA4LTMuMjktMi44OC0yLjIxeiIgZmlsbD0iIzc5NTU0OCI+Cgo8 L3BhdGg+Cgo8ZyBmaWxsPSIjNDA0MDQwIj4KCjxlbGxpcHNlIGN4PSI0Ny42MiIgY3k9IjY0LjMz IiByeD0iNC45MyIgcnk9IjUuMSI+Cgo8L2VsbGlwc2U+Cgo8ZWxsaXBzZSBjeD0iODAuNDkiIGN5 PSI2NC4zMyIgcng9IjQuOTMiIHJ5PSI1LjEiPgoKPC9lbGxpcHNlPgoKPC9nPgoKPGc+Cgo8cGF0 aCBkPSJNOTIuMTEgNjQuMTRTODQuNzUgOTMuMzcgNjQgOTMuMzdTMzUuODkgNjQuMTQgMzUuODkg NjQuMTQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzRlMzQyZSIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJv a2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1taXRlcmxp bWl0PSIxMCI+Cgo8L3BhdGg+Cgo8cmFkaWFsR3JhZGllbnQgaWQ9Ikljb25pZnlJZDE3ZWNkYjI5 MDRkMTc4ZWFiODk5OSIgY3g9IjYzLjU5MyIgY3k9IjU1Ljk0OSIgcj0iNDIuNTYiIGdyYWRpZW50 VHJhbnNmb3JtPSJtYXRyaXgoMSAuMDA5MzUgLS4wMTE5IDEuMjY3MSAuNjY2IC0xNS41NDEpIiBn cmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+Cgo8c3RvcCBvZmZzZXQ9Ii42MzMiIHN0b3At Y29sb3I9IiM0MjQyNDIiPgoKPC9zdG9wPgoKPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIj NjE2MTYxIj4KCjwvc3RvcD4KCjwvcmFkaWFsR3JhZGllbnQ+Cgo8cGF0aCBkPSJNMTAzLjk5IDY2 LjE4Yy40OC01LjUzLS41NC0zMy41MS0yLjkyLTQzLjYzQzk3LjIyIDYuMTUgNzQuNTEgNC41NCA2 NC44IDQuMzh2LS4wMmgtMi4xNnYuMDJjLTkuNzEuMTYtMzEuODggMS43Ny0zNS43MyAxOC4xN2Mt Mi4zOCAxMC4xMi0zLjI3IDM4LjExLTIuNzkgNDMuNjNjLjA0LjQ3LjA5LjkxLjE0IDEuMzVjMS45 LjY2IDQuMzYuOTUgNS45NS43MmMxMS4wMi0xLjY3IDIyLjIxLTMuOTUgMzMuNDEtMy45NWMxMS40 MSAwIDIyLjgyIDIuMjkgMzQuMDYgMy45NWMxLjQ4LjIyIDQuMDEtLjAxIDYuMTQtLjU2Yy4wNy0u NDkuMTItLjk5LjE3LTEuNTF6IiBmaWxsPSJ1cmwoI0ljb25pZnlJZDE3ZWNkYjI5MDRkMTc4ZWFi ODk5OSkiPgoKPC9wYXRoPgoKPC9nPgoKPC9zdmc+ "/>
+ <g stroke="#000" stroke-width="2">
+  <line x1="351" x2="359" y1="270" y2="270" fill="none"/>
+  <polygon points="367 270 357 275 359 270 357 265" fill-rule="evenodd"/>
+ </g>
+ <path d="m443 330c19.9 0 26.6-20 26.6-50" fill="none" stroke="#000" stroke-width="2"/>
+ <image x="390" y="180" width="70" height="70" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBBcGFj aGUuIE1hZGUgYnkgZ29vZ2xlZm9udHM6IGh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGVmb250cy9u b3RvLWVtb2ppIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0i MCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxp bms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGFyaWEtaGlkZGVuPSJ0cnVlIiByb2xl PSJpbWciIGNsYXNzPSJpY29uaWZ5IGljb25pZnktLW5vdG8iIHByZXNlcnZlQXNwZWN0UmF0aW89 InhNaWRZTWlkIG1lZXQiPgoKPGNpcmNsZSBjeD0iMTE3LjMzIiBjeT0iOS42OSIgcj0iNS42OSIg ZmlsbD0iI2Y0NDMzNiI+Cgo8L2NpcmNsZT4KCjxwYXRoIGQ9Ik04MC4wOSA3OC4zOHM5LjUxIDEy LjggOS41MSAxNy44NXMtNC4xIDkuMTUtOS4xNSA5LjE1Yy00LjMxIDAtNTguMi0uMTEtNjQuMTUt LjExcy05LjMyIDMuNDktOS4zMiAzLjQ5IiBmaWxsPSJub25lIiBzdHJva2U9IiM4NGIwYzEiIHN0 cm9rZS13aWR0aD0iNC45MTMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGlt aXQ9IjEwIj4KCjwvcGF0aD4KCjxwYXRoIGQ9Ik01OC44MyA3Ny4xM3MxMC42IDE0LjA1IDEwLjYg MTkuMTFzLTQuNjQgOS4xMi05LjY5IDkuMTIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzg0YjBjMSIg c3Ryb2tlLXdpZHRoPSI0LjkxMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbWl0ZXJs aW1pdD0iMTAiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTgyLjc3IDg2LjczYy0yLjAxLTMuNDQtMy42 NC01LjQ0LTYuMjYtOS4wMmMwIDAgLjY5LjE1IDIuNTUuMTVzMy4yLS41OSAzLjItLjU5YzIuNjQg My43MyAzLjQzIDQuNjggNC44NCA3LjE4YzAgMC0uMDUgMS42My0xLjM1IDIuNDljLTEuMy44Ni0y Ljk4LS4yMS0yLjk4LS4yMXoiIGZpbGw9IiMyZjc4ODkiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTYy LjU2IDg2LjljLTIuNzktNC4yNi01LjAyLTcuNTEtNS4wMi03LjUxbDYgLjE0czIuNjkgMy42MSA0 LjIzIDYuNDdjMCAwIC4yMyAxLjMtMS40OSAxLjk4Yy0xLjcyLjY2LTMuNzItMS4wOC0zLjcyLTEu MDh6IiBmaWxsPSIjMmY3ODg5Ij4KCjwvcGF0aD4KCjxwYXRoIGQ9Ik04MC4xMSA3OC42NGwtNjku OTQtNC42NmMtLjIzLS4wMi0uNC0uMi0uNC0uNDNWMzQuNWMwLS4zNy4yOS0uNjguNjYtLjdsODgu NjMtNS42NGMuODYtLjA2IDEuNDguOCAxLjE3IDEuNkw4MS40MSA3Ny44MmMtLjIxLjUzLS43My44 Ni0xLjMuODJ6IiBmaWxsPSJub25lIiBzdHJva2U9IiM4NGIwYzEiIHN0cm9rZS13aWR0aD0iNC45 MTMiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCI+Cgo8L3BhdGg+Cgo8ZyBmaWxsPSJub25lIiBzdHJv a2U9IiM4NGIwYzEiIHN0cm9rZS13aWR0aD0iMi45NDgiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCI+ Cgo8cGF0aCBkPSJNMjMuNjcgMzMuMDZMMjEuODMgNzQuNSI+Cgo8L3BhdGg+Cgo8cGF0aCBkPSJN MzkuNTQgMzEuOThsLTUuNzUgNDMuNDEiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTU1LjQyIDMwLjls LTkuNjcgNDUuMzgiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTcxLjMgMjkuODJMNTcuNzEgNzcuMTci PgoKPC9wYXRoPgoKPHBhdGggZD0iTTg3LjE3IDI4Ljc0bC0xNy41IDQ5LjMyIj4KCjwvcGF0aD4K CjxwYXRoIGQ9Ik04LjI5IDQ4LjQ4bDg1LjU2LTIuOTQiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTku MDggNjIuMTFoNzkuNCI+Cgo8L3BhdGg+Cgo8L2c+Cgo8Y2lyY2xlIGN4PSI4MC40MSIgY3k9IjEx Ni40NiIgcj0iNy41NCIgZmlsbD0iIzQyNDI0MiI+Cgo8L2NpcmNsZT4KCjxwYXRoIGQ9Ik03NS41 NSAxMDYuMDhoOS43M2wtMi4zMiAxMC4wOWMtLjIyIDEuNTctMS4yOSAyLjcxLTIuNTQgMi43MXMt Mi4zMy0xLjE0LTIuNTQtMi43MWwtMi4zMy0xMC4wOXoiIGZpbGw9IiM4NGIwYzEiPgoKPC9wYXRo PgoKPHBhdGggZD0iTTgxLjk3IDExNi41M2MtLjE4LjY2LS41MSAxLjQxLTEuMTggMS41OGMtMi40 Mi42Mi0yLjc2LTUuMzMtMS41NC02LjM1Yy43NC0uNjIgMi4yOC0uNzMgMi45My4wNGMuODMuOTgu MSAzLjY0LS4yMSA0LjczeiIgZmlsbD0iI2E4ZTNmMCI+Cgo8L3BhdGg+Cgo8cGF0aCBkPSJNODAu NTMgMTA5LjY1Yy0xLjYxIDAtMi43NS0uOTUtMy4zMS0xLjU0YS4yODMuMjgzIDAgMCAxIC4xOS0u NDhjMS4wNC0uMDUgMi4wOC0uMDQgMy4xMS0uMDdjMS4wNC4wMyAyLjA4LjAyIDMuMTEuMDdjLjI0 LjAxLjM2LjMxLjE5LjQ4Yy0uNTMuNTktMS42OCAxLjU0LTMuMjkgMS41NHoiIGZpbGw9IiMyZjc4 ODkiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTc4LjA0IDExOS4wMmMuNjUuNzUgMS42OSAxLjEgMi42 OC45OGMuOTgtLjEyIDEuODgtLjcgMi40Ny0xLjVjLjM0LS40Ny41OC0xLjAxLjk3LTEuNDRjLjM5 LS40MyAxLjAxLS43MyAxLjU1LS41MWMuNzYuMy44NiAxLjM2LjYgMi4xM2E2LjA4IDYuMDggMCAw IDEtMy4wOSAzLjU2Yy0uOTkuNDktMi4zNy42OS0zLjQ3LjU4Yy0yLjExLS4yMi00LjM4LTIuMTMt NS4xMi00LjA5Yy0uNC0xLjA1LS43NS0zLjE2IDEuMzQtMi42OGMuOTcuMjMgMS4yOSAyLjA3IDIu MDcgMi45N3oiIGZpbGw9IiM3NTc1NzUiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTk5LjgyIDMwLjcx bDQuNjEtMTEuMjdjMS44OC00LjYgMy4yNy01LjYzIDYuMDYtNi44OGw2LjUzLTIuNjUiIGZpbGw9 Im5vbmUiIHN0cm9rZT0iIzg0YjBjMSIgc3Ryb2tlLXdpZHRoPSI0LjkxMyIgc3Ryb2tlLWxpbmVj YXA9InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiPgoKPC9wYXRoPgoKPGc+Cgo8Y2lyY2xl IGN4PSIxOS42IiBjeT0iMTE2LjQ2IiByPSI3LjU0IiBmaWxsPSIjNDI0MjQyIj4KCjwvY2lyY2xl PgoKPHBhdGggZD0iTTE0LjczIDEwNi4wOGg5LjczbC0yLjMyIDEwLjA5Yy0uMjIgMS41Ny0xLjI5 IDIuNzEtMi41NCAyLjcxcy0yLjMzLTEuMTQtMi41NC0yLjcxbC0yLjMzLTEwLjA5eiIgZmlsbD0i Izg0YjBjMSI+Cgo8L3BhdGg+Cgo8cGF0aCBkPSJNMjEuMTYgMTE2LjUzYy0uMTguNjYtLjUxIDEu NDEtMS4xOCAxLjU4Yy0yLjQyLjYyLTIuNzYtNS4zMy0xLjU0LTYuMzVjLjc0LS42MiAyLjI4LS43 MyAyLjkzLjA0Yy44My45OC4wOSAzLjY0LS4yMSA0LjczeiIgZmlsbD0iI2E4ZTNmMCI+Cgo8L3Bh dGg+Cgo8cGF0aCBkPSJNMTkuNzIgMTA5LjY1Yy0xLjYxIDAtMi43NS0uOTUtMy4zMS0xLjU0YS4y ODMuMjgzIDAgMCAxIC4xOS0uNDhjMS4wNC0uMDUgMi4wOC0uMDQgMy4xMS0uMDdjMS4wNC4wMyAy LjA4LjAyIDMuMTEuMDdjLjI0LjAxLjM2LjMxLjE5LjQ4Yy0uNTQuNTktMS42OSAxLjU0LTMuMjkg MS41NHoiIGZpbGw9IiMyZjc4ODkiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTE3LjIyIDExOS4wMmMu NjUuNzUgMS42OSAxLjEgMi42OC45OGMuOTgtLjEyIDEuODgtLjcgMi40Ny0xLjVjLjM0LS40Ny41 OC0xLjAxLjk3LTEuNDRjLjM5LS40MyAxLjAxLS43MyAxLjU1LS41MWMuNzYuMy44NiAxLjM2LjYg Mi4xM2E2LjA4IDYuMDggMCAwIDEtMy4wOSAzLjU2Yy0uOTkuNDktMi4zNy42OS0zLjQ3LjU4Yy0y LjExLS4yMi00LjM4LTIuMTMtNS4xMi00LjA5Yy0uNC0xLjA1LS43NS0zLjE2IDEuMzQtMi42OGMu OTcuMjMgMS4yOSAyLjA3IDIuMDcgMi45N3oiIGZpbGw9IiM3NTc1NzUiPgoKPC9wYXRoPgoKPC9n PgoKPC9zdmc+ "/>
+ <g transform="matrix(1.19 0 0 1.19 -103 -342)" stroke="#fff" stroke-width="2">
+  <circle cx="440" cy="456" r="8" fill="#1e90ff"/>
+  <line x1="440" x2="440" y1="450" y2="462" fill="none"/>
+  <line x1="434" x2="446" y1="456" y2="456" fill="none"/>
+ </g>
 </svg>
