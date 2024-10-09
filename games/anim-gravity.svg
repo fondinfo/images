@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="21cm" height="16cm" viewBox="399 199 402 302" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background">
-    <rect style="fill: #add8e6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="400" y="200" width="400" height="300" rx="0" ry="0"/>
-    <image x="440" y="240" width="80" height="80" xlink:href="basketball.svg"/>
-    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #bfbfbf" cx="600" cy="460" rx="40" ry="40"/>
-    <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 519.995 280 C 539.995,280 600,320 600,460"/>
-    <g>
-      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M 600 460 C 600,320 680,280 690.264,280"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="697.764,280 687.764,285 690.264,280 687.764,275 "/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21cm" height="16cm" version="1.1" viewBox="399 199 402 302" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="400" y="200" width="400" height="300" rx="0" ry="0" fill="#add8e6" stroke="#000" stroke-width="2"/>
+ <image x="440" y="240" width="80" height="80" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBBcGFj aGUuIE1hZGUgYnkgZ29vZ2xlZm9udHM6IGh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGVmb250cy9u b3RvLWVtb2ppIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0i MCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxp bms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGFyaWEtaGlkZGVuPSJ0cnVlIiByb2xl PSJpbWciIGNsYXNzPSJpY29uaWZ5IGljb25pZnktLW5vdG8iIHByZXNlcnZlQXNwZWN0UmF0aW89 InhNaWRZTWlkIG1lZXQiPjxwYXRoIGQ9Ik0yMi4zMSAxMDguMjJzMTkuMjIgMjAuMjIgNTIuMTkg MTUuMDljMzIuOTctNS4xMiA0Ni4xOS0zNC4wMyA0OC45MS01MC41MWMzLjQ2LTIwLjk5LTYuMTMt MzUuNDItNi42NC0zNi4yMWMtLjM4LS41OC05NC40NiA3MS42My05NC40NiA3MS42M3oiIGZpbGw9 IiNkYzU4MTkiPjwvcGF0aD48cGF0aCBkPSJNMjAuODEgMjEuNTFDMS4wNiA0Mi4zLTIuMjkgNzIu NjcgMTIuNTYgOTYuMTRjNi45MSAxMC45MiAxMS4xNCAxMy4xNCAxMS4xNCAxMy4xNFM1Ni4wMSAx MzAgOTIuMzIgOTguNTljMzEuMS0yNi45IDI0LjUxLTYxLjkzIDI0LjUxLTYxLjkzcy0zLjg4LTgu NDgtMTIuMDQtMTYuNTNDODYuNjggMi4yNSA0Ni4yLTUuMjMgMjAuODEgMjEuNTF6IiBmaWxsPSIj ZWY2YzMyIj48L3BhdGg+PHBhdGggZD0iTTk5Ljk3IDE2LjA0Yy0uMjkuMDItMjkuMTggMi4xLTU5 Ljc0IDQzLjE4Yy0xOS4zIDI1Ljk0LTE4LjM1IDQ0LjI1LTE3LjYgNDkuMjdjMCAwLTEuNDctMS4y MS0yLjUxLTIuMzNjLTEuMDQtMS4xMS0xLjg1LTIuMS0xLjg1LTIuMWMtLjA4LTguNzkgMi41NS0y NS40NSAxOC43Ni00Ny4yM0M2MS43IDIzLjY0IDg1LjI5IDE0Ljk5IDk1LjE4IDEyLjc1YzAgMCAx LjIxLjcxIDIuMzggMS40NGMuODYuNTQgMi40MSAxLjg1IDIuNDEgMS44NXoiIGZpbGw9IiMyZDMx MzAiPjwvcGF0aD48cGF0aCBkPSJNMTUuNTcgMjcuNzhjMy4yMSA1LjI3IDEwLjk2IDE2LjY2IDI0 LjM4IDI4LjU1QzU2Ljg0IDcxLjMxIDc0LjQgODMuNDkgOTIuMTIgOTIuNTJjOC4zNyA0LjI3IDE0 LjggNi43NyAxOS4zNSA4LjI0YzAgMC0uNjYgMS4wMS0xLjI4IDEuODRjLS42Mi44My0xLjMgMS41 My0xLjMgMS41M2MtNC42My0xLjU3LTEwLjgxLTQuMDctMTguNi04LjA1Yy0xOC4wMi05LjE5LTM1 Ljg2LTIxLjU2LTUzLTM2Ljc2Yy0xMi43LTExLjI2LTIwLjQtMjEuOTItMjQuMTgtMjcuODljMCAw IC41My0xLjA1IDEuMjMtMS45OHMxLjIzLTEuNjcgMS4yMy0xLjY3eiIgZmlsbD0iIzJkMzEzMCI+ PC9wYXRoPjxwYXRoIGQ9Ik01My4xOCA0Ljc3Yy0xLjQzIDEuNjMtMy40NyA0LjI4LTUuODUgOC4y OWMtMi4xOCAzLjY2LTMuMyA3LjMtNC42IDExLjUyYy0yLjEzIDYuOTItNC41NCAxNC43Ni0xMi40 MyAyNC43OEMxOS4zNCA2My4yOCA4LjU3IDY3LjkzIDMuNTUgNjkuNDJjMCAwLS4xNC0xLjMtLjE5 LTIuMjFjLS4wNS0uOTEtLjAzLTEuOTQtLjAzLTEuOTRjNC43Ny0xLjYzIDE0LjIxLTYuMTkgMjMu ODItMTguMzhjNy40My05LjQ0IDkuNzItMTYuOSAxMS43NS0yMy40OGMxLjMyLTQuMjggMi41Ni04 LjMyIDQuOTktMTIuMzljMS4xNS0xLjkzIDIuMjMtMy41OCAzLjIyLTQuOTZjMCAwIDEuMTEtLjM3 IDIuNjMtLjcxYzEuMTgtLjI4IDMuNDQtLjU4IDMuNDQtLjU4eiIgZmlsbD0iIzJkMzEzMCI+PC9w YXRoPjxwYXRoIGQ9Ik02OC43MiAxMjQuMDFjLTMuMzUtMy4wMy0xMC4yNy05Ljk1LTE1LjMyLTE5 LjU4Yy01LjU5LTEwLjY1LTguMjEtMjYuNjctLjc1LTM2LjY4YzguNTItMTEuNDIgMjQuNDMtMTIu OTcgMzguODktMTIuOTdoLjA2YzE4LjQxLjAxIDMyLjI2IDMuODYgMzIuNDIgMy45MWMwIDAtLjEx LTEuMzUtLjI2LTIuNWMtLjEzLS45OS0uMjctMS45MS0uMjctMS45MWMtLjctLjE4LTEyLjk0LTMu NDktMzEuODktMy41aC0uMDZjLTE1LjQ1IDAtMzIuNTMgMS43NC00Mi4xIDE0LjU4Yy02LjE2IDgu MjYtOC40MiAyNC4xMi40MiA0MC45M2M0LjE2IDcuOTIgOS40IDE0LjAzIDEzLjIzIDE3Ljg4YzAg MCAxLjEyLjA0IDIuNTUuMDJjMS40MS0uMDIgMy4wOC0uMTggMy4wOC0uMTh6IiBmaWxsPSIjMmQz MTMwIj48L3BhdGg+PC9zdmc+ "/>
+ <circle cx="600" cy="460" r="40" fill="none" stroke="#bfbfbf" stroke-width="2"/>
+ <path d="m520 280c20 0 80 40 80 180" fill="none" stroke="#000" stroke-width="2"/>
+ <g stroke="#000" stroke-width="2">
+  <path d="m600 460c0-140 80-180 90.3-180" fill="none"/>
+  <polygon points="690 280 688 275 698 280 688 285" fill-rule="evenodd"/>
+ </g>
 </svg>
