@@ -1,126 +1,133 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="23cm" height="25cm" viewBox="177 157 446 490" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background">
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="180" y="160" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="220" y="160" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="260" y="160" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="300" y="160" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="340" y="160" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="180" y="200" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="220" y="200" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="260" y="200" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="300" y="200" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="340" y="200" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="180" y="240" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="220" y="240" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="260" y="240" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="300" y="240" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="340" y="240" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="180" y="280" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="220" y="280" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="260" y="280" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="300" y="280" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="340" y="280" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="180" y="320" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="220" y="320" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="260" y="320" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="300" y="320" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="340" y="320" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="420" y="160" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="460" y="160" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="500" y="160" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="540" y="160" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="580" y="160" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="420" y="200" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="460" y="200" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="500" y="200" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="540" y="200" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="580" y="200" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="420" y="240" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="460" y="240" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="500" y="240" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="540" y="240" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="580" y="240" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="420" y="280" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="460" y="280" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="500" y="280" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="540" y="280" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="580" y="280" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="420" y="320" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="460" y="320" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="500" y="320" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="540" y="320" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="580" y="320" width="40" height="40" rx="6" ry="6"/>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 8; stroke-linejoin: round; stroke: #000000" x1="380" y1="260" x2="403.556" y2="260"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 8; stroke: #000000" fill-rule="evenodd" points="411.056,260 401.056,265 403.556,260 401.056,255 "/>
-    </g>
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="180" y="420" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="220" y="420" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="260" y="420" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="300" y="420" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="340" y="420" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="180" y="460" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="220" y="460" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="260" y="460" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="300" y="460" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="340" y="460" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="180" y="500" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="220" y="500" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="260" y="500" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="300" y="500" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="340" y="500" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="180" y="540" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="220" y="540" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="260" y="540" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="300" y="540" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="340" y="540" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="180" y="580" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="220" y="580" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="260" y="580" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="300" y="580" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="340" y="580" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="420" y="420" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="460" y="420" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="500" y="420" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="540" y="420" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="580" y="420" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="420" y="460" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="460" y="460" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="500" y="460" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="540" y="460" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="580" y="460" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="420" y="500" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="460" y="500" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="500" y="500" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="540" y="500" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="580" y="500" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="420" y="540" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="460" y="540" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="500" y="540" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="540" y="540" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="580" y="540" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="420" y="580" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="460" y="580" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="500" y="580" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="540" y="580" width="40" height="40" rx="6" ry="6"/>
-    <rect style="fill: #32afff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 6; stroke-linejoin: round; stroke: #ffffff" x="580" y="580" width="40" height="40" rx="6" ry="6"/>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 8; stroke-linejoin: round; stroke: #000000" x1="380" y1="520" x2="403.556" y2="520"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 8; stroke: #000000" fill-rule="evenodd" points="411.056,520 401.056,525 403.556,520 401.056,515 "/>
-    </g>
-    <polygon style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #1e90ff" points="340,340 353.333,337.333 346.667,326.667 357.333,333.333 360,320 362.667,333.333 373.333,326.667 366.667,337.333 380,340 366.667,342.667 373.333,353.333 362.667,346.667 360,360 357.333,346.667 346.667,353.333 353.333,342.667 "/>
-    <image x="300" y="328" width="80" height="80" xlink:href="index.svg" transform="translate(340,368) rotate(-45) translate(-340,-368)"/>
-    <polygon style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #1e90ff" points="300,560 313.333,557.333 306.667,546.667 317.333,553.333 320,540 322.667,553.333 333.333,546.667 326.667,557.333 340,560 326.667,562.667 333.333,573.333 322.667,566.667 320,580 317.333,566.667 306.667,573.333 313.333,562.667 "/>
-    <image x="260" y="550" width="80" height="80" xlink:href="index.svg" transform="translate(300,590) rotate(-45) translate(-300,-590)"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23cm" height="25cm" version="1.1" viewBox="177 157 446 490" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="180" y="160" width="40" height="40" rx="6" ry="6" fill="#32afff" stroke="#fff" stroke-linejoin="round" stroke-width="6"/>
+ <g fill="#009" stroke="#fff" stroke-linejoin="round" stroke-width="6">
+  <rect x="220" y="160" width="40" height="40" rx="6" ry="6"/>
+  <rect x="260" y="160" width="40" height="40" rx="6" ry="6"/>
+  <rect x="300" y="160" width="40" height="40" rx="6" ry="6"/>
+  <rect x="340" y="160" width="40" height="40" rx="6" ry="6"/>
+  <rect x="180" y="200" width="40" height="40" rx="6" ry="6"/>
+  <rect x="220" y="200" width="40" height="40" rx="6" ry="6"/>
+  <rect x="260" y="200" width="40" height="40" rx="6" ry="6"/>
+  <rect x="300" y="200" width="40" height="40" rx="6" ry="6"/>
+  <rect x="340" y="200" width="40" height="40" rx="6" ry="6"/>
+  <rect x="180" y="240" width="40" height="40" rx="6" ry="6"/>
+  <rect x="220" y="240" width="40" height="40" rx="6" ry="6"/>
+  <rect x="260" y="240" width="40" height="40" rx="6" ry="6"/>
+  <rect x="300" y="240" width="40" height="40" rx="6" ry="6"/>
+  <rect x="340" y="240" width="40" height="40" rx="6" ry="6"/>
+  <rect x="180" y="280" width="40" height="40" rx="6" ry="6"/>
+  <rect x="220" y="280" width="40" height="40" rx="6" ry="6"/>
+  <rect x="260" y="280" width="40" height="40" rx="6" ry="6"/>
+  <rect x="300" y="280" width="40" height="40" rx="6" ry="6"/>
+  <rect x="340" y="280" width="40" height="40" rx="6" ry="6"/>
+  <rect x="180" y="320" width="40" height="40" rx="6" ry="6"/>
+  <rect x="220" y="320" width="40" height="40" rx="6" ry="6"/>
+  <rect x="260" y="320" width="40" height="40" rx="6" ry="6"/>
+  <rect x="300" y="320" width="40" height="40" rx="6" ry="6"/>
+  <rect x="340" y="320" width="40" height="40" rx="6" ry="6"/>
+ </g>
+ <rect x="420" y="160" width="40" height="40" rx="6" ry="6" fill="#32afff" stroke="#fff" stroke-linejoin="round" stroke-width="6"/>
+ <g fill="#009" stroke="#fff" stroke-linejoin="round" stroke-width="6">
+  <rect x="460" y="160" width="40" height="40" rx="6" ry="6"/>
+  <rect x="500" y="160" width="40" height="40" rx="6" ry="6"/>
+  <rect x="540" y="160" width="40" height="40" rx="6" ry="6"/>
+  <rect x="580" y="160" width="40" height="40" rx="6" ry="6"/>
+  <rect x="420" y="200" width="40" height="40" rx="6" ry="6"/>
+  <rect x="460" y="200" width="40" height="40" rx="6" ry="6"/>
+  <rect x="500" y="200" width="40" height="40" rx="6" ry="6"/>
+  <rect x="540" y="200" width="40" height="40" rx="6" ry="6"/>
+  <rect x="580" y="200" width="40" height="40" rx="6" ry="6"/>
+  <rect x="420" y="240" width="40" height="40" rx="6" ry="6"/>
+  <rect x="460" y="240" width="40" height="40" rx="6" ry="6"/>
+  <rect x="500" y="240" width="40" height="40" rx="6" ry="6"/>
+  <rect x="540" y="240" width="40" height="40" rx="6" ry="6"/>
+  <rect x="580" y="240" width="40" height="40" rx="6" ry="6"/>
+  <rect x="420" y="280" width="40" height="40" rx="6" ry="6"/>
+  <rect x="460" y="280" width="40" height="40" rx="6" ry="6"/>
+  <rect x="500" y="280" width="40" height="40" rx="6" ry="6"/>
+  <rect x="540" y="280" width="40" height="40" rx="6" ry="6"/>
+ </g>
+ <rect x="580" y="280" width="40" height="40" rx="6" ry="6" fill="#32afff" stroke="#fff" stroke-linejoin="round" stroke-width="6"/>
+ <g fill="#009" stroke="#fff" stroke-linejoin="round" stroke-width="6">
+  <rect x="420" y="320" width="40" height="40" rx="6" ry="6"/>
+  <rect x="460" y="320" width="40" height="40" rx="6" ry="6"/>
+  <rect x="500" y="320" width="40" height="40" rx="6" ry="6"/>
+ </g>
+ <rect x="540" y="320" width="40" height="40" rx="6" ry="6" fill="#32afff" stroke="#fff" stroke-linejoin="round" stroke-width="6"/>
+ <rect x="580" y="320" width="40" height="40" rx="6" ry="6" fill="#32afff" stroke="#fff" stroke-linejoin="round" stroke-width="6"/>
+ <g stroke="#000" stroke-width="8">
+  <line x1="380" x2="404" y1="260" y2="260" fill="none" stroke-linejoin="round"/>
+  <polygon points="404 260 401 255 411 260 401 265" fill-rule="evenodd"/>
+ </g>
+ <rect x="180" y="420" width="40" height="40" rx="6" ry="6" fill="#32afff" stroke="#fff" stroke-linejoin="round" stroke-width="6"/>
+ <g fill="#009" stroke="#fff" stroke-linejoin="round" stroke-width="6">
+  <rect x="220" y="420" width="40" height="40" rx="6" ry="6"/>
+  <rect x="260" y="420" width="40" height="40" rx="6" ry="6"/>
+  <rect x="300" y="420" width="40" height="40" rx="6" ry="6"/>
+  <rect x="340" y="420" width="40" height="40" rx="6" ry="6"/>
+  <rect x="180" y="460" width="40" height="40" rx="6" ry="6"/>
+  <rect x="220" y="460" width="40" height="40" rx="6" ry="6"/>
+  <rect x="260" y="460" width="40" height="40" rx="6" ry="6"/>
+  <rect x="300" y="460" width="40" height="40" rx="6" ry="6"/>
+  <rect x="340" y="460" width="40" height="40" rx="6" ry="6"/>
+  <rect x="180" y="500" width="40" height="40" rx="6" ry="6"/>
+  <rect x="220" y="500" width="40" height="40" rx="6" ry="6"/>
+  <rect x="260" y="500" width="40" height="40" rx="6" ry="6"/>
+  <rect x="300" y="500" width="40" height="40" rx="6" ry="6"/>
+  <rect x="340" y="500" width="40" height="40" rx="6" ry="6"/>
+  <rect x="180" y="540" width="40" height="40" rx="6" ry="6"/>
+  <rect x="220" y="540" width="40" height="40" rx="6" ry="6"/>
+  <rect x="260" y="540" width="40" height="40" rx="6" ry="6"/>
+  <rect x="300" y="540" width="40" height="40" rx="6" ry="6"/>
+ </g>
+ <rect x="340" y="540" width="40" height="40" rx="6" ry="6" fill="#32afff" stroke="#fff" stroke-linejoin="round" stroke-width="6"/>
+ <g fill="#009" stroke="#fff" stroke-linejoin="round" stroke-width="6">
+  <rect x="180" y="580" width="40" height="40" rx="6" ry="6"/>
+  <rect x="220" y="580" width="40" height="40" rx="6" ry="6"/>
+  <rect x="260" y="580" width="40" height="40" rx="6" ry="6"/>
+ </g>
+ <g fill="#32afff" stroke="#fff" stroke-linejoin="round" stroke-width="6">
+  <rect x="300" y="580" width="40" height="40" rx="6" ry="6"/>
+  <rect x="340" y="580" width="40" height="40" rx="6" ry="6"/>
+  <rect x="420" y="420" width="40" height="40" rx="6" ry="6"/>
+ </g>
+ <g fill="#009" stroke="#fff" stroke-linejoin="round" stroke-width="6">
+  <rect x="460" y="420" width="40" height="40" rx="6" ry="6"/>
+  <rect x="500" y="420" width="40" height="40" rx="6" ry="6"/>
+  <rect x="540" y="420" width="40" height="40" rx="6" ry="6"/>
+  <rect x="580" y="420" width="40" height="40" rx="6" ry="6"/>
+  <rect x="420" y="460" width="40" height="40" rx="6" ry="6"/>
+  <rect x="460" y="460" width="40" height="40" rx="6" ry="6"/>
+  <rect x="500" y="460" width="40" height="40" rx="6" ry="6"/>
+  <rect x="540" y="460" width="40" height="40" rx="6" ry="6"/>
+  <rect x="580" y="460" width="40" height="40" rx="6" ry="6"/>
+  <rect x="420" y="500" width="40" height="40" rx="6" ry="6"/>
+  <rect x="460" y="500" width="40" height="40" rx="6" ry="6"/>
+  <rect x="500" y="500" width="40" height="40" rx="6" ry="6"/>
+ </g>
+ <rect x="540" y="500" width="40" height="40" rx="6" ry="6" fill="#32afff" stroke="#fff" stroke-linejoin="round" stroke-width="6"/>
+ <g fill="#009" stroke="#fff" stroke-linejoin="round" stroke-width="6">
+  <rect x="580" y="500" width="40" height="40" rx="6" ry="6"/>
+  <rect x="420" y="540" width="40" height="40" rx="6" ry="6"/>
+  <rect x="460" y="540" width="40" height="40" rx="6" ry="6"/>
+ </g>
+ <rect x="500" y="540" width="40" height="40" rx="6" ry="6" fill="#32afff" stroke="#fff" stroke-linejoin="round" stroke-width="6"/>
+ <rect x="540" y="540" width="40" height="40" rx="6" ry="6" fill="#32afff" stroke="#fff" stroke-linejoin="round" stroke-width="6"/>
+ <g fill="#009" stroke="#fff" stroke-linejoin="round" stroke-width="6">
+  <rect x="580" y="540" width="40" height="40" rx="6" ry="6"/>
+  <rect x="420" y="580" width="40" height="40" rx="6" ry="6"/>
+  <rect x="460" y="580" width="40" height="40" rx="6" ry="6"/>
+  <rect x="500" y="580" width="40" height="40" rx="6" ry="6"/>
+  <rect x="540" y="580" width="40" height="40" rx="6" ry="6"/>
+ </g>
+ <rect x="580" y="580" width="40" height="40" rx="6" ry="6" fill="#32afff" stroke="#fff" stroke-linejoin="round" stroke-width="6"/>
+ <g stroke="#000" stroke-width="8">
+  <line x1="380" x2="404" y1="520" y2="520" fill="none" stroke-linejoin="round"/>
+  <polygon points="404 520 401 515 411 520 401 525" fill-rule="evenodd"/>
+ </g>
+ <polygon points="347 327 357 333 360 320 363 333 373 327 367 337 380 340 367 343 373 353 363 347 360 360 357 347 347 353 353 343 340 340 353 337" fill="none" stroke="#1e90ff" stroke-width="2"/>
+ <image transform="rotate(-45)" x="-59.8" y="461" width="80" height="80" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBBcGFj aGUuIE1hZGUgYnkgZ29vZ2xlZm9udHM6IGh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGVmb250cy9u b3RvLWVtb2ppIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0i MCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxp bms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGFyaWEtaGlkZGVuPSJ0cnVlIiByb2xl PSJpbWciIGNsYXNzPSJpY29uaWZ5IGljb25pZnktLW5vdG8iIHByZXNlcnZlQXNwZWN0UmF0aW89 InhNaWRZTWlkIG1lZXQiPjxsaW5lYXJHcmFkaWVudCBpZD0iSWNvbmlmeUlkMTdlY2RiMjkwNGQx NzhlYWI1NzY3IiB4MT0iMjE2MC41IiB4Mj0iMjI3Ny4xIiB5MT0iLTE2OTYuOCIgeTI9Ii0xNjk2 LjgiIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoLTEgLS4wMDIxIC0uMDAyMSAxIDIyNzkuMiAx NzY1LjUpIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agc3RvcC1jb2xvcj0i I0ZGQjMwMCIgb2Zmc2V0PSIuMTI4Ij48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iI0ZGQ0EyOCIg b2Zmc2V0PSIuNjQ3Ij48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48cGF0aCBkPSJNNDcuODQgMTA4 LjE3Yy0xNi40Ni0uMDQtMzkuODktMTEuMzgtNDAuMTMtMTEuNWMtLjA4LS4wNC0uMTYtLjA3LS4y NS0uMWEyLjUxNyAyLjUxNyAwIDAgMS0xLjgyLTIuNDNsLjM0LTM5LjdjLjAyLTEuMTQuODItMi4x MyAxLjk0LTIuNGwxLjI5LS4zYzYuMzctMS40OCAxMi4wNC01LjIgMTYuNDItMTAuNzVjLjk0LTEu MTkgMi4wNi0yLjIxIDMuMzMtMy4wNGM2Ljg1LTQuNDQgMTIuODctNi44OSAxOC42OS05LjI1YzUu NTEtMi4yMyAxMC43MS00LjM0IDE2LjA4LTcuOTNjLjY4LS40NSAyLjI4LS45NCA0LjItLjk0YzEu NTIgMCA1LjE3LjM1IDYuMzEgMy41OGMyLjI1IDYuMzQtMS43NiAxMC4yMi04LjQ4IDE0LjFjLTYu NzMgMy44OS04LjUgNC4xMy04LjU3IDQuMTRjLS44Mi4wMy0xLjQ0LjctMS40MyAxLjUycy43IDEu NDcgMS41MiAxLjQ4bDU3LjA3LjEyYzIuMDggMCA3Ljk5IDEuMjYgNy45OSA2Ljg1YzAgNi41OC01 LjczIDguNzktOC4zNCA4Ljc5bC0xOS41OS0uMDRhMS40OTIgMS40OTIgMCAwIDAtMS40MyAxLjkz YzEuODIgNi4wNi0uNTkgOS43MS0yLjk0IDExLjcxYy0xLjc3IDEuNS0yLjQ2IDQuMDEtMS43NCA2 LjIzYy42MyAxLjkyLjQ0IDQuMDktLjU2IDYuNDNjLS44MSAxLjg5LTIuMjQgMy4yOS0zLjMxIDQu MTRjLTEuMTIuODktMy42NCAzLjI2LTIuODkgNS45OWMuNTkgMi4xNC4xNCA3LjM0LTQuOTggOS43 OWMtMi4yMSAxLjA2LTExLjIzIDEuNTktMjYuOCAxLjU5bC0xLjkyLS4wMXoiIGZpbGw9InVybCgj SWNvbmlmeUlkMTdlY2RiMjkwNGQxNzhlYWI1NzY3KSI+PC9wYXRoPjxwYXRoIGQ9Ik02Ny45NCAy MS4zM2MxLjQ5IDAgNC4xLjM0IDQuOSAyLjU4YzEuNDIgMy45OS42IDcuNDQtNy44MSAxMi4zYy01 LjY3IDMuMjctNy42NSAzLjg2LTggMy45NGEzIDMgMCAwIDAtMi43NiAyLjg3YTMuMDAzIDMuMDAz IDAgMCAwIDMuMDEgMy4xMmguMDNsNTcuMDUuMTJjLjA2IDAgNi40OS4yMyA2LjQ5IDUuMzVjMCA1 Ljk5LTUuNDggNy4yOS02LjgzIDcuMjlsLTE5LjU5LS4wNGgtLjAxYTMuMDEgMy4wMSAwIDAgMC0y Ljg4IDMuODdjMS4yNyA0LjI0LjQ0IDcuNjUtMi40OCAxMC4xNGMtMi4yNiAxLjkyLTMuMTIgNS0y LjE5IDcuODRjLjUxIDEuNTcuMzQgMy4zNy0uNTEgNS4zN2MtLjY4IDEuNi0xLjkzIDIuODEtMi44 NiAzLjU1Yy0yLjg2IDIuMjgtNC4xIDUuMDMtMy40MSA3LjU2Yy40NiAxLjY3LjA0IDYuMDItNC4x OCA4LjA0Yy0xLjEzLjU0LTYuMDQgMS40NS0yNi4xNyAxLjQ1aC0xLjkxQzMxLjc1IDEwNi42MyA4 LjYgOTUuNDQgOC4zNyA5NS4zM2MtLjE2LS4wOC0uMzMtLjE0LS41LS4xOWMtLjQzLS4xMi0uNzMt LjUyLS43My0uOThsLjM1LTM5LjY5Yy4wMS0uNDYuMzItLjg2Ljc3LS45NmwxLjI5LS4zYzYuNy0x LjU2IDEyLjY3LTUuNDYgMTcuMjUtMTEuMjljLjg0LTEuMDYgMS44My0xLjk3IDIuOTctMi43MWM2 LjczLTQuMzcgMTIuNjgtNi43OCAxOC40NC05LjEyYzUuNTgtMi4yNiAxMC44NS00LjQgMTYuMzUt OC4wN2MuMzQtLjIyIDEuNjEtLjY5IDMuMzgtLjY5bTAtM2MtMi4wOCAwLTQuMDIuNTItNS4wMyAx LjE5Yy0xMC44OCA3LjI2LTIxLjMgOC40My0zNC43NiAxNy4xN2ExNS4zNiAxNS4zNiAwIDAgMC0z LjY5IDMuMzdjLTMuOTYgNS4wMy05LjM0IDguNzctMTUuNTggMTAuMjJsLTEuMjkuM2MtMS44LjQy LTMuMDggMi4wMS0zLjEgMy44NmwtLjM1IDM5LjY5YTMuOTg4IDMuOTg4IDAgMCAwIDIuOTEgMy44 OXMyMy43OSAxMS42MSA0MC43OCAxMS42NGgxLjkyYzExLjE4IDAgMjQuMy0uMjMgMjcuNDctMS43 NGM1LjYzLTIuNjkgNi42LTguNTYgNS43OC0xMS41NGMtLjQ0LTEuNjIgMS4wNi0zLjM3IDIuMzgt NC40MnMyLjg1LTIuNjIgMy43NS00LjcyYzEuMzgtMy4yMiAxLjE3LTUuNzUuNjEtNy40OGMtLjU0 LTEuNjUtLjA0LTMuNDkgMS4yOC00LjYyYzIuNTItMi4xNSA1LjUtNi4zMiAzLjQtMTMuMjhsMTku NTkuMDRjMy4xNyAwIDkuODQtMi42MiA5Ljg0LTEwLjI5YzAtNi4zNC02LjM0LTguMzUtOS40OS04 LjM1bC01Ny4wNi0uMTFoLS4wMmguMDNjLjI0LS4wMSAyLjA5LS4yMSA5LjIzLTQuMzNjOC41Ni00 Ljk0IDExLjM3LTkuNjIgOS4xNC0xNS45Yy0xLjI0LTMuNDUtNC42NS00LjU5LTcuNzQtNC41OXoi IGZpbGw9IiNFREE2MDAiPjwvcGF0aD48cGF0aCBkPSJNNzQuMjkgNTkuMzZsMjEuMTYtLjQ2bC0x LjcgMi40NWMwIC41OS0uNzcgMS4wNC0xLjY1Ljk3bC0xNy44NC0uNzdjLTEuNzctLjE0LTEuNzUt Mi4xLjAzLTIuMTl6IiBmaWxsPSIjRURBNjAwIj48L3BhdGg+PHBhdGggZD0iTTQ5LjI3IDQzLjJs Ni45Ny0yLjgxbDIuNDctLjk0bC0uODcgMy4zMkw1Ni45IDQ2bC03LjQ4LS4wOWMtMS4zOC4wMS0x LjI0LTIuMTUtLjE1LTIuNzF6IiBmaWxsPSIjRURBNjAwIj48L3BhdGg+PHBhdGggZD0iTTczLjg5 IDc2LjQ3bDEzLjA3LS43N2MuNTktLjA1LjI1IDIuNTIuMjUgMi41MmMwIC41OS0uNTMgMS4wNC0x LjEzLjk3bC0xMi4yMy0uNzdjLTEuMjEtLjEzLTEuMTgtMS44NS4wNC0xLjk1eiIgZmlsbD0iI0VE QTYwMCI+PC9wYXRoPjxwYXRoIGQ9Ik03NC4xMiA5My4xbDcuMDQtLjc3Yy4zMi0uMDUuMTMgMi41 Mi4xMyAyLjUyYzAgLjU5LS4yOCAxLjA0LS42MS45N2wtNi41OC0uNzdjLS42NS0uMTQtLjYzLTEu ODYuMDItMS45NXoiIGZpbGw9IiNFREE2MDAiPjwvcGF0aD48L3N2Zz4= "/>
+ <polygon points="307 547 317 553 320 540 323 553 333 547 327 557 340 560 327 563 333 573 323 567 320 580 317 567 307 573 313 563 300 560 313 557" fill="none" stroke="#1e90ff" stroke-width="2"/>
+ <image transform="rotate(-45)" x="-245" y="589" width="80" height="80" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBBcGFj aGUuIE1hZGUgYnkgZ29vZ2xlZm9udHM6IGh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGVmb250cy9u b3RvLWVtb2ppIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0i MCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxp bms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGFyaWEtaGlkZGVuPSJ0cnVlIiByb2xl PSJpbWciIGNsYXNzPSJpY29uaWZ5IGljb25pZnktLW5vdG8iIHByZXNlcnZlQXNwZWN0UmF0aW89 InhNaWRZTWlkIG1lZXQiPjxsaW5lYXJHcmFkaWVudCBpZD0iSWNvbmlmeUlkMTdlY2RiMjkwNGQx NzhlYWI1NzY3IiB4MT0iMjE2MC41IiB4Mj0iMjI3Ny4xIiB5MT0iLTE2OTYuOCIgeTI9Ii0xNjk2 LjgiIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoLTEgLS4wMDIxIC0uMDAyMSAxIDIyNzkuMiAx NzY1LjUpIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agc3RvcC1jb2xvcj0i I0ZGQjMwMCIgb2Zmc2V0PSIuMTI4Ij48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iI0ZGQ0EyOCIg b2Zmc2V0PSIuNjQ3Ij48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48cGF0aCBkPSJNNDcuODQgMTA4 LjE3Yy0xNi40Ni0uMDQtMzkuODktMTEuMzgtNDAuMTMtMTEuNWMtLjA4LS4wNC0uMTYtLjA3LS4y NS0uMWEyLjUxNyAyLjUxNyAwIDAgMS0xLjgyLTIuNDNsLjM0LTM5LjdjLjAyLTEuMTQuODItMi4x MyAxLjk0LTIuNGwxLjI5LS4zYzYuMzctMS40OCAxMi4wNC01LjIgMTYuNDItMTAuNzVjLjk0LTEu MTkgMi4wNi0yLjIxIDMuMzMtMy4wNGM2Ljg1LTQuNDQgMTIuODctNi44OSAxOC42OS05LjI1YzUu NTEtMi4yMyAxMC43MS00LjM0IDE2LjA4LTcuOTNjLjY4LS40NSAyLjI4LS45NCA0LjItLjk0YzEu NTIgMCA1LjE3LjM1IDYuMzEgMy41OGMyLjI1IDYuMzQtMS43NiAxMC4yMi04LjQ4IDE0LjFjLTYu NzMgMy44OS04LjUgNC4xMy04LjU3IDQuMTRjLS44Mi4wMy0xLjQ0LjctMS40MyAxLjUycy43IDEu NDcgMS41MiAxLjQ4bDU3LjA3LjEyYzIuMDggMCA3Ljk5IDEuMjYgNy45OSA2Ljg1YzAgNi41OC01 LjczIDguNzktOC4zNCA4Ljc5bC0xOS41OS0uMDRhMS40OTIgMS40OTIgMCAwIDAtMS40MyAxLjkz YzEuODIgNi4wNi0uNTkgOS43MS0yLjk0IDExLjcxYy0xLjc3IDEuNS0yLjQ2IDQuMDEtMS43NCA2 LjIzYy42MyAxLjkyLjQ0IDQuMDktLjU2IDYuNDNjLS44MSAxLjg5LTIuMjQgMy4yOS0zLjMxIDQu MTRjLTEuMTIuODktMy42NCAzLjI2LTIuODkgNS45OWMuNTkgMi4xNC4xNCA3LjM0LTQuOTggOS43 OWMtMi4yMSAxLjA2LTExLjIzIDEuNTktMjYuOCAxLjU5bC0xLjkyLS4wMXoiIGZpbGw9InVybCgj SWNvbmlmeUlkMTdlY2RiMjkwNGQxNzhlYWI1NzY3KSI+PC9wYXRoPjxwYXRoIGQ9Ik02Ny45NCAy MS4zM2MxLjQ5IDAgNC4xLjM0IDQuOSAyLjU4YzEuNDIgMy45OS42IDcuNDQtNy44MSAxMi4zYy01 LjY3IDMuMjctNy42NSAzLjg2LTggMy45NGEzIDMgMCAwIDAtMi43NiAyLjg3YTMuMDAzIDMuMDAz IDAgMCAwIDMuMDEgMy4xMmguMDNsNTcuMDUuMTJjLjA2IDAgNi40OS4yMyA2LjQ5IDUuMzVjMCA1 Ljk5LTUuNDggNy4yOS02LjgzIDcuMjlsLTE5LjU5LS4wNGgtLjAxYTMuMDEgMy4wMSAwIDAgMC0y Ljg4IDMuODdjMS4yNyA0LjI0LjQ0IDcuNjUtMi40OCAxMC4xNGMtMi4yNiAxLjkyLTMuMTIgNS0y LjE5IDcuODRjLjUxIDEuNTcuMzQgMy4zNy0uNTEgNS4zN2MtLjY4IDEuNi0xLjkzIDIuODEtMi44 NiAzLjU1Yy0yLjg2IDIuMjgtNC4xIDUuMDMtMy40MSA3LjU2Yy40NiAxLjY3LjA0IDYuMDItNC4x OCA4LjA0Yy0xLjEzLjU0LTYuMDQgMS40NS0yNi4xNyAxLjQ1aC0xLjkxQzMxLjc1IDEwNi42MyA4 LjYgOTUuNDQgOC4zNyA5NS4zM2MtLjE2LS4wOC0uMzMtLjE0LS41LS4xOWMtLjQzLS4xMi0uNzMt LjUyLS43My0uOThsLjM1LTM5LjY5Yy4wMS0uNDYuMzItLjg2Ljc3LS45NmwxLjI5LS4zYzYuNy0x LjU2IDEyLjY3LTUuNDYgMTcuMjUtMTEuMjljLjg0LTEuMDYgMS44My0xLjk3IDIuOTctMi43MWM2 LjczLTQuMzcgMTIuNjgtNi43OCAxOC40NC05LjEyYzUuNTgtMi4yNiAxMC44NS00LjQgMTYuMzUt OC4wN2MuMzQtLjIyIDEuNjEtLjY5IDMuMzgtLjY5bTAtM2MtMi4wOCAwLTQuMDIuNTItNS4wMyAx LjE5Yy0xMC44OCA3LjI2LTIxLjMgOC40My0zNC43NiAxNy4xN2ExNS4zNiAxNS4zNiAwIDAgMC0z LjY5IDMuMzdjLTMuOTYgNS4wMy05LjM0IDguNzctMTUuNTggMTAuMjJsLTEuMjkuM2MtMS44LjQy LTMuMDggMi4wMS0zLjEgMy44NmwtLjM1IDM5LjY5YTMuOTg4IDMuOTg4IDAgMCAwIDIuOTEgMy44 OXMyMy43OSAxMS42MSA0MC43OCAxMS42NGgxLjkyYzExLjE4IDAgMjQuMy0uMjMgMjcuNDctMS43 NGM1LjYzLTIuNjkgNi42LTguNTYgNS43OC0xMS41NGMtLjQ0LTEuNjIgMS4wNi0zLjM3IDIuMzgt NC40MnMyLjg1LTIuNjIgMy43NS00LjcyYzEuMzgtMy4yMiAxLjE3LTUuNzUuNjEtNy40OGMtLjU0 LTEuNjUtLjA0LTMuNDkgMS4yOC00LjYyYzIuNTItMi4xNSA1LjUtNi4zMiAzLjQtMTMuMjhsMTku NTkuMDRjMy4xNyAwIDkuODQtMi42MiA5Ljg0LTEwLjI5YzAtNi4zNC02LjM0LTguMzUtOS40OS04 LjM1bC01Ny4wNi0uMTFoLS4wMmguMDNjLjI0LS4wMSAyLjA5LS4yMSA5LjIzLTQuMzNjOC41Ni00 Ljk0IDExLjM3LTkuNjIgOS4xNC0xNS45Yy0xLjI0LTMuNDUtNC42NS00LjU5LTcuNzQtNC41OXoi IGZpbGw9IiNFREE2MDAiPjwvcGF0aD48cGF0aCBkPSJNNzQuMjkgNTkuMzZsMjEuMTYtLjQ2bC0x LjcgMi40NWMwIC41OS0uNzcgMS4wNC0xLjY1Ljk3bC0xNy44NC0uNzdjLTEuNzctLjE0LTEuNzUt Mi4xLjAzLTIuMTl6IiBmaWxsPSIjRURBNjAwIj48L3BhdGg+PHBhdGggZD0iTTQ5LjI3IDQzLjJs Ni45Ny0yLjgxbDIuNDctLjk0bC0uODcgMy4zMkw1Ni45IDQ2bC03LjQ4LS4wOWMtMS4zOC4wMS0x LjI0LTIuMTUtLjE1LTIuNzF6IiBmaWxsPSIjRURBNjAwIj48L3BhdGg+PHBhdGggZD0iTTczLjg5 IDc2LjQ3bDEzLjA3LS43N2MuNTktLjA1LjI1IDIuNTIuMjUgMi41MmMwIC41OS0uNTMgMS4wNC0x LjEzLjk3bC0xMi4yMy0uNzdjLTEuMjEtLjEzLTEuMTgtMS44NS4wNC0xLjk1eiIgZmlsbD0iI0VE QTYwMCI+PC9wYXRoPjxwYXRoIGQ9Ik03NC4xMiA5My4xbDcuMDQtLjc3Yy4zMi0uMDUuMTMgMi41 Mi4xMyAyLjUyYzAgLjU5LS4yOCAxLjA0LS42MS45N2wtNi41OC0uNzdjLS42NS0uMTQtLjYzLTEu ODYuMDItMS45NXoiIGZpbGw9IiNFREE2MDAiPjwvcGF0aD48L3N2Zz4= "/>
 </svg>
