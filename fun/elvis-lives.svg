@@ -1,76 +1,52 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="15cm" height="10cm" viewBox="479 190 293 181" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="Background"/>
-  <g id="Background">
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="493" y="292">
-      <tspan x="493" y="292"></tspan>
-    </text>
-    <g>
-      <rect style="fill: #99bfcc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="480" y="200" width="40" height="40" rx="10" ry="10"/>
-      <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="500" y="232.561">
-        <tspan x="500" y="232.561">E</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #99bfcc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="520" y="200" width="40" height="40" rx="10" ry="10"/>
-      <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="540" y="232.561">
-        <tspan x="540" y="232.561">L</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #99bfcc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="560" y="200" width="40" height="40" rx="10" ry="10"/>
-      <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="580" y="232.561">
-        <tspan x="580" y="232.561">V</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #99bfcc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="600" y="200" width="40" height="40" rx="10" ry="10"/>
-      <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="620" y="232.561">
-        <tspan x="620" y="232.561">I</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #99bfcc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="640" y="200" width="40" height="40" rx="10" ry="10"/>
-      <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="660" y="232.561">
-        <tspan x="660" y="232.561">S</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #99bfcc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="600" y="320" width="40" height="40" rx="10" ry="10"/>
-      <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="620" y="352.561">
-        <tspan x="620" y="352.561">E</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #99bfcc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="480" y="320" width="40" height="40" rx="10" ry="10"/>
-      <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="500" y="352.561">
-        <tspan x="500" y="352.561">L</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #99bfcc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="560" y="320" width="40" height="40" rx="10" ry="10"/>
-      <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="580" y="352.561">
-        <tspan x="580" y="352.561">V</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #99bfcc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="520" y="320" width="40" height="40" rx="10" ry="10"/>
-      <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="540" y="352.561">
-        <tspan x="540" y="352.561">I</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #99bfcc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #ffffff" x="640" y="320" width="40" height="40" rx="10" ry="10"/>
-      <text font-size="28.2222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="660" y="352.561">
-        <tspan x="660" y="352.561">S</tspan>
-      </text>
-    </g>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 4; stroke: #ff0000" x1="500" y1="240" x2="620" y2="320"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 4; stroke: #ff0000" x1="540" y1="240" x2="500" y2="320"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 4; stroke: #ff0000" x1="580" y1="240" x2="580" y2="320"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 4; stroke: #ff0000" x1="620" y1="240" x2="540" y2="320"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 4; stroke: #ff0000" x1="660" y1="240" x2="660" y2="320"/>
-    <image x="670" y="190" width="101.229" height="180.297" xlink:href="elvis.svg"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15cm" height="10cm" version="1.1" viewBox="479 190 293 181" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <text x="493" y="292" fill="#000000" font-family="sans-serif" font-size="12.8px"><tspan x="493" y="292"/></text>
+ <g>
+  <rect x="480" y="200" width="40" height="40" rx="10" ry="10" fill="#99bfcc" stroke="#fff" stroke-width="2"/>
+  <text x="500" y="232.561" fill="#000000" font-family="sans-serif" font-size="28.2px" text-anchor="middle"><tspan x="500" y="232.561">E</tspan></text>
+ </g>
+ <g>
+  <rect x="520" y="200" width="40" height="40" rx="10" ry="10" fill="#99bfcc" stroke="#fff" stroke-width="2"/>
+  <text x="540" y="232.561" fill="#000000" font-family="sans-serif" font-size="28.2px" text-anchor="middle"><tspan x="540" y="232.561">L</tspan></text>
+ </g>
+ <g>
+  <rect x="560" y="200" width="40" height="40" rx="10" ry="10" fill="#99bfcc" stroke="#fff" stroke-width="2"/>
+  <text x="580" y="232.561" fill="#000000" font-family="sans-serif" font-size="28.2px" text-anchor="middle"><tspan x="580" y="232.561">V</tspan></text>
+ </g>
+ <g>
+  <rect x="600" y="200" width="40" height="40" rx="10" ry="10" fill="#99bfcc" stroke="#fff" stroke-width="2"/>
+  <text x="620" y="232.561" fill="#000000" font-family="sans-serif" font-size="28.2px" text-anchor="middle"><tspan x="620" y="232.561">I</tspan></text>
+ </g>
+ <g>
+  <rect x="640" y="200" width="40" height="40" rx="10" ry="10" fill="#99bfcc" stroke="#fff" stroke-width="2"/>
+  <text x="660" y="232.561" fill="#000000" font-family="sans-serif" font-size="28.2px" text-anchor="middle"><tspan x="660" y="232.561">S</tspan></text>
+ </g>
+ <g>
+  <rect x="600" y="320" width="40" height="40" rx="10" ry="10" fill="#99bfcc" stroke="#fff" stroke-width="2"/>
+  <text x="620" y="352.561" fill="#000000" font-family="sans-serif" font-size="28.2px" text-anchor="middle"><tspan x="620" y="352.561">E</tspan></text>
+ </g>
+ <g>
+  <rect x="480" y="320" width="40" height="40" rx="10" ry="10" fill="#99bfcc" stroke="#fff" stroke-width="2"/>
+  <text x="500" y="352.561" fill="#000000" font-family="sans-serif" font-size="28.2px" text-anchor="middle"><tspan x="500" y="352.561">L</tspan></text>
+ </g>
+ <g>
+  <rect x="560" y="320" width="40" height="40" rx="10" ry="10" fill="#99bfcc" stroke="#fff" stroke-width="2"/>
+  <text x="580" y="352.561" fill="#000000" font-family="sans-serif" font-size="28.2px" text-anchor="middle"><tspan x="580" y="352.561">V</tspan></text>
+ </g>
+ <g>
+  <rect x="520" y="320" width="40" height="40" rx="10" ry="10" fill="#99bfcc" stroke="#fff" stroke-width="2"/>
+  <text x="540" y="352.561" fill="#000000" font-family="sans-serif" font-size="28.2px" text-anchor="middle"><tspan x="540" y="352.561">I</tspan></text>
+ </g>
+ <g>
+  <rect x="640" y="320" width="40" height="40" rx="10" ry="10" fill="#99bfcc" stroke="#fff" stroke-width="2"/>
+  <text x="660" y="352.561" fill="#000000" font-family="sans-serif" font-size="28.2px" text-anchor="middle"><tspan x="660" y="352.561">S</tspan></text>
+ </g>
+ <g fill="none" stroke="#f00" stroke-dasharray="4" stroke-width="2">
+  <line x1="500" x2="620" y1="240" y2="320"/>
+  <line x1="540" x2="500" y1="240" y2="320"/>
+  <line x1="580" x2="580" y1="240" y2="320"/>
+  <line x1="620" x2="540" y1="240" y2="320"/>
+  <line x1="660" x2="660" y1="240" y2="320"/>
+ </g>
+ <image x="670" y="190" width="101" height="180" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTUybW0i IGhlaWdodD0iMjcxbW0iIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDE1MiAyNzEiIHhtbDpz cGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJh bnNmb3JtPSJ0cmFuc2xhdGUoMzAuMSAtNC4yNSkiPjxwYXRoIGQ9Im04NyAyNzVjNy4xNi0yLjM4 IDYuNjYtOC45Mi0xLjctMjIuMy0xLjc5LTIuODYtMS43OS0yLjg2LTEuMjYtNC41MSAxLjEyLTMu NDQtMi44OC0xMC40LTUuOTctMTAuNC0wLjY5MSAwLTcuMzMgMS45NS04LjE3IDIuNC0wLjk3NSAw LjUyMi0xLjczIDAuMDIzNy0zLjk2LTIuNi0xLjIxLTEuNDItMy4zNC0zLjc3LTQuNzMtNS4yMy0x LjQtMS40Ni01Ljc4LTYuNDItOS43NC0xMS0zLjk2LTQuNjEtNy45My05LjA0LTguODItOS44NS0y LjY0LTIuMzktMi4yMy01Ljk2IDEuMTctMTAuMSAwLjc2MS0wLjkyNiAxLjY1LTEuNzYgMS45Ny0x Ljg1IDAuNDExLTAuMTE5IDAuNzE0LTAuNTcgMS4wMy0xLjUzIDAuNzg2LTIuNDEgMi41MS01LjA4 IDUuMjItOC4xIDIuMzQtMi42MSA4LjU5LTEyLjQgMTAuNy0xNi44IDEuMjktMi43IDcuNDQtNS45 OSAyMC0xMC43IDcuMzMtMi43NSAxMi41LTUuNjcgMjYuNS0xNS4xIDYuNzctNC41NSA1Ljk0LTQu MiA2LjkxLTIuODggMC43NzQgMS4wNSAwLjc3NCAxLjA1IDMuMDItMS4yNiAzLjkyLTQuMDMgMy45 OS0zLjM5LTAuOTUzLTguNTEtMS43Ny0xLjgzLTMuNzQtNC4wNC00LjM4LTQuOTItMC42NDItMC44 NzMtMS43Mi0yLjE4LTIuMzktMi45MS0wLjY3NS0wLjcyOC0xLjkyLTIuMjgtMi43Ny0zLjQ0LTAu ODQ4LTEuMTYtMi41Ny0zLjM3LTMuODQtNC44OXMtMy4yMy00LjE1LTQuMzctNS44MmMtMi4yOS0z LjM2LTMuNC00LjgyLTUuMDUtNi42NC0yLjU4LTIuODQtMi43Ny0xMS44LTAuMy0xNC4xIDIuODgt Mi43MSA0LjY1LTYuNTcgNi0xMy4xIDAuNDY2LTIuMjYgMS41MS02LjY2IDIuMzMtOS43OSAyLjQz LTkuMzMgMi4zNi0xOC41LTAuMTk5LTI2LjItMy4zNy0xMC4xLTQuNjItMTYuMy00Ljc2LTIzLjYt N2UtMyAtMC4zNTMtMC4yMjMtMC40MDYtMS4yLTAuMjk2LTEuOSAwLjIxNC0xLjE2LTIuNDkgMS41 My01LjY0IDEuNTUtMS44MSAzLjEtNi44NSAyLjY0LTguNi0wLjEzOS0wLjUzLTMuMTMtMC42NTct NC4zOS0wLjE4Ni0wLjUzNiAwLjIwMS0wLjgyNiAwLjE5NC0xLjA1LTAuMDI0OC0wLjQxOS0wLjQx OS0xLjMyLTAuMzc5LTEuOTMgMC4wODU3LTAuMjgyIDAuMjE0LTEuMDggMC4zOTItMS43NyAwLjM5 Ny0xLjIxIDAuMDA4MS0yLjU4IDEuMjYtMi41OCAyLjM1IDAgMC4xMzEtMC4zNjcgMS40MS0wLjgx NiAyLjg1LTAuOTM3IDMtMC45NDQgNS4wNS0wLjAyNzQgNy45NiAwLjQzNCAxLjM4IDAuNDYgMS42 OSAwLjE1OSAxLjk0LTAuNjExIDAuNTA3LTAuNjYzIDEuNTEtMC44ODMgMTctMC4yMDMgMTQuMy0w LjI0MyAxNS4yLTAuNzc4IDE2LjktMC45NjQgMy4xNi0yLjQyIDYuNzItNC40OSAxMS0xLjk5IDQu MS0xLjk5IDQuMS0yLjE0IDguMS0wLjE3NCA0LjYyLTIuMiA5LjkzLTMuOTIgMTAuMi0xLjkyIDAu MzYtMy4wNi0wLjEyOS0zLjc5LTEuNjItMC4zNzQtMC43NjYtMC43NjktMS4zLTAuODc4LTEuMTkt MC4yMjcgMC4yMjctMS4yMS0wLjk0NC0xLjIxLTEuNDUtM2UtMyAtMC4xODUgMC40NTQtMC44NCAx LjAyLTEuNDYgMy43My00LjA4IDUuMzUtMTUuOCAyLjcyLTE5LjYtMy4yOC00Ljc3LTguMDktOC4x Ny0xMC42LTcuNTItMS45MyAwLjQ5Ny0yLjU4IDAuNTA0LTMuNDcgMC4wMzU2LTIuMDUtMS4wOC02 LjctMC4zNy05Ljc3IDEuNDgtNi40MiAzLjg4LTcuMTEgNi43Ni0yLjUxIDEwLjUgMC43MyAwLjU5 OCAwLjc0IDAuNjQ1IDAuNjA0IDIuODItMC4xMDkgMS43NS0wLjA1NTMgMi4yOSAwLjI2MSAyLjYx IDAuMjE5IDAuMjE5IDAuMzgyIDAuNzA3IDAuMzYgMS4wOC0wLjA0NzYgMC44NDUtMC4wNTk5IDAu NDc3IDAuMTkxIDUuNzIgMC4yMDkgNC4zNyAwLjIwOSA0LjM3IDIuNDEgOC41NiAyLjIgNC4xOSAy LjIgNC4xOSAxLjQ4IDQuNzctMC41MSAwLjQwNy0wLjc4NyAwLjk1My0wLjk1OCAxLjg5LTAuMjk3 IDEuNjItMC43MSAxLjk4LTMuNDkgMy4wMy03LjE4IDIuNzEtNy40NCAyLjkyLTE0LjMgMTEuNS02 LjkgOC42LTExLjYgMTIuNS0xMyAxMC44LTEuMDYtMS4zMy0zLjA0LTAuOTA5LTUuMzUgMS4xNC0x Ljg0IDEuNjMtMS44NCAxLjYzLTQuODMgMS42My0yLjk3IDAtMi45OSAzZS0zIC0zLjY3IDAuNzc3 LTAuODQ5IDAuOTY5LTIuMTkgMS4xOC00LjU0IDAuNzA1LTMuNDItMC42ODgtMjEuOC0wLjE3My0y MS43IDAuNjA3IDAuMTIyIDAuODY1LTIuMjggMC42NzMtNC41OS0wLjM2Ny0zLjEtMS40LTYuNDQt MS4xNi02LjEyIDAuNDQzIDAuMTEyIDAuNTU4IDAuMDM4IDAuOTczLTAuMjI0IDEuMjYtMC41MDMg MC41NTYtMS4yMyA2LjU1LTAuODc2IDcuMjQgMC42MTcgMS4yMSA0LjYgMS41MSA5LjI3IDAuNjk4 IDIuMjgtMC40IDIuNDUtMC4zMjEgMy4wMSAxLjQ1IDAuODE3IDIuNTktMC41OTkgMi4zOCAxNi42 IDIuNDcgMTkuNyAwLjEwMyAxOS40IDAuMTQ0IDI5LjYtMy42OCA2LTIuMjUgNS41OC0yLjczIDQu ODUgNS41OS0wLjc4NSA4Ljg5LTAuNTEzIDcuODMtMi4zNiA5LjE0LTMuMyAyLjM1LTMuMTUgMi4x Ny0yLjk2IDMuNTcgMC4zNTggMi43LTYuOSA4LjMtMTYuOCAxMy02LjU3IDMuMDktMTEuNCA1Ljg2 LTE1LjIgOC42Ny0xLjMyIDAuOTc2LTYuMiA0LjU3LTEwLjggNy45OS0xMS43IDguNi0xMS45IDgu ODUtMTIuNiAxNC4zLTAuNDYzIDMuNzMtMC4wNzIxIDQ0LjUgMC40MzYgNDUuNSAxLjA3IDIuMDYg Mi45OCAyLjg5IDYuNjkgMi44OSAzLjE3IDAgNC45NCA0Ljc2IDIuNTUgNi44NC0wLjg5IDAuNzc0 LTAuODYgMC44NTYgMi4zMiA2LjE4IDIuODkgNC44NSAzLjA5IDUuNDcgMy4xMSA5Ljk5IDAuMDMy NiA1LjQ4IDMuNTYgMTAuNSA1Ljg2IDguNCAzLjI5LTMuMDYgNS42NS0xMy4yIDMuOTctMTcuMS0w Ljg3OC0yLTEuMDEtMy40My0wLjU4OS02LjM5IDAuMjE3LTEuNTIgMC40MTgtMS43NSAxLjk3LTIu MTggMS42NS0wLjQ1NiAzLjA4LTQuOTIgMy4wOC05LjY0IDRlLTMgLTMuNjYtMC45NjctNC40OS01 LjU2LTQuNzYtNS44Ny0wLjM1Mi02LjE2LTAuODE2LTQuNjYtNy40MSAyLjA0LTguOTUgMi4wNC0x NyAzZS0zIC0yMC44LTAuODY0LTEuNTktMC43NzEtMi4wMSAwLjY5NC0zLjEyIDEuNTctMS4xOSAx LjY4LTEuNDQgMS4wNC0yLjI2LTAuNTQxLTAuNjg4LTAuNTQxLTAuNjg4IDAuNTk5LTIuMTMgMS40 Mi0xLjc5IDEuNjQtMS44OSAyLjc4LTEuMTggMS45MyAxLjE5IDIuOTcgMC44NDEgMTQuMS00Ljc2 IDEwLjEtNS4wOCAxMi01Ljg1IDE0LjgtNS44NSAyLjQ3IDAgMi40NSAwLjM3OS0wLjIzMSA1LjQy LTYuNjIgMTIuNC04Ljk5IDE4LjEtOC45OSAyMS42IDAgMS44MiA1LjY0IDExLjEgMTEgMTguMiAy Ny45IDM2LjUgMjYuNyAzNS42IDM1LjYgMjcuMSAzLjQ0LTMuMjcgNC4yLTIuOTQgNS4zNSAyLjM1 IDAuMDg5NyAwLjQxIDAuODE4IDEuMjEgMS44NyAyLjA1IDMuNzEgMi45NyA1LjExIDQuNTEgNy4w OSA3Ljc4IDMuNTggNS45IDUuOTMgNy40MyA5LjYgNi4yMXoiIHN0cm9rZS13aWR0aD0iLjI2NSIv PjwvZz48L3N2Zz4K "/>
 </svg>
