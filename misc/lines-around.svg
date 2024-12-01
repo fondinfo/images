@@ -18,4 +18,5 @@
  </g>
  <text x="460" y="356.575" fill="#ff0000" font-family="sans-serif" font-size="16.9" text-anchor="middle"><tspan x="460" y="356.575">180°</tspan></text>
  <text x="420" y="446.575" fill="#ff0000" font-family="sans-serif" font-size="16.9" text-anchor="middle"><tspan x="420" y="446.575">n=4</tspan></text>
+ <line x1="640" x2="520" y1="340" y2="340" fill="none" stroke="#f00" stroke-dasharray="4" stroke-opacity=".196" stroke-width="2"/>
 </svg>
