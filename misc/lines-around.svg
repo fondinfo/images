@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13cm" height="13cm" version="1.1" viewBox="399 219 242 243" xmlns="http://www.w3.org/2000/svg">
+ <rect x="400" y="220" width="240" height="240" rx="0" ry="0" fill="#ffa500" fill-opacity=".196" stroke="#ffa500" stroke-opacity=".196" stroke-width="2"/>
+ <g fill="none" stroke="#7f7f7f" stroke-width="2">
+  <line x1="520" x2="520" y1="340" y2="460"/>
+  <line x1="520" x2="460" y1="340" y2="444"/>
+  <line x1="520" x2="416" y1="340" y2="400"/>
+  <line x1="520" x2="400" y1="340" y2="340"/>
+ </g>
+ <g stroke="#f00" stroke-width="2">
+  <path d="m560 340a40 40 0 0 1-30.5 38.9" fill="none"/>
+  <polygon points="522 380 532 375 530 380 532 385" fill="#f00" fill-rule="evenodd"/>
+ </g>
+ <text x="540" y="406.575" fill="#ff0000" font-family="sans-serif" font-size="16.9" text-anchor="middle"><tspan x="540" y="406.575">90°</tspan></text>
+ <g stroke="#f00" stroke-width="2">
+  <path d="m550 340a30 30 0 0 1-58.5 9.26" fill="none"/>
+  <polygon points="490 342 495 352 490 350 485 352" fill="#f00" fill-rule="evenodd"/>
+ </g>
+ <text x="460" y="356.575" fill="#ff0000" font-family="sans-serif" font-size="16.9" text-anchor="middle"><tspan x="460" y="356.575">180°</tspan></text>
+ <text x="420" y="446.575" fill="#ff0000" font-family="sans-serif" font-size="16.9" text-anchor="middle"><tspan x="420" y="446.575">n=4</tspan></text>
+</svg>
