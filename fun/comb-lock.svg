@@ -1,44 +1,32 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="11cm" height="11cm" viewBox="-260 20 210 210" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="Background"/>
-  <g id="Background">
-    <image x="-260" y="20" width="210" height="210" xlink:href="locked.svg"/>
-    <g>
-      <rect style="fill: #86a7b2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="-144" y="168" width="8" height="24" rx="0" ry="0"/>
-      <text font-size="20.32" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-140" y="189.05">
-        <tspan x="-140" y="189.05"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #add8e6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="-160" y="150" width="20" height="20" rx="0" ry="0"/>
-      <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-150" y="168.061">
-        <tspan x="-150" y="168.061">2</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #add8e6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="-164" y="170" width="20" height="20" rx="0" ry="0"/>
-      <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-154" y="188.061">
-        <tspan x="-154" y="188.061">6</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #99bfcc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="-168" y="168" width="4" height="24" rx="0" ry="0"/>
-      <text font-size="20.32" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-166" y="189.05">
-        <tspan x="-166" y="189.05"></tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #add8e6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="-160" y="190" width="20" height="20" rx="0" ry="0"/>
-      <text font-size="18.0622" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-150" y="208.061">
-        <tspan x="-150" y="208.061">5</tspan>
-      </text>
-    </g>
-    <polygon style="fill: #ffa500; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #cc8400" fill-rule="evenodd" points="-152,146 -148,142 -156,142 "/>
-    <polygon style="fill: #ffa500; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #cc8400" fill-rule="evenodd" points="-152,214 -148,218 -156,218 "/>
-    <polygon style="fill: #86a7b2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-linejoin: round; stroke: #7f7f7f" fill-rule="evenodd" points="-140,150 -136,149.6 -136,169.6 -140,170 "/>
-    <polygon style="fill: #86a7b2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" fill-rule="evenodd" points="-140,190 -136,189.6 -136,209.6 -140,210 "/>
-    <polygon style="fill: #86a7b2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" fill-rule="evenodd" points="-164,150 -168,149.6 -168,169.6 -164,170 -160,170 -160,150 "/>
-    <polygon style="fill: #86a7b2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" fill-rule="evenodd" points="-164,190 -168,189.6 -168,209.6 -164,210 -160,210 -160,190 "/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11cm" height="11cm" version="1.1" viewBox="-260 20 210 210" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <image x="-260" y="20" width="210" height="210" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBBcGFj aGUuIE1hZGUgYnkgZ29vZ2xlZm9udHM6IGh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGVmb250cy9u b3RvLWVtb2ppIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0i MCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxp bms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGFyaWEtaGlkZGVuPSJ0cnVlIiByb2xl PSJpbWciIGNsYXNzPSJpY29uaWZ5IGljb25pZnktLW5vdG8iIHByZXNlcnZlQXNwZWN0UmF0aW89 InhNaWRZTWlkIG1lZXQiPgoKPHBhdGggZD0iTTEwMy42NSA2Mi43aC0uMDFjLS4xMi0yLjQ1LTIu NzItNC43NC03LjIxLTYuMDljLTkuNjEtMi44OS0yMC4yNy00LjU4LTMyLjQzLTQuNjhjLTEyLjE1 LjEtMjIuODEgMS43OS0zMi40MyA0LjY4Yy00LjQ5IDEuMzUtNy4wNyAzLjY0LTcuMiA2LjA5aC0u MDJ2NTAuMDhjLS4xMSAyLjggMy4wMiA1LjggMTAuMjYgNy44NWM3LjQ4IDIuMTIgMTcuNiAzLjQ5 IDI5LjM4IDMuNDlzMjEuOS0xLjM3IDI5LjM4LTMuNDljNy41OS0yLjE1IDEwLjY2LTUuMzQgMTAu MjItOC4yNWguMDRWNjIuN3oiIGZpbGw9IiNlMmE2MTAiPgoKPC9wYXRoPgoKPHBhdGggZmlsbD0i I2UyYTYxMCIgZD0iTTI0LjM1IDYzLjQzaDc5LjMiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTcxLjkg MTA4LjI0bC00LjQ5LTEwLjU4YTcuNjYyIDcuNjYyIDAgMCAwIDQuMzMtNi45YzAtNC4yNC0zLjQ0 LTcuNjctNy42Ny03LjY3cy03LjY3IDMuNDQtNy42NyA3LjY3YzAgMi44NSAxLjU2IDUuMzQgMy44 NyA2LjY2bC00LjE4IDEwLjg5Yy0uNTMgMS4zOC40OSAyLjg1IDEuOTYgMi44NWgxMS45MmMxLjUg MCAyLjUxLTEuNTQgMS45My0yLjkyeiIgZmlsbD0iIzRlMzQyZSI+Cgo8L3BhdGg+Cgo8cGF0aCBk PSJNNzEuNDcgMTA3LjI2SDU2LjQ4bC0uNCAxLjA1Yy0uNTMgMS4zOC40OSAyLjg1IDEuOTYgMi44 NWgxMS45MmMxLjUxIDAgMi41Mi0xLjU0IDEuOTMtMi45MmwtLjQyLS45OHoiIGZpbGw9IiM5ZTc0 MGIiPgoKPC9wYXRoPgoKPHBhdGggZD0iTTYwLjk1IDk1LjRjLjE4LS41Mi0uMDEtMS4wOC0uNDUt MS40Yy0uNi0uNDQtMS40MS0xLjIyLTEuOTItMi40NmMtMS44Ni00LjQ4LjM1LTYuNDcuMzUtNi40 N2E3LjYyMiA3LjYyMiAwIDAgMC0yLjU0IDUuNjljMCAyLjg1IDEuNTYgNS4zNCAzLjg3IDYuNjZs LjY5LTIuMDJ6IiBmaWxsPSIjOWU3NDBiIj4KCjwvcGF0aD4KCjxwYXRoIGQ9Ik02OS40NiA4NS4z czIuMiA0LjQyLS4zMiA3LjI1Yy0uODYuOTYtMS41OSAxLjQ3LTIuMTMgMS43MmMtLjUzLjI1LS43 Ny44OC0uNTIgMS40MWwuOTMgMS45NmE3LjY2MiA3LjY2MiAwIDAgMCA0LjMzLTYuOWMtLjAyLTMu MjUtMi4yOS01LjQ0LTIuMjktNS40NHoiIGZpbGw9IiM5ZTc0MGIiPgoKPC9wYXRoPgoKPHBhdGgg ZD0iTTk0Ljc0IDU1Ljk1Qzg1LjYzIDUzLjMgNzUuNTIgNTEuNzYgNjQgNTEuNjZjLTExLjUyLjA5 LTIxLjYzIDEuNjQtMzAuNzQgNC4yOGMtOS4xMyAyLjY1LTEwLjA0IDkuMjYgMi44OSAxMi44Yzcu MDkgMS45NCAxNi42OSAzLjE5IDI3Ljg1IDMuMTlzMjAuNzYtMS4yNSAyNy44NS0zLjE5YzEyLjkz LTMuNTMgMTIuMDItMTAuMTUgMi44OS0xMi43OXoiIGZpbGw9IiNmZGQ4MzUiPgoKPC9wYXRoPgoK PGc+Cgo8cGF0aCBkPSJNOTIuMTUgNjIuMjFzLS4zNyAxLjcyLTUuMjIgMS43MnMtNS44OC0xLjcy LTUuODgtMS43MlY0MC4xNkM4MS4wNSAzMC4xNCA3My40IDIyIDYzLjk5IDIycy0xNy4wNiA4LjE1 LTE3LjA2IDE4LjE2djIyLjA2cy0yLjExIDEuNzItNS45NSAxLjcycy01LjE0LTEuNzItNS4xNC0x LjcyVjQwLjE2YzAtMTYuMTQgMTIuNjMtMjkuMjYgMjguMTUtMjkuMjZzMjguMTUgMTMuMTMgMjgu MTUgMjkuMjZ2MjIuMDV6IiBmaWxsPSIjODRiMGMxIiBzdHJva2U9IiM4NGIwYzEiIHN0cm9rZS13 aWR0aD0iMS45NTgiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCI+Cgo8L3BhdGg+Cgo8cGF0aCBkPSJN NTEuMzEgMjEuNTZjLTUuMTQgMy4wNi01LjkzIDUuMTMtNy4zNiA2LjA4Yy0xLjA2LjctMi40Ny4x NC0xLjU1LTIuMjljLjc5LTIuMDggMi42OS02LjAyIDcuNDMtOS4wNWM4LjE2LTUuMjIgMTUuMi00 Ljk4IDE0LjgyLS45OWMtLjMyIDMuNTMtNy44NiAyLjk5LTEzLjM0IDYuMjV6IiBmaWxsPSIjYjll NGVhIj4KCjwvcGF0aD4KCjwvZz4KCjwvc3ZnPg== "/>
+ <g>
+  <rect x="-144" y="168" width="8" height="24" rx="0" ry="0" fill="#86a7b2" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="-140" y="189.05" fill="#000000" font-family="sans-serif" font-size="20px" text-anchor="middle"><tspan x="-140" y="189.05"/></text>
+ </g>
+ <g>
+  <rect x="-160" y="150" width="20" height="20" rx="0" ry="0" fill="#add8e6" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="-150" y="168.061" fill="#000000" font-family="sans-serif" font-size="18px" text-anchor="middle"><tspan x="-150" y="168.061">2</tspan></text>
+ </g>
+ <g>
+  <rect x="-164" y="170" width="20" height="20" rx="0" ry="0" fill="#add8e6" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="-154" y="188.061" fill="#000000" font-family="sans-serif" font-size="18px" text-anchor="middle"><tspan x="-154" y="188.061">6</tspan></text>
+ </g>
+ <g>
+  <rect x="-168" y="168" width="4" height="24" rx="0" ry="0" fill="#99bfcc" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="-166" y="189.05" fill="#000000" font-family="sans-serif" font-size="20px" text-anchor="middle"><tspan x="-166" y="189.05"/></text>
+ </g>
+ <g>
+  <rect x="-160" y="190" width="20" height="20" rx="0" ry="0" fill="#add8e6" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="-150" y="208.061" fill="#000000" font-family="sans-serif" font-size="18px" text-anchor="middle"><tspan x="-150" y="208.061">5</tspan></text>
+ </g>
+ <polygon points="-156 142 -152 146 -148 142" fill="#ffa500" fill-rule="evenodd" stroke="#cc8400" stroke-width="2"/>
+ <polygon points="-156 218 -152 214 -148 218" fill="#ffa500" fill-rule="evenodd" stroke="#cc8400" stroke-width="2"/>
+ <g fill="#86a7b2" fill-rule="evenodd" stroke="#7f7f7f" stroke-width="2">
+  <polygon points="-136 170 -140 170 -140 150 -136 150" stroke-linejoin="round"/>
+  <polygon points="-136 210 -140 210 -140 190 -136 190"/>
+  <polygon points="-168 170 -164 170 -160 170 -160 150 -164 150 -168 150"/>
+  <polygon points="-168 210 -164 210 -160 210 -160 190 -164 190 -168 190"/>
+ </g>
 </svg>
