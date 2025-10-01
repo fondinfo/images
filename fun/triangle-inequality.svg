@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="9cm" height="8cm" viewBox="271 620 172 159" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke: #000000" x1="280" y1="680" x2="440" y2="680"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke: #000000" x1="280" y1="680" x2="320" y2="640"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke: #000000" x1="440" y1="680" x2="380" y2="640"/>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 4; stroke: #ff0000" d="M 380,640 A 72.111,72.111 0 0 0 380,720"/>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 4; stroke: #ff0000" d="M 320,640 A 56.5685,56.5685 0 0 1 320,720"/>
+    <text font-size="28.2218" style="fill: #0000ff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="710.95">
+      <tspan x="360" y="710.95">a</tspan>
+    </text>
+    <text font-size="28.2218" style="fill: #0000ff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="280" y="650.95">
+      <tspan x="280" y="650.95">b</tspan>
+    </text>
+    <text font-size="28.2218" style="fill: #0000ff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="420" y="650.95">
+      <tspan x="420" y="650.95">c</tspan>
+    </text>
+    <text font-size="28.2222" style="fill: #ff0000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="360" y="770.95">
+      <tspan x="360" y="770.95">a &gt; b + c</tspan>
+    </text>
+  </g>
+</svg>
