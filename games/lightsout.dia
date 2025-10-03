@@ -3429,7 +3429,7 @@
         <dia:real val="-45"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/index.svg#</dia:string>
+        <dia:string>#index.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Geometric - Sharp Eight Point Star" version="1" id="O104">
@@ -3503,7 +3503,7 @@
         <dia:real val="-45"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/index.svg#</dia:string>
+        <dia:string>#index.svg#</dia:string>
       </dia:attribute>
     </dia:object>
   </dia:layer>

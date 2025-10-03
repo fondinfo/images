@@ -142,7 +142,7 @@
         <dia:boolean val="false"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/alien.svg#</dia:string>
+        <dia:string>#alien.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Ellipse" version="0" id="O2">

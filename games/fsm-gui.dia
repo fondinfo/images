@@ -662,7 +662,7 @@ over#</dia:string>
         <dia:boolean val="false"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/gear.svg#</dia:string>
+        <dia:string>#gear.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O19">
@@ -688,7 +688,7 @@ over#</dia:string>
         <dia:boolean val="false"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/pacman.svg#</dia:string>
+        <dia:string>#pacman.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O20">
@@ -714,7 +714,7 @@ over#</dia:string>
         <dia:boolean val="false"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/ghost.svg#</dia:string>
+        <dia:string>#ghost.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O21">
@@ -740,7 +740,7 @@ over#</dia:string>
         <dia:boolean val="false"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/thumbsup.svg#</dia:string>
+        <dia:string>#thumbsup.svg#</dia:string>
       </dia:attribute>
     </dia:object>
   </dia:layer>

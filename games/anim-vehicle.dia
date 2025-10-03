@@ -193,7 +193,7 @@
         <dia:boolean val="false"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/automobile2.svg#</dia:string>
+        <dia:string>#automobile2.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O4">
@@ -219,7 +219,7 @@
         <dia:boolean val="false"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/automobile.svg#</dia:string>
+        <dia:string>#automobile.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Line" version="0" id="O5">
@@ -299,7 +299,7 @@
         <dia:boolean val="false"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/frog.svg#</dia:string>
+        <dia:string>#frog.svg#</dia:string>
       </dia:attribute>
     </dia:object>
   </dia:layer>

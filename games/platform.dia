@@ -172,7 +172,7 @@
         <dia:boolean val="true"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/person-running.svg#</dia:string>
+        <dia:string>#person-running.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O3">
@@ -198,7 +198,7 @@
         <dia:boolean val="true"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/brick.svg#</dia:string>
+        <dia:string>#brick.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O4">
@@ -224,7 +224,7 @@
         <dia:boolean val="true"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/brick.svg#</dia:string>
+        <dia:string>#brick.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O5">
@@ -250,7 +250,7 @@
         <dia:boolean val="true"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/brick.svg#</dia:string>
+        <dia:string>#brick.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O6">
@@ -276,7 +276,7 @@
         <dia:boolean val="true"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/brick.svg#</dia:string>
+        <dia:string>#brick.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O7">
@@ -302,7 +302,7 @@
         <dia:boolean val="true"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/brick.svg#</dia:string>
+        <dia:string>#brick.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O8">
@@ -328,7 +328,7 @@
         <dia:boolean val="true"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/brick.svg#</dia:string>
+        <dia:string>#brick.svg#</dia:string>
       </dia:attribute>
     </dia:object>
   </dia:layer>

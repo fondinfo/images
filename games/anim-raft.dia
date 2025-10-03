@@ -271,7 +271,7 @@
         <dia:boolean val="false"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/frog.svg#</dia:string>
+        <dia:string>#frog.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O7">
@@ -300,7 +300,7 @@
         <dia:real val="-90"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/wood.svg#</dia:string>
+        <dia:string>#wood.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O8">
@@ -329,7 +329,7 @@
         <dia:real val="-90"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/wood.svg#</dia:string>
+        <dia:string>#wood.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O9">
@@ -358,7 +358,7 @@
         <dia:real val="-90"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/wood.svg#</dia:string>
+        <dia:string>#wood.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Image" version="0" id="O10">
@@ -387,7 +387,7 @@
         <dia:real val="-90"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/wood.svg#</dia:string>
+        <dia:string>#wood.svg#</dia:string>
       </dia:attribute>
     </dia:object>
   </dia:layer>

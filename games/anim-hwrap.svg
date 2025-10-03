@@ -1,22 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="21cm" height="16cm" viewBox="399 199 402 302" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background">
-    <rect style="fill: #add8e6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="400" y="200" width="400" height="300" rx="0" ry="0"/>
-    <image x="520" y="280" width="80" height="80" xlink:href="automobile2.svg"/>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="600" y1="320" x2="790.264" y2="320"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="797.764,320 787.764,325 790.264,320 787.764,315 "/>
-    </g>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="400" y1="320" x2="450.264" y2="320"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="457.764,320 447.764,325 450.264,320 447.764,315 "/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21cm" height="16cm" version="1.1" viewBox="399 199 402 302" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="400" y="200" width="400" height="300" rx="0" ry="0" fill="#add8e6" stroke="#000" stroke-width="2"/>
+ <image x="520" y="280" width="80" height="80" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBjbGFzcz0iaWNvbmlm eSBpY29uaWZ5LS1ub3RvIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjgwMCIgYXJpYS1oaWRkZW49InRy dWUiIHJvbGU9ImltZyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9 Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KIDxwYXRoIGQ9Im0xMDcgOTdjMC40MSAwLjE0 IDE3LjUgNS4zNyAxNy41IDUuMzdzMS4xNS01LjMxIDAuMS0xMC43Yy0xLjExLTUuNzItMi41Ni05 LjEyLTIuNTYtOS4xMnMtMS41OC0zLjg1LTYuNDctNy4wMWMtNC4xMS0yLjY2LTEzLjUtNS40OC0x NS43LTYuODYtMS40NC0wLjkxLTMuODctMi41NS03LjU2LTYuNjFzLTYuNjEtOC4zMS0xMy4xLTEx LjMtOS45Mi0yLjU1LTE3LTMuMDItMTQuNy0wLjI4LTIwLjUgMC0xMC4zIDIuOTMtMTEuOCAzLjg3 Yy0xLjUxIDAuOTQtNS4yOSA0LjE2LTcuMjcgNi4yMy0xLjk4IDIuMDgtNC4zNCA1LjE5LTYuMTQg Ni43MS0xLjc5IDEuNTEtNC42MyAzLjMxLTcuMDggNC43Mi0yLjQ2IDEuNDItMy45NyAyLjY0LTQu NDQgMy44N3MtMC40NiAxLjI5LTAuNDYgMS4yOWwxLjY5IDE3LjV6IiBmaWxsPSIjMGYwIi8+CiA8 cGF0aCBkPSJtMTI0IDEwMnMtMi41OS00LjY4LTguNzItOS41OGMtNS4yMi00LjE3LTkuOTItNi40 OS0xNy4yLTcuNTYtNi40My0wLjk0LTE5LjMtMC42NC00MC44LTAuNTQtMjEuNSAwLjA5LTM2Ljgg MC4xMi0zOC43IDAuMDNzLTQuNTYtMS43Ny03LjY1LTMuNzNjLTMuMDgtMS45Ni00LjMxIDAuOTIt NC4zMSAwLjkybC0zLjQ2IDEwLjJzLTAuMTMgMTEuNyAwLjA5IDE0LjZjMC4xNSAxLjg4IDIuNzEg NS4xNCA0LjAyIDUuN3MyNC45IDAuOTMgMzEuOSAwLjkzYzcuMDEgMCA2Ni44LTAuMTggNzIuOC0w LjY1IDIuOC0wLjIyIDYuNTQtMS42OCA4LjMyLTMuNDYgMy4yOC0zLjI3IDMuNzUtNi44MiAzLjc1 LTYuODJ6IiBmaWxsPSIjMDA4MDAwIi8+CiA8cGF0aCBkPSJtMTIwIDgyLjVzLTcuOTktMS04LjU2 LTAuNmMtMC43MSAwLjUgMi40MyA1LjkxIDMuMjYgNyAwLjQxIDAuNTQgNy40NSAzLjk0IDcuNDUg My45NGwtMC4wMi00Ljg5eiIgZmlsbD0iI2ZmZmVmZiIvPgogPHBhdGggZD0ibTEyNSA5NC4xLTMu MS0xLjYycy0wLjU1LTMuMDktMC44OS00LjU2Yy0wLjU1LTIuNDMtMS45LTUuNTYtMS45LTUuNTZs My4wMyAwLjI4czAuOTkgMS42OSAxLjkgNS40OGMwLjk3IDQuMDkgMC45NiA1Ljk4IDAuOTYgNS45 OHoiIGZpbGw9IiNkNWNjYzIiLz4KIDxwYXRoIGQ9Im05NS41IDc2LjZjLTAuMjIgMi4xNi0yLjYx IDIuMTEtOS40NCAyLjExLTUuNDUgMC02MC40IDAuNTEtNjEuNy0wLjA3LTAuNjQtMC4yOC0xLjUy LTEuNDctMi42MS0zLjA1LTEuNjQtMi4zNi0yLjQtMy40OC0yLjI1LTQuMzYgMC4yOS0xLjcyIDku MjItMTMgMTQuOC0xNi4zIDMuODctMi4zMSAxMi4yLTIuMzIgMTkuMS0yLjQgNi4yNC0wLjA3IDE4 LjEtMC4yMiAyMy43IDMuNDEgOC40MyA1LjQxIDE4LjcgMTcuOSAxOC40IDIwLjd6IiBmaWxsPSIj NTQ2ZDgxIi8+CiA8cGF0aCBkPSJtODguMSA3NC40Yy0wLjQ0IDAuNTUtOS4xMyAwLjM5LTE3LjIg MC4zNi04LjI3LTAuMDMtMTYgMC4zNy0xNi4zIDAtMC4xMi0wLjE3LTAuNTMtMTcuNy0wLjE5LTE4 IDAuMjUtMC4yMyAyLjM5LTAuMDcgNS4xMS0wLjA0IDQuNTQgMC4wNSAxMS4yIDAuNzYgMTUuMyAz LjA5IDcuMTUgMy45OSAxNC4yIDEzLjUgMTMuMyAxNC42eiIgZmlsbD0iI2FmZTNmYiIvPgogPHBh dGggZD0ibTQ5LjQgNTcuMWMwLjA3IDAuMTMgMC4yIDE3LjggMC4wOSAxNy45LTAuNTggMC4zNi0y Mi43IDAuMDgtMjMtMC4yMXMtMi42MS0yLjYxLTIuNTQtMy4xOSA3LjU0LTkuODEgMTIuNy0xMi45 YzIuMjUtMS4zOSAxMi42LTEuNzUgMTIuNy0xLjU1eiIgZmlsbD0iI2FmZTNmYiIvPgogPHBhdGgg ZD0ibTkwLjIgODFjLTAuNjUgMS43Mi00LjEgMi40Ny02LjMyIDIuMjctMy4yOC0wLjMtNS4yNS0y LjIxLTUuNi02LjE0LTAuNDEtNC41MSAxLjY1LTYuNTggMy4wOC02Ljg1IDEuNTItMC4yOSA4Ljkg Ny41NiA4LjkgNy41NnMwLjQ4IDEuNzMtMC4wNiAzLjE2eiIgZmlsbD0iIzAwODAwMCIvPgogPHBh dGggZD0ibTg1LjUgODBjLTIuNDMtMC4yNi00LjE3LTIuNS01LjAxLTQuMjktMC44My0xLjc5LTEu NDUtNC40OSAwLjQyLTUuMzEgMi4zMi0xLjAxIDQuNDEgMC4xOCA1Ljg0IDEuNzkgMS4yNiAxLjQy IDMuNyA0LjY1IDMuNTIgNS42LTAuMTggMC45Ni0xLjQzIDIuNTctNC43NyAyLjIxeiIgZmlsbD0i IzBmMCIvPgogPHBhdGggZD0ibTExMCAxMTBjLTAuMDkgNS41Mi00LjQ5IDEzLjUtMTQuMSAxMy41 LTkuNTggMC4wNi0xNC42LTcuMjgtMTQuMi0xNC44IDAuMzEtNy42NCA2LjI1LTEzIDE0LjgtMTIu OCA4IDAuMjQgMTMuNiA2LjQ0IDEzLjUgMTQuMXoiIGZpbGw9IiM0ZTQzM2QiLz4KIDxwYXRoIGQ9 Im0xMDMgMTEwYy0wLjA1IDIuOTEtMi40MSA3LjEtNy41NiA3LjEzcy03LjY0LTMuNjItNy40OC03 LjU4YzAuMTctNC4wMyAzLjQ2LTcuMDMgNy43OC02Ljk3IDQuMyAwLjA3IDcuMzMgMy4zOSA3LjI2 IDcuNDJ6IiBmaWxsPSIjYzhjOGM4Ii8+CiA8cGF0aCBkPSJtMzkgMTExYy0wLjA5IDUuNDgtNC4z OSAxMy40LTEzLjggMTMuNHMtMTQuMi03LjIyLTE0LTE0LjdjMC4zLTcuNTkgNi4xMS0xMi45IDE0 LjUtMTIuNyA3LjgzIDAuMjMgMTMuNCA2LjM4IDEzLjIgMTR6IiBmaWxsPSIjNGU0MzNkIi8+CiA8 cGF0aCBkPSJtMzIuNyAxMTBjLTAuMDUgMi45MS0yLjQxIDcuMS03LjU2IDcuMTNzLTcuNjQtMy42 Mi03LjQ4LTcuNThjMC4xNy00LjAzIDMuNDYtNy4wMyA3Ljc4LTYuOTcgNC4yOSAwLjA3IDcuMzIg My4zOSA3LjI2IDcuNDJ6IiBmaWxsPSIjYzhjOGM4Ii8+CiA8cGF0aCBkPSJtNi4yMyA3Ni4yYzAu MjkgMC40MSA1LjMxIDQuNTUgNS4zMSA1LjE5cy01LjcyIDguOTEtNS43MiA4LjkxbC0xLjM0IDAu ODFzLTAuNjQtMTAuNS0wLjY0LTEwLjdjMC0wLjIxIDIuMzktNC4yIDIuMzktNC4yeiIgZmlsbD0i I2ZmZmVmZiIvPgogPHBhdGggZD0ibTMuMjIgOTMuNnMtMC40Ny03LjUzLTAuNDEtMTEuNmMwLjA2 LTQuNDMgMS4zMi03LjY4IDEuMzItNy42OGwyLjEyIDEuODVzLTAuNzIgMy45Mi0wLjcyIDYuNDkg MC4yOSA3LjU4IDAuMjkgNy41OHoiIGZpbGw9IiNkNWNjYzIiLz4KPC9zdmc+Cg== "/>
+ <g stroke="#000" stroke-width="2">
+  <line x1="600" x2="790.3" y1="320" y2="320" fill="none"/>
+  <polygon points="790.3 320 787.8 315 797.8 320 787.8 325" fill-rule="evenodd"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="400" x2="450.3" y1="320" y2="320" fill="none" stroke-dasharray="4"/>
+  <polygon points="450.3 320 447.8 315 457.8 320 447.8 325" fill-rule="evenodd"/>
+ </g>
 </svg>

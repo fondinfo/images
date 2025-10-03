@@ -2945,7 +2945,7 @@
         <dia:boolean val="true"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/triangular-flag.svg#</dia:string>
+        <dia:string>#triangular-flag.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Box" version="0" id="O108">
@@ -2997,7 +2997,7 @@
         <dia:boolean val="true"/>
       </dia:attribute>
       <dia:attribute name="file">
-        <dia:string>#/home/mic/Documents/tomamic/images/games/triangular-flag.svg#</dia:string>
+        <dia:string>#triangular-flag.svg#</dia:string>
       </dia:attribute>
     </dia:object>
     <dia:object type="Standard - Text" version="1" id="O110">

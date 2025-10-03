@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="21cm" height="16cm" viewBox="399 199 402 302" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background">
-    <rect style="fill: #add8e6; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="400" y="200" width="400" height="300" rx="0" ry="0"/>
-    <image x="460" y="260" width="80" height="80" xlink:href="ball.svg"/>
-    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #bfbfbf" cx="660" cy="460" rx="40" ry="40"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="540.005" y1="340.005" x2="660" y2="460"/>
-    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #bfbfbf" cx="760" cy="360" rx="40" ry="40"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="660" y1="460" x2="760" y2="360"/>
-    <g>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="760" y1="360" x2="706.884" y2="306.884"/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="701.581,301.581 712.188,305.117 706.884,306.884 705.117,312.188 "/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21cm" height="16cm" version="1.1" viewBox="399 199 402 302" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="400" y="200" width="400" height="300" rx="0" ry="0" fill="#add8e6" stroke="#000" stroke-width="2"/>
+ <image x="460" y="260" width="80" height="80" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iODAwcHgi IGhlaWdodD0iODAwcHgiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHhtbDpz cGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxjaXJj bGUgdHJhbnNmb3JtPSJzY2FsZSgtMSwxKSIgY3g9Ii0yNTYiIGN5PSIyNTYiIHI9IjI1NiIgZmls bD0iIzAwMDA4MCIvPgo8cGF0aCBkPSJtNTEyIDI1NmMwIDE3LjEtMS42OCAzMy44LTQuODggNTAt MTUuNSA3OC40LTg0IDEzNC0xNjQgMTM1LTEuMDIgN2UtMyAtMi4wNCA5ZS0zIC0zLjA2IDRlLTMg LTE0MS0wLjYzMy0yNTUtMTE1LTI1NS0yNTYgMWUtMyAtNTguOSAxOS45LTExMyA1My40LTE1NyAz NS41LTE4LjMgNzUuNy0yOC42IDExOC0yOC40IDE0MSAwLjYzMyAyNTUgMTE1IDI1NSAyNTZ6IiBm aWxsPSIjMDBmIi8+CjxwYXRoIGQ9Im0xOTggODUuNmM2MC4zLTYwLjMgMTY0LTU0LjYgMjMxIDEy LjYgNjcuMyA2Ny4zIDcyLjkgMTcxIDEyLjYgMjMxLTYwLjMgNjAuMy0xNjQgNTQuNi0yMzEtMTIu Ni02Ny4zLTY3LjMtNzIuOS0xNzEtMTIuNi0yMzF6IiBmaWxsPSIjZTdlNGNkIi8+CjxwYXRoIGQ9 Im0zNjMgNTYuOWMxLjY3IDAgMy4zMyAwLjA1IDQuOTggMC4xMzggMjIuMSA5LjA5IDQzLjIgMjIu OCA2MS41IDQxLjIgOC42OCA4LjY4IDE2LjMgMTggMjMgMjcuNyAxLjk1IDcuNDggMyAxNS4zIDMg MjMuNCAwIDUxLjEtNDEuNCA5Mi40LTkyLjQgOTIuNHMtOTIuNC00MS40LTkyLjQtOTIuNCA0MS40 LTkyLjQgOTIuNC05Mi40eiIgZmlsbD0iI2ZlZmJlMSIvPgo8cGF0aCBkPSJtMzExIDc4LjljLTMu MDggMTUuNi03LjQ1IDMxLjctMTMuMiA0OC41LTE5LjMgMy41NC0zOSA3LjEzLTU5IDEwLjgtMTku NiAzLjU4LTI1LjMgMjcuMy0xMC4zIDM5LjkgMTUuNCAxMi43IDMwLjIgMjUuNSA0NC4zIDM4LjMt NC45OSAyMC42LTExLjcgNDEuOC0yMC4yIDYzLjQtOC42MiAyMS44IDguMTUgMzYuMSAzMC4xIDI0 LjIgMjIuNS0xMi4zIDUxLjQtMjUuMSA3Mi0zNi45IDE3LjIgOC4xNiAyNiAxNS4yIDQzLjMgMjUu MSAxNSA4LjU3IDM4LjgtOS45OCAzOC0yOS42LTAuODgzLTE5LjYtMy4yLTM4LjgtNi44OC01Ny44 IDkuMzItMTcuMiAxMi40LTE4LjggMTkuNy00MC4yIDUuNjUtMTYuNy0wLjU2Mi0zMS4zLTE4LjYt MzUuOC0xNS41LTMuODItMjAuNy00LjA0LTM5LjgtNS42Ni0xMi4zLTE1LjUtMjUuNy0zMC42LTQw LjEtNDUuMy0xMy44LTEzLjgtMzYuNy0xMy4yLTM5LjMgMS4yNHoiIGZpbGw9IiMwNTAiLz4KPHBh dGggZD0ibTI3MCAxNDljMC01Ljg1IDAuNTY3LTExLjYgMS42MS0xNy4xIDguODgtMS42MiAxNy43 LTMuMjMgMjYuNC00LjgzIDUuNzEtMTYuNyAxMC4xLTMyLjkgMTMuMi00OC41IDIuNjMtMTQuNSAy NS41LTE1LjEgMzkuMy0xLjI1IDE0LjQgMTQuNyAyNy43IDI5LjkgNDAuMSA0NS4zIDE5LjEgMS42 MiAyNC4zIDEuODQgMzkuOCA1LjY2IDE4IDQuNDQgMjQuMyAxOS4xIDE4LjYgMzUuOC03LjI3IDIx LjQtMTAuMyAyMy0xOS43IDQwLjIgMC40NTcgMi4zNSAwLjg5MyA0LjcgMS4zMSA3LjA2LTE2Ljkg MTguNS00MS4yIDMwLTY4LjIgMzAtNTEuMSAyZS0zIC05Mi40LTQxLjQtOTIuNC05Mi40eiIgZmls bD0iIzAwODAwMCIvPgo8L3N2Zz4K "/>
+ <g fill="none" stroke-width="2">
+  <circle cx="660" cy="460" r="40" stroke="#bfbfbf"/>
+  <line x1="540" x2="660" y1="340" y2="460" stroke="#000"/>
+  <circle cx="760" cy="360" r="40" stroke="#bfbfbf"/>
+  <line x1="660" x2="760" y1="460" y2="360" stroke="#000"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="760" x2="706.9" y1="360" y2="306.9" fill="none"/>
+  <polygon points="706.9 306.9 705.1 312.2 701.6 301.6 712.2 305.1" fill-rule="evenodd"/>
+ </g>
 </svg>
