@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12cm" height="12cm" version="1.1" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <circle cx="50.0" cy="275.0" r="5" fill="#ff0000"/>
+  <circle cx="125.0" cy="237.5" r="5" fill="#bf003f"/>
+  <circle cx="200.0" cy="200.0" r="5" fill="#7f007f"/>
+  <circle cx="275.0" cy="162.5" r="5" fill="#3f00bf"/>
+  <circle cx="350.0" cy="125.0" r="5" fill="#0000ff"/>
+ </g>
+</svg>
