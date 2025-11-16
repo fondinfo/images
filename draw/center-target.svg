@@ -2,14 +2,24 @@
 <svg width="16cm" height="12cm" version="1.1" viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg">
  <g>
   <ellipse cx="40" cy="30" rx="20" ry="20" fill="#ca122c"/>
+  <text x="40" y="30" dominant-baseline="middle" text-anchor="middle">1</text>
   <ellipse cx="290" cy="80" rx="20" ry="20" fill="#4d1525"/>
+  <text x="290" y="80" dominant-baseline="middle" text-anchor="middle">2</text>
   <ellipse cx="220" cy="150" rx="20" ry="20" fill="#994ec4"/>
+  <text x="220" y="150" dominant-baseline="middle" text-anchor="middle">3</text>
   <ellipse cx="180" cy="20" rx="20" ry="20" fill="#b4a110"/>
+  <text x="180" y="20" dominant-baseline="middle" text-anchor="middle">4</text>
   <ellipse cx="280" cy="210" rx="20" ry="20" fill="#31d762"/>
+  <text x="280" y="210" dominant-baseline="middle" text-anchor="middle">5</text>
   <ellipse cx="140" cy="130" rx="20" ry="20" fill="#235ce2"/>
+  <text x="140" y="130" dominant-baseline="middle" text-anchor="middle">6</text>
   <ellipse cx="130" cy="200" rx="20" ry="20" fill="#e7b2e1"/>
+  <text x="130" y="200" dominant-baseline="middle" text-anchor="middle">7</text>
   <ellipse cx="200" cy="130" rx="20" ry="20" fill="#9d9aa2"/>
+  <text x="200" y="130" dominant-baseline="middle" text-anchor="middle">8</text>
   <ellipse cx="180" cy="180" rx="20" ry="20" fill="#42b235"/>
+  <text x="180" y="180" dominant-baseline="middle" text-anchor="middle">9</text>
   <ellipse cx="170" cy="110" rx="20" ry="20" fill="#0caa00"/>
+  <text x="170" y="110" dominant-baseline="middle" text-anchor="middle">10</text>
  </g>
 </svg>

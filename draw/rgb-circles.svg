@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11cm" height="11cm" version="1.1" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+<g>
+<circle cx="352" cy="288" r="22" fill="red" />
+<circle cx="308" cy="288" r="22" fill="green" />
+<circle cx="330" cy="250" r="22" fill="blue" />
+<circle cx="265" cy="288" r="22" fill="red" />
+<circle cx="222" cy="288" r="22" fill="green" />
+<circle cx="243" cy="250" r="22" fill="blue" />
+<circle cx="308" cy="212" r="22" fill="red" />
+<circle cx="265" cy="212" r="22" fill="green" />
+<circle cx="287" cy="175" r="22" fill="blue" />
+<circle cx="178" cy="288" r="22" fill="red" />
+<circle cx="135" cy="288" r="22" fill="green" />
+<circle cx="157" cy="250" r="22" fill="blue" />
+<circle cx="92" cy="288" r="22" fill="red" />
+<circle cx="48" cy="288" r="22" fill="green" />
+<circle cx="70" cy="250" r="22" fill="blue" />
+<circle cx="135" cy="212" r="22" fill="red" />
+<circle cx="92" cy="212" r="22" fill="green" />
+<circle cx="113" cy="175" r="22" fill="blue" />
+<circle cx="265" cy="138" r="22" fill="red" />
+<circle cx="222" cy="138" r="22" fill="green" />
+<circle cx="243" cy="100" r="22" fill="blue" />
+<circle cx="178" cy="138" r="22" fill="red" />
+<circle cx="135" cy="138" r="22" fill="green" />
+<circle cx="157" cy="100" r="22" fill="blue" />
+<circle cx="222" cy="62" r="22" fill="red" />
+<circle cx="178" cy="62" r="22" fill="green" />
+<circle cx="200" cy="25" r="22" fill="blue" />
+</g>
+</svg>
