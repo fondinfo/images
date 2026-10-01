@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21cm" height="16cm" version="1.1" viewBox="399 199 402 302" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="400" y="200" width="400" height="300" rx="0" ry="0" fill="#add8e6" stroke="#000" stroke-width="2"/>
+ <image x="460" y="260" width="80" height="80" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iODAwcHgi
+IGhlaWdodD0iODAwcHgiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHhtbDpz
+cGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxjaXJj
+bGUgdHJhbnNmb3JtPSJzY2FsZSgtMSwxKSIgY3g9Ii0yNTYiIGN5PSIyNTYiIHI9IjI1NiIgZmls
+bD0iIzAwMDA4MCIvPgo8cGF0aCBkPSJtNTEyIDI1NmMwIDE3LjEtMS42OCAzMy44LTQuODggNTAt
+MTUuNSA3OC40LTg0IDEzNC0xNjQgMTM1LTEuMDIgN2UtMyAtMi4wNCA5ZS0zIC0zLjA2IDRlLTMg
+LTE0MS0wLjYzMy0yNTUtMTE1LTI1NS0yNTYgMWUtMyAtNTguOSAxOS45LTExMyA1My40LTE1NyAz
+NS41LTE4LjMgNzUuNy0yOC42IDExOC0yOC40IDE0MSAwLjYzMyAyNTUgMTE1IDI1NSAyNTZ6IiBm
+aWxsPSIjMDBmIi8+CjxwYXRoIGQ9Im0xOTggODUuNmM2MC4zLTYwLjMgMTY0LTU0LjYgMjMxIDEy
+LjYgNjcuMyA2Ny4zIDcyLjkgMTcxIDEyLjYgMjMxLTYwLjMgNjAuMy0xNjQgNTQuNi0yMzEtMTIu
+Ni02Ny4zLTY3LjMtNzIuOS0xNzEtMTIuNi0yMzF6IiBmaWxsPSIjZTdlNGNkIi8+CjxwYXRoIGQ9
+Im0zNjMgNTYuOWMxLjY3IDAgMy4zMyAwLjA1IDQuOTggMC4xMzggMjIuMSA5LjA5IDQzLjIgMjIu
+OCA2MS41IDQxLjIgOC42OCA4LjY4IDE2LjMgMTggMjMgMjcuNyAxLjk1IDcuNDggMyAxNS4zIDMg
+MjMuNCAwIDUxLjEtNDEuNCA5Mi40LTkyLjQgOTIuNHMtOTIuNC00MS40LTkyLjQtOTIuNCA0MS40
+LTkyLjQgOTIuNC05Mi40eiIgZmlsbD0iI2ZlZmJlMSIvPgo8cGF0aCBkPSJtMzExIDc4LjljLTMu
+MDggMTUuNi03LjQ1IDMxLjctMTMuMiA0OC41LTE5LjMgMy41NC0zOSA3LjEzLTU5IDEwLjgtMTku
+NiAzLjU4LTI1LjMgMjcuMy0xMC4zIDM5LjkgMTUuNCAxMi43IDMwLjIgMjUuNSA0NC4zIDM4LjMt
+NC45OSAyMC42LTExLjcgNDEuOC0yMC4yIDYzLjQtOC42MiAyMS44IDguMTUgMzYuMSAzMC4xIDI0
+LjIgMjIuNS0xMi4zIDUxLjQtMjUuMSA3Mi0zNi45IDE3LjIgOC4xNiAyNiAxNS4yIDQzLjMgMjUu
+MSAxNSA4LjU3IDM4LjgtOS45OCAzOC0yOS42LTAuODgzLTE5LjYtMy4yLTM4LjgtNi44OC01Ny44
+IDkuMzItMTcuMiAxMi40LTE4LjggMTkuNy00MC4yIDUuNjUtMTYuNy0wLjU2Mi0zMS4zLTE4LjYt
+MzUuOC0xNS41LTMuODItMjAuNy00LjA0LTM5LjgtNS42Ni0xMi4zLTE1LjUtMjUuNy0zMC42LTQw
+LjEtNDUuMy0xMy44LTEzLjgtMzYuNy0xMy4yLTM5LjMgMS4yNHoiIGZpbGw9IiMwNTAiLz4KPHBh
+dGggZD0ibTI3MCAxNDljMC01Ljg1IDAuNTY3LTExLjYgMS42MS0xNy4xIDguODgtMS42MiAxNy43
+LTMuMjMgMjYuNC00LjgzIDUuNzEtMTYuNyAxMC4xLTMyLjkgMTMuMi00OC41IDIuNjMtMTQuNSAy
+NS41LTE1LjEgMzkuMy0xLjI1IDE0LjQgMTQuNyAyNy43IDI5LjkgNDAuMSA0NS4zIDE5LjEgMS42
+MiAyNC4zIDEuODQgMzkuOCA1LjY2IDE4IDQuNDQgMjQuMyAxOS4xIDE4LjYgMzUuOC03LjI3IDIx
+LjQtMTAuMyAyMy0xOS43IDQwLjIgMC40NTcgMi4zNSAwLjg5MyA0LjcgMS4zMSA3LjA2LTE2Ljkg
+MTguNS00MS4yIDMwLTY4LjIgMzAtNTEuMSAyZS0zIC05Mi40LTQxLjQtOTIuNC05Mi40eiIgZmls
+bD0iIzAwODAwMCIvPgo8L3N2Zz4K
+"/>
+ <g stroke="#000" stroke-width="2">
+  <line x1="526.7" x2="574.6" y1="340" y2="411.9" fill="none"/>
+  <polygon points="574.6 411.9 577.4 407 578.8 418.1 569.1 412.6" fill-rule="evenodd"/>
+ </g>
+ <g stroke="#000" stroke-width="2">
+  <line x1="540" x2="710.6" y1="310.9" y2="357.4" fill="none" stroke-dasharray="6"/>
+  <polygon points="710.6 357.4 709.5 352 717.8 359.4 706.9 361.6" fill-rule="evenodd"/>
+ </g>
+ <g fill="none" stroke="#f00" stroke-width="2">
+  <path d="m553.3 380a103 103 0 0 0 39.15-48.79"/>
+  <polyline points="594.8 340.2 593.3 329.1 585.4 337"/>
+ </g>
+ <text x="520" y="416.95001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="520" y="416.95001">Current</tspan><tspan x="520" y="432.95001">direction</tspan></text>
+ <g fill="none" stroke="#000" stroke-width="2">
+  <circle cx="741" cy="366" r="20"/>
+  <line x1="726.9" x2="755.1" y1="351.9" y2="380.1"/>
+  <line x1="726.9" x2="755.1" y1="380.1" y2="351.9"/>
+ </g>
+ <text x="740" y="324.95001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="740" y="324.95001">Objective</tspan></text>
+ <text x="620" y="376.95001" fill="#ff0000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="620" y="376.95001">Difference</tspan><tspan x="620" y="392.95001">angle</tspan></text>
+</svg>
