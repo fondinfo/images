@@ -50,6 +50,6 @@ bD0iIzAwODAwMCIvPgo8L3N2Zz4K
   <line x1="726.9" x2="755.1" y1="351.9" y2="380.1"/>
   <line x1="726.9" x2="755.1" y1="380.1" y2="351.9"/>
  </g>
- <text x="740" y="324.95001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="740" y="324.95001">Objective</tspan></text>
+ <text x="740" y="324.95001" fill="#000000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="740" y="324.95001">Target</tspan></text>
  <text x="620" y="376.95001" fill="#ff0000" font-family="sans-serif" font-size="12.8px" text-anchor="middle"><tspan x="620" y="376.95001">Difference</tspan><tspan x="620" y="392.95001">angle</tspan></text>
 </svg>
