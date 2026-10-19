@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="819.94" height="189.98" aria-label="587 in base dieci come 7·10^0 + 8·10^1 + 5·10^2, con frecce dalle cifre ai coefficienti" role="img" version="1.1" viewBox="0 0 819.94 189.98" xmlns="http://www.w3.org/2000/svg">
+<svg width="819.94" height="157.05" aria-label="587 in base dieci come 7·10^0 + 8·10^1 + 5·10^2, con frecce dalle cifre ai coefficienti" role="img" version="1.1" viewBox="0 0 819.94 157.05" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <marker id="a" markerHeight="4.5" markerWidth="4.5" orient="auto" refX="9" refY="5" viewBox="0 0 10 10">
    <path d="m0 0 10 5-10 5z" fill="#c0392b"/>
@@ -11,9 +11,9 @@
    <path d="m0 0 10 5-10 5z" fill="#1e8449"/>
   </marker>
  </defs>
- <rect width="819.94" height="189.98" fill="#fff" stroke-width=".90226"/>
+ <rect width="819.94" height="157.05" fill="#fff" stroke-width=".8472"/>
  <!-- Formula -->
- <g transform="translate(-70.056 -25.02)" font-family="'Latin Modern Math', 'STIX Two Math', 'Cambria Math', 'Times New Roman', serif" font-size="52px" text-anchor="middle">
+ <g transform="translate(-70.056 -41.485)" font-family="'Latin Modern Math', 'STIX Two Math', 'Cambria Math', 'Times New Roman', serif" font-size="52px" text-anchor="middle">
   <g font-weight="bold">
    <!-- 587 con il pedice -->
    <text x="112" y="90" fill="#c0392b">5</text>
@@ -41,7 +41,7 @@
   <text x="850" y="66" font-size="30px" text-anchor="start">2</text>
  </g>
  <!-- Frecce: dalla cifra al suo coefficiente (archi annidati sotto la formula) -->
- <g transform="translate(-70.056 -25.02)" fill="none" stroke-linecap="round" stroke-width="2.4">
+ <g transform="translate(-70.056 -41.485)" fill="none" stroke-linecap="round" stroke-width="2.4">
   <path d="m168 102c0 50 154 50 154 0" marker-end="url(#b)" stroke="#1e8449"/>
   <path d="m140 102c0 85 392 85 392 0" marker-end="url(#c)" stroke="#2471a3"/>
   <path d="m112 102c0 120 630 120 630 0" marker-end="url(#a)" stroke="#c0392b"/>
