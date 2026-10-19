@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="819.94" height="189.98" aria-label="587 in base dieci come 7·10^0 + 8·10^1 + 5·10^2, con frecce dalle cifre ai coefficienti" role="img" version="1.1" viewBox="0 0 819.94 189.98" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="a" markerHeight="4.5" markerWidth="4.5" orient="auto" refX="9" refY="5" viewBox="0 0 10 10">
+   <path d="m0 0 10 5-10 5z" fill="#c0392b"/>
+  </marker>
+  <marker id="c" markerHeight="4.5" markerWidth="4.5" orient="auto" refX="9" refY="5" viewBox="0 0 10 10">
+   <path d="m0 0 10 5-10 5z" fill="#2471a3"/>
+  </marker>
+  <marker id="b" markerHeight="4.5" markerWidth="4.5" orient="auto" refX="9" refY="5" viewBox="0 0 10 10">
+   <path d="m0 0 10 5-10 5z" fill="#1e8449"/>
+  </marker>
+ </defs>
+ <rect width="819.94" height="189.98" fill="#fff" stroke-width=".90226"/>
+ <!-- Formula -->
+ <g transform="translate(-70.056 -25.02)" font-family="'Latin Modern Math', 'STIX Two Math', 'Cambria Math', 'Times New Roman', serif" font-size="52px" text-anchor="middle">
+  <g font-weight="bold">
+   <!-- 587 con il pedice -->
+   <text x="112" y="90" fill="#c0392b">5</text>
+   <text x="140" y="90" fill="#2471a3">8</text>
+   <text x="168" y="90" fill="#1e8449">7</text>
+  </g>
+  <text x="188" y="104" font-size="28px" font-style="italic" text-anchor="start">dec</text>
+  <text x="262" y="90">=</text>
+  <!-- 7 &#183; 10^0 -->
+  <text x="322" y="90" fill="#1e8449" font-weight="bold">7</text>
+  <text x="358" y="90">·</text>
+  <text x="376" y="90" text-anchor="start">10</text>
+  <text x="430" y="66" font-size="30px" text-anchor="start">0</text>
+  <text x="480" y="90">+</text>
+  <!-- 8 &#183; 10^1 -->
+  <text x="532" y="90" fill="#2471a3" font-weight="bold">8</text>
+  <text x="568" y="90">·</text>
+  <text x="586" y="90" text-anchor="start">10</text>
+  <text x="640" y="66" font-size="30px" text-anchor="start">1</text>
+  <text x="690" y="90">+</text>
+  <!-- 5 &#183; 10^2 -->
+  <text x="742" y="90" fill="#c0392b" font-weight="bold">5</text>
+  <text x="778" y="90">·</text>
+  <text x="796" y="90" text-anchor="start">10</text>
+  <text x="850" y="66" font-size="30px" text-anchor="start">2</text>
+ </g>
+ <!-- Frecce: dalla cifra al suo coefficiente (archi annidati sotto la formula) -->
+ <g transform="translate(-70.056 -25.02)" fill="none" stroke-linecap="round" stroke-width="2.4">
+  <path d="m168 102c0 50 154 50 154 0" marker-end="url(#b)" stroke="#1e8449"/>
+  <path d="m140 102c0 85 392 85 392 0" marker-end="url(#c)" stroke="#2471a3"/>
+  <path d="m112 102c0 120 630 120 630 0" marker-end="url(#a)" stroke="#c0392b"/>
+ </g>
+</svg>
