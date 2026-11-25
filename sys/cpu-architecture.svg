@@ -1,199 +1,364 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="53cm" height="30cm" viewBox="-3 17 1045 585" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background"/>
-  <g id="Background">
-    <rect style="fill: #197ad8; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="480" y="250" width="160" height="110" rx="0" ry="0"/>
-    <g>
-      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="620.586,81.1111 780,81.1111 780,220 780.264,220 "/>
-      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="787.764,220 777.764,225 780.264,220 777.764,215 "/>
-    </g>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 6; stroke: #000000" x1="780" y1="260" x2="780" y2="400"/>
-    <g>
-      <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="240" y="100" width="120" height="42.2222" rx="4" ry="4"/>
-      <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="131.15">
-        <tspan x="300" y="131.15">PC</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="240" y="200" width="120" height="42.2222" rx="4" ry="4"/>
-      <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="231.15">
-        <tspan x="300" y="231.15">IR</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="240" y="300" width="120" height="42.2222" rx="4" ry="4"/>
-      <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="331.15">
-        <tspan x="300" y="331.15">IRR</tspan>
-      </text>
-    </g>
-    <g>
-      <path style="fill: #ffa500; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 226.667 400 L 333.333,400 C 348.061,400 360,408.954 360,420 C 360,431.046 348.061,440 333.333,440 L 226.667,440 C 211.939,440 200,431.046 200,420 C 200,408.954 211.939,400 226.667,400z"/>
-      <text font-size="22.5778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="280" y="431.289">
-        <tspan x="280" y="431.289">Clock</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="240" y="480" width="120" height="42.2222" rx="4" ry="4"/>
-      <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="511.15">
-        <tspan x="300" y="511.15">DR</tspan>
-      </text>
-    </g>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="360" y1="420" x2="430" y2="420"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="360" y1="121.111" x2="430" y2="120"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="360" y1="221.112" x2="430" y2="220"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="360" y1="321.112" x2="430" y2="320"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="360" y1="501.112" x2="420" y2="500"/>
-    <g>
-      <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="500" y="60" width="120" height="42.2222" rx="4" ry="4"/>
-      <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="560" y="91.15">
-        <tspan x="560" y="91.15">SR</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="500" y="160" width="120" height="42.2222" rx="4" ry="4"/>
-      <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="560" y="191.15">
-        <tspan x="560" y="191.15">ACC</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="490" y="260" width="60" height="42.2222" rx="4" ry="4"/>
-      <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="520" y="291.15">
-        <tspan x="520" y="291.15">R0</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="500" y="479.5" width="120" height="42.2222" rx="4" ry="4"/>
-      <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="560" y="510.65">
-        <tspan x="560" y="510.65">AR</tspan>
-      </text>
-    </g>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="430" y1="80" x2="500" y2="81.1112"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="430" y1="180" x2="500" y2="181.111"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="430" y1="280" x2="480" y2="280"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="420" y1="500" x2="500" y2="500.612"/>
-    <polygon style="fill: #aa0000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="700,150 860,230 700,310 "/>
-    <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="300" y="167.675">
-      <tspan x="300" y="167.675">Program Counter</tspan>
-    </text>
-    <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="300" y="367.675">
-      <tspan x="300" y="367.675">Interrupt Request Reg</tspan>
-    </text>
-    <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="300" y="267.675">
-      <tspan x="300" y="267.675">Instruction Reg</tspan>
-    </text>
-    <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="300" y="547.675">
-      <tspan x="300" y="547.675">Data Reg</tspan>
-    </text>
-    <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="560" y="547.675">
-      <tspan x="560" y="547.675">Addr Reg</tspan>
-    </text>
-    <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="560" y="387.675">
-      <tspan x="560" y="387.675">General Purpose Regs</tspan>
-    </text>
-    <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="770" y="238.75">
-      <tspan x="770" y="238.75">ALU</tspan>
-    </text>
-    <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="560" y="127.675">
-      <tspan x="560" y="127.675">Status Reg</tspan>
-    </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 6; stroke: #000000" x1="430" y1="420" x2="700" y2="420.612"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="620" y1="181.111" x2="700" y2="180"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="640" y1="280" x2="700" y2="280"/>
-    <g>
-      <rect style="fill: #005500; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="700" y="400" width="160" height="41.2222" rx="4" ry="4"/>
-      <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="780" y="430.65">
-        <tspan x="780" y="430.65">CU</tspan>
-      </text>
-    </g>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" x1="167.777" y1="72.3292" x2="241.172" y2="101.172"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" x1="183.954" y1="524.687" x2="240" y2="501.112"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" x1="676.311" y1="524.499" x2="620" y2="500.612"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" x1="859.411" y1="377.176" x2="820" y2="400"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" x1="453.518" y1="62.2549" x2="499.001" y2="70.3093"/>
-    <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="780" y="467.675">
-      <tspan x="780" y="467.675">Control Unit</tspan>
-    </text>
-    <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="920" y="225.328">
-      <tspan x="920" y="225.328">Arithmetic</tspan>
-      <tspan x="920" y="250.022">Logic Unit</tspan>
-    </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 6; stroke: #000000" x1="430" y1="80" x2="430" y2="500"/>
-    <g>
-      <path style="fill: #d8e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" fill-rule="evenodd" d="M 33.3333 20 L 166.667,20 C 185.076,20 200,31.5038 200,45.6944 C 200,59.8851 185.076,71.3889 166.667,71.3889 L 33.3333,71.3889 C 14.9238,71.3889 0,59.8851 0,45.6944 C 0,31.5038 14.9238,20 33.3333,20z"/>
-      <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="100" y="43.225">
-        <tspan x="100" y="43.225">Address of next</tspan>
-        <tspan x="100" y="67.9194">instruction</tspan>
-      </text>
-    </g>
-    <g>
-      <path style="fill: #d8e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" fill-rule="evenodd" d="M 293.333 20 L 426.667,20 C 445.076,20 460,31.5038 460,45.6944 C 460,59.8851 445.076,71.3889 426.667,71.3889 L 293.333,71.3889 C 274.924,71.3889 260,59.8851 260,45.6944 C 260,31.5038 274.924,20 293.333,20z"/>
-      <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="360" y="43.225">
-        <tspan x="360" y="43.225">Carry, Zero,</tspan>
-        <tspan x="360" y="67.9194">Sign, Overflow</tspan>
-      </text>
-    </g>
-    <g>
-      <path style="fill: #d8e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" fill-rule="evenodd" d="M 33.3333 520 L 166.667,520 C 185.076,520 200,537.909 200,560 C 200,582.091 185.076,600 166.667,600 L 33.3333,600 C 14.9238,600 0,582.091 0,560 C 0,537.909 14.9238,520 33.3333,520z"/>
-      <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="100" y="545.183">
-        <tspan x="100" y="545.183">Word to</tspan>
-        <tspan x="100" y="569.878">read or write</tspan>
-        <tspan x="100" y="594.572">to memory</tspan>
-      </text>
-    </g>
-    <g>
-      <path style="fill: #d8e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" fill-rule="evenodd" d="M 693.333 520 L 826.667,520 C 845.076,520 860,537.909 860,560 C 860,582.091 845.076,600 826.667,600 L 693.333,600 C 674.924,600 660,582.091 660,560 C 660,537.909 674.924,520 693.333,520z"/>
-      <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="760" y="545.183">
-        <tspan x="760" y="545.183">Memory</tspan>
-        <tspan x="760" y="569.878">address to</tspan>
-        <tspan x="760" y="594.572">read or write</tspan>
-      </text>
-    </g>
-    <g>
-      <path style="fill: #d8e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" fill-rule="evenodd" d="M 873.4 280 L 1007,280 C 1025.45,280 1040.4,302.56 1040.4,330.389 C 1040.4,358.218 1025.45,380.778 1007,380.778 L 873.4,380.778 C 854.954,380.778 840,358.218 840,330.389 C 840,302.56 854.954,280 873.4,280z"/>
-      <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="940.2" y="303.225">
-        <tspan x="940.2" y="303.225">Fetch</tspan>
-        <tspan x="940.2" y="327.919">Decode</tspan>
-        <tspan x="940.2" y="352.614">Manage exec</tspan>
-        <tspan x="940.2" y="377.308">Store results</tspan>
-      </text>
-    </g>
-    <image x="110" y="380" width="87.36" height="87.36" xlink:href="metronome.svg"/>
-    <image x="790" y="50" width="163.75" height="163.75" xlink:href="piano.svg"/>
-    <image x="870" y="390" width="160" height="160" xlink:href="maestro.svg"/>
-    <g>
-      <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="570" y="260" width="60" height="42.2222" rx="4" ry="4"/>
-      <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="600" y="291.15">
-        <tspan x="600" y="291.15">R1</tspan>
-      </text>
-    </g>
-    <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="560" y="227.675">
-      <tspan x="560" y="227.675">Accumulator</tspan>
-    </text>
-    <g>
-      <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="490" y="310" width="60" height="42.2222" rx="4" ry="4"/>
-      <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="520" y="341.15">
-        <tspan x="520" y="341.15">R2</tspan>
-      </text>
-    </g>
-    <g>
-      <rect style="fill: #000099; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #7f7f7f" x="570" y="310" width="60" height="42.2222" rx="4" ry="4"/>
-      <text font-size="22.5778" style="fill: #ffffff; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="600" y="341.15">
-        <tspan x="600" y="341.15">R3</tspan>
-      </text>
-    </g>
-    <g>
-      <path style="fill: #d8e5e5; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" fill-rule="evenodd" d="M 33.3333 120 L 166.667,120 C 185.076,120 200,131.504 200,145.694 C 200,159.885 185.076,171.389 166.667,171.389 L 33.3333,171.389 C 14.9238,171.389 0,159.885 0,145.694 C 0,131.504 14.9238,120 33.3333,120z"/>
-      <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="100" y="143.225">
-        <tspan x="100" y="143.225">Opcode of current</tspan>
-        <tspan x="100" y="167.919">instruction</tspan>
-      </text>
-    </g>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" x1="170.166" y1="172.153" x2="241.382" y2="199.007"/>
-  </g>
+<svg width="53cm" height="30cm" version="1.1" viewBox="-3 17 1045 585" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="480" y="250" width="160" height="110" rx="0" ry="0" fill="#197ad8" stroke="#000" stroke-width="2"/>
+ <g stroke="#000" stroke-width="2">
+  <polyline points="620.59 81.111 780 81.111 780 220 780.26 220" fill="none"/>
+  <polygon points="780.26 220 777.76 215 787.76 220 777.76 225" fill-rule="evenodd"/>
+ </g>
+ <line x1="780" x2="780" y1="260" y2="400" fill="none" stroke="#000" stroke-width="6"/>
+ <g>
+  <rect x="240" y="100" width="120" height="42.222" rx="4" ry="4" fill="#009" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="300" y="131.14999" fill="#ffffff" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="300" y="131.14999">PC</tspan></text>
+ </g>
+ <g>
+  <rect x="240" y="200" width="120" height="42.222" rx="4" ry="4" fill="#009" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="300" y="231.14999" fill="#ffffff" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="300" y="231.14999">IR</tspan></text>
+ </g>
+ <g>
+  <rect x="240" y="300" width="120" height="42.222" rx="4" ry="4" fill="#009" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="300" y="331.14999" fill="#ffffff" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="300" y="331.14999">IRR</tspan></text>
+ </g>
+ <g>
+  <path d="m226.67 400h106.67c14.728 0 26.667 8.954 26.667 20s-11.939 20-26.667 20h-106.67c-14.728 0-26.667-8.954-26.667-20s11.939-20 26.667-20z" fill="#ffa500" fill-rule="evenodd" stroke="#000"/>
+  <text x="280" y="431.289" fill="#000000" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="280" y="431.289">Clock</tspan></text>
+ </g>
+ <g>
+  <rect x="240" y="480" width="120" height="42.222" rx="4" ry="4" fill="#009" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="300" y="511.14999" fill="#ffffff" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="300" y="511.14999">DR</tspan></text>
+ </g>
+ <g fill="none" stroke="#000" stroke-width="2">
+  <line x1="360" x2="430" y1="420" y2="420"/>
+  <line x1="360" x2="430" y1="121.11" y2="120"/>
+  <line x1="360" x2="430" y1="221.11" y2="220"/>
+  <line x1="360" x2="430" y1="321.11" y2="320"/>
+  <line x1="360" x2="420" y1="501.11" y2="500"/>
+ </g>
+ <g>
+  <rect x="500" y="60" width="120" height="42.222" rx="4" ry="4" fill="#009" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="560" y="91.150002" fill="#ffffff" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="560" y="91.150002">SR</tspan></text>
+ </g>
+ <g>
+  <rect x="500" y="160" width="120" height="42.222" rx="4" ry="4" fill="#009" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="560" y="191.14999" fill="#ffffff" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="560" y="191.14999">ACC</tspan></text>
+ </g>
+ <g>
+  <rect x="490" y="260" width="60" height="42.222" rx="4" ry="4" fill="#009" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="520" y="291.14999" fill="#ffffff" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="520" y="291.14999">R0</tspan></text>
+ </g>
+ <g>
+  <rect x="500" y="479.5" width="120" height="42.222" rx="4" ry="4" fill="#009" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="560" y="510.64999" fill="#ffffff" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="560" y="510.64999">AR</tspan></text>
+ </g>
+ <g fill="none" stroke="#000" stroke-width="2">
+  <line x1="430" x2="500" y1="80" y2="81.111"/>
+  <line x1="430" x2="500" y1="180" y2="181.11"/>
+  <line x1="430" x2="480" y1="280" y2="280"/>
+  <line x1="420" x2="500" y1="500" y2="500.61"/>
+ </g>
+ <polygon points="700 310 700 150 860 230" fill="#a00" fill-rule="evenodd" stroke="#000"/>
+ <g fill="#000000" font-family="sans-serif" font-size="19.756px" font-style="italic" text-anchor="middle">
+  <text x="300" y="167.675"><tspan x="300" y="167.675">Program Counter</tspan></text>
+  <text x="300" y="367.67499"><tspan x="300" y="367.67499">Interrupt Request Reg</tspan></text>
+  <text x="300" y="267.67499"><tspan x="300" y="267.67499">Instruction Reg</tspan></text>
+  <text x="300" y="547.67499"><tspan x="300" y="547.67499">Data Reg</tspan></text>
+  <text x="560" y="547.67499"><tspan x="560" y="547.67499">Addr Reg</tspan></text>
+  <text x="560" y="387.67499"><tspan x="560" y="387.67499">General Purpose Regs</tspan></text>
+ </g>
+ <text x="770" y="238.75" fill="#ffffff" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="770" y="238.75">ALU</tspan></text>
+ <text x="560" y="127.675" fill="#000000" font-family="sans-serif" font-size="19.756px" font-style="italic" text-anchor="middle"><tspan x="560" y="127.675">Status Reg</tspan></text>
+ <g fill="none" stroke="#000">
+  <line x1="430" x2="700" y1="420" y2="420.61" stroke-width="6"/>
+  <line x1="620" x2="700" y1="181.11" y2="180" stroke-width="2"/>
+  <line x1="640" x2="700" y1="280" y2="280" stroke-width="2"/>
+ </g>
+ <g>
+  <rect x="700" y="400" width="160" height="41.222" rx="4" ry="4" fill="#050" stroke="#000"/>
+  <text x="780" y="430.64999" fill="#ffffff" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="780" y="430.64999">CU</tspan></text>
+ </g>
+ <g fill="none" stroke="#000" stroke-dasharray="10" stroke-width="2">
+  <line x1="167.78" x2="241.17" y1="72.329" y2="101.17"/>
+  <line x1="183.95" x2="240" y1="524.69" y2="501.11"/>
+  <line x1="676.31" x2="620" y1="524.5" y2="500.61"/>
+  <line x1="859.41" x2="820" y1="377.18" y2="400"/>
+  <line x1="453.52" x2="499" y1="62.255" y2="70.309"/>
+ </g>
+ <text x="780" y="467.67499" fill="#000000" font-family="sans-serif" font-size="19.756px" font-style="italic" text-anchor="middle"><tspan x="780" y="467.67499">Control Unit</tspan></text>
+ <text x="920" y="225.328" fill="#000000" font-family="sans-serif" font-size="19.756px" font-style="italic" text-anchor="middle"><tspan x="920" y="225.328">Arithmetic</tspan><tspan x="920" y="250.022">Logic Unit</tspan></text>
+ <line x1="430" x2="430" y1="80" y2="500" fill="none" stroke="#000" stroke-width="6"/>
+ <g>
+  <path d="m33.333 20h133.33c18.409 0 33.333 11.504 33.333 25.694 0 14.191-14.924 25.694-33.333 25.694h-133.33c-18.41 0-33.333-11.504-33.333-25.694 0-14.191 14.924-25.694 33.333-25.694z" fill="#d8e5e5" fill-rule="evenodd" stroke="#000" stroke-dasharray="10" stroke-width="2"/>
+  <text x="100" y="43.224998" fill="#000000" font-family="sans-serif" font-size="19.756px" font-style="italic" text-anchor="middle"><tspan x="100" y="43.224998">Address of next</tspan><tspan x="100" y="67.919403">instruction</tspan></text>
+ </g>
+ <g>
+  <path d="m293.33 20h133.33c18.409 0 33.333 11.504 33.333 25.694 0 14.191-14.924 25.694-33.333 25.694h-133.33c-18.409 0-33.333-11.504-33.333-25.694 0-14.191 14.924-25.694 33.333-25.694z" fill="#d8e5e5" fill-rule="evenodd" stroke="#000" stroke-dasharray="10" stroke-width="2"/>
+  <text x="360" y="43.224998" fill="#000000" font-family="sans-serif" font-size="19.756px" font-style="italic" text-anchor="middle"><tspan x="360" y="43.224998">Carry, Zero,</tspan><tspan x="360" y="67.919403">Sign, Overflow</tspan></text>
+ </g>
+ <g>
+  <path d="m33.333 520h133.33c18.409 0 33.333 17.909 33.333 40s-14.924 40-33.333 40h-133.33c-18.41 0-33.333-17.909-33.333-40s14.924-40 33.333-40z" fill="#d8e5e5" fill-rule="evenodd" stroke="#000" stroke-dasharray="10" stroke-width="2"/>
+  <text x="100" y="545.18298" fill="#000000" font-family="sans-serif" font-size="19.756px" font-style="italic" text-anchor="middle"><tspan x="100" y="545.18298">Word to</tspan><tspan x="100" y="569.87799">read or write</tspan><tspan x="100" y="594.57202">to memory</tspan></text>
+ </g>
+ <g>
+  <path d="m693.33 520h133.33c18.409 0 33.333 17.909 33.333 40s-14.924 40-33.333 40h-133.33c-18.409 0-33.333-17.909-33.333-40s14.924-40 33.333-40z" fill="#d8e5e5" fill-rule="evenodd" stroke="#000" stroke-dasharray="10" stroke-width="2"/>
+  <text x="760" y="545.18298" fill="#000000" font-family="sans-serif" font-size="19.756px" font-style="italic" text-anchor="middle"><tspan x="760" y="545.18298">Memory</tspan><tspan x="760" y="569.87799">address to</tspan><tspan x="760" y="594.57202">read or write</tspan></text>
+ </g>
+ <g>
+  <path d="m873.4 280h133.6c18.45 0 33.4 22.56 33.4 50.389s-14.95 50.389-33.4 50.389h-133.6c-18.446 0-33.4-22.56-33.4-50.389s14.954-50.389 33.4-50.389z" fill="#d8e5e5" fill-rule="evenodd" stroke="#000" stroke-dasharray="10" stroke-width="2"/>
+  <text x="940.20001" y="303.22501" fill="#000000" font-family="sans-serif" font-size="19.756px" font-style="italic" text-anchor="middle"><tspan x="940.20001" y="303.22501">Fetch</tspan><tspan x="940.20001" y="327.91901">Decode</tspan><tspan x="940.20001" y="352.61401">Manage exec</tspan><tspan x="940.20001" y="377.30801">Store results</tspan></text>
+ </g>
+ <image x="110" y="380" width="87.36" height="87.36" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBVcGxvYWRl
+ZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhl
+ciBUb29scyAtLT4NCjxzdmcgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4IiB2ZXJzaW9uPSIx
+LjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5z
+OnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiANCgkgdmlld0JveD0iMCAwIDQ4
+MS42IDQ4MS42IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxwYXRoIHN0eWxlPSJmaWxsOiMyQzMz
+MzE7IiBkPSJNMzc1LjIsNDU2LjhjMCwxMy42LTExLjIsMjQuOC0yNC44LDI0LjhIMTA1LjZjLTEz
+LjYsMC0yNC44LTExLjItMjQuOC0yNC44bDAsMA0KCWMwLTEzLjYsMTEuMi0yNC44LDI0LjgtMjQu
+OGgyNDRDMzY0LDQzMiwzNzUuMiw0NDMuMiwzNzUuMiw0NTYuOEwzNzUuMiw0NTYuOHoiLz4NCjxw
+YXRoIHN0eWxlPSJmaWxsOiNCNTg1Mzk7IiBkPSJNMzk3LjYsNDA3LjJsLTcyLjgtMzg4QzMyMi40
+LDgsMzEyLjgsMCwzMDAuOCwwSDE1NC40Yy0xMS4yLDAtMjEuNiw4LTI0LDE5LjJMNTcuNiw0MTAu
+NA0KCWMtMS42LDcuMi04LDE0LjQtMy4yLDIwczExLjIsOC44LDE5LjIsOC44aDMwOS42bDAsMGMx
+My42LDAsMTYtMTEuMiwxNi0yNC44QzM5OS4yLDQxMiwzOTguNCw0MDkuNiwzOTcuNiw0MDcuMnoi
+Lz4NCjxwYXRoIHN0eWxlPSJmaWxsOiM5OTczMzA7IiBkPSJNNDA1LjYsNDIyLjRsLTgwLjgtMzg4
+Yy0yLjQtMTEuMi0xMi0xOS4yLTI0LTE5LjJIMTU0LjRjLTExLjIsMC0yMS42LDgtMjQsMTkuMkw0
+OS42LDQyNS42DQoJYy0xLjYsNy4yLDAsMTQuNCw0LjgsMjBzMTEuMiw4LjgsMTkuMiw4LjhoMzA5
+LjZsMCwwYzEzLjYsMCwyNC44LTExLjIsMjQuOC0yNC44QzQwNy4yLDQyNy4yLDQwNi40LDQyNC44
+LDQwNS42LDQyMi40eiIvPg0KPHBhdGggc3R5bGU9ImZpbGw6I0JBOEIzRTsiIGQ9Ik00MDUuNiw0
+MjIuNGwtODAuOC0zODhjLTIuNC0xMS4yLTEyLTE5LjItMjQtMTkuMkgxNTQuNGMtMTEuMiwwLTIx
+LjYsOC0yNCwxOS4yTDQ5LjYsNDI1LjYNCgljLTEuNiw3LjIsMCwxNC40LDQuOCwyMHMxMS4yLDgu
+OCwxOS4yLDguOGgzMDkuNmwwLDBjMTMuNiwwLDI0LjgtMTEuMiwyNC44LTI0LjhDNDA3LjIsNDI3
+LjIsNDA2LjQsNDI0LjgsNDA1LjYsNDIyLjR6Ii8+DQo8cGF0aCBzdHlsZT0iZmlsbDojOTk3MzMw
+OyIgZD0iTTQwNS42LDQyMi40bC04MC44LTM4OGMtMi40LTExLjItMTItMTkuMi0yNC0xOS4ySDE1
+NC40Yy0xMS4yLDAtMjEuNiw4LTI0LDE5LjJsLTI3LjIsMzkxLjINCgljLTEuNiw3LjIsMCwxNC40
+LDQuOCwyMHMxMS4yLDguOCwxOS4yLDguOGgyNTUuMmwwLDBjMTMuNiwwLDI0LjgtMTEuMiwyNC44
+LTI0LjhDNDA3LjIsNDI3LjIsNDA2LjQsNDI0LjgsNDA1LjYsNDIyLjR6Ii8+DQo8Zz4NCgk8cGF0
+aCBzdHlsZT0iZmlsbDojOEM2NDI1OyIgZD0iTTM4Mi40LDQ1NC40TDM4Mi40LDQ1NC40YzEzLjYs
+MCwyNC44LTExLjIsMjQuOC0yNC44YzAtMi40LTAuOC01LjYtMS42LThMMzI0LjgsMzQuNA0KCQlj
+LTIuNC0xMS4yLTEyLTE5LjItMjQtMTkuMkgxNTQuNGMtMTEuMiwwLTIxLjYsOC0yNCwxOS4yIi8+
+DQoJPHBvbHlnb24gc3R5bGU9ImZpbGw6IzhDNjQyNTsiIHBvaW50cz0iNjAuOCwzNzEuMiAzOTUu
+MiwzNzEuMiAzODguOCwzMzguNCA2Ny4yLDMzOC40IAkiLz4NCjwvZz4NCjxwb2x5Z29uIHN0eWxl
+PSJmaWxsOiM5RkFBQTg7IiBwb2ludHM9IjY0LDM1NC40IDM5MiwzNTQuNCAzMjUuNiwzNi44IDEz
+MC40LDM2LjggIi8+DQo8cG9seWdvbiBzdHlsZT0iZmlsbDojODQ5MThGOyIgcG9pbnRzPSIxMDku
+NiwzNTQuNCAzOTIsMzU0LjQgMzI1LjYsMzYuOCAxMzAuNCwzNi44ICIvPg0KPHBvbHlsaW5lIHN0
+eWxlPSJmaWxsOiM2Qjc1NzM7IiBwb2ludHM9IjM5MiwzNTQuNCAzMjUuNiwzNi44IDEzMC40LDM2
+LjggIi8+DQo8cG9seWdvbiBzdHlsZT0iZmlsbDojNTA1OTU3OyIgcG9pbnRzPSIyMzQuNCwzNTQu
+NCAzNjQuOCwyMjQuOCAzNjAsMjAxLjYgMjA3LjIsMzU0LjQgIi8+DQo8cGF0aCBzdHlsZT0iZmls
+bDojMkMzMzMxOyIgZD0iTTI3NC40LDM1NC40Vjk1LjJjMC0xNy42LTE0LjQtMjQuOC0zMi44LTI0
+LjhoLTI3LjJjLTE3LjYsMC0zMi44LDYuNC0zMi44LDI0Ljh2MjU5LjJMMjc0LjQsMzU0LjQNCglM
+Mjc0LjQsMzU0LjR6Ii8+DQo8cGF0aCBzdHlsZT0iZmlsbDojMDgwQTA5OyIgZD0iTTI0Mi40LDcw
+LjRoLTI3LjJjLTE3LjYsMC0zMi44LDYuNC0zMi44LDI0Ljh2NDcuMmMwLTE3LjYsMTQuNC0yNC44
+LDMyLjgtMjQuOGgyNy4yDQoJYzE3LjYsMCwzMi44LDYuNCwzMi44LDI0LjhWOTUuMkMyNzQuNCw3
+Ni44LDI2MCw3MC40LDI0Mi40LDcwLjR6Ii8+DQo8cGF0aCBzdHlsZT0iZmlsbDojRUZEODYyOyIg
+ZD0iTTQyOS42LDEyMi40Yy00LTQtOS42LTQtMTMuNiwwTDE4NCwzNTUuMmgyNy4ybDIxOC40LTIx
+OC40QzQzMy42LDEzMiw0MzMuNiwxMjYuNCw0MjkuNiwxMjIuNHoiLz4NCjxwYXRoIHN0eWxlPSJm
+aWxsOiNFMkM0NDQ7IiBkPSJNMTg0LDM1NS4yaDI3LjJsMjE4LjQtMjE4LjRjNC00LDQtOS42LDAt
+MTMuNiIvPg0KPGNpcmNsZSBzdHlsZT0iZmlsbDojRkZBQzFBOyIgY3g9IjM1OC40IiBjeT0iMTky
+LjgiIHI9IjI5LjYiLz4NCjxwYXRoIHN0eWxlPSJmaWxsOiNGRjdBMTc7IiBkPSJNMzg3LjIsMTky
+LjhjMCwxNi0xMi44LDI5LjYtMjkuNiwyOS42Yy0xNiwwLTI5LjYtMTIuOC0yOS42LTI5LjYiLz4N
+Cjwvc3ZnPg==
+"/>
+ <image x="790" y="50" width="163.75" height="163.75" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iODAwcHgi
+IGhlaWdodD0iODAwcHgiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDQ5NiA0OTYiIHhtbDpz
+cGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+Cgo8cGF0
+aCBkPSJtNzEuNiAyOTMgNC44IDAuNmMxOC42LTEuNyA4My44LTguOCA4OC4zLTkuMyA5LjYtMC45
+IDEwLjItMy4yIDEwLjItMy4ydi01NC41bC03OC45IDMuOXYxOXMwIDE2LjQtMTQuOCAxOC4zbC01
+LjYgMC42cy00IDEuMi00IDUuNnYxOXoiIGZpbGw9IiMzODM4MzgiLz4KPHBhdGggZD0ibTcxLjYg
+MjkzIDQuOCAwLjZjMTguNi0xLjcgODMuOC04LjggODguMy05LjMgOS42LTAuOSAxMC4yLTMuMiAx
+MC4yLTMuMmwtNzQuMS01MC00LjgtMC42djE5czAgMTYuNC0xNC44IDE4LjNsLTUuNiAwLjZzLTQg
+MS4yLTQgNS42djE5eiIgZmlsbD0iIzJCMkEyQSIvPgo8cGF0aCBkPSJtNzYuNCAyOTNzODcuOC04
+LjIgOTMuMS04LjdjOS42LTAuOSAxMC4yLTMuMiAxMC4yLTMuMnYtNTUuN3MtMi44IDEuNS04LjYg
+MS41bC03MC4yIDMuNnYxOXMwIDE2LjQtMTQuOCAxOC4zbC01LjYgMC42cy00IDEuMi00IDUuNmMt
+MC4xIDQuMy0wLjEgMTktMC4xIDE5eiIgZmlsbD0iIzQyNDI0MiIvPgo8cG9seWdvbiBwb2ludHM9
+IjIwOSAzMTMgNzYuMyAyNzcgNzYuMyAyNzQgMjE0IDMwOCIgZmlsbD0iI0M5QzlDNSIvPgo8cG9s
+eWdvbiBwb2ludHM9IjIwMSAzMDggNzYuMyAyNzcgNzYuMyAyODcgMjAxIDMyMCIgZmlsbD0iIzE5
+MTkxOSIvPgo8cG9seWdvbiBwb2ludHM9IjIzOCAyOTggMTAxIDI3MCA3Ni4zIDI3NCAyMDkgMzA3
+IiBmaWxsPSIjRjJGMkVEIi8+Cjxwb2x5Z29uIHBvaW50cz0iMTE5IDMwMiAxMzAgMzc0IDEzNyAz
+NzcgMTQ2IDM3NCAxNTUgMzExIDEzOCAzMDciIGZpbGw9IiMzQTNBM0EiLz4KPHBvbHlnb24gcG9p
+bnRzPSIxMTkgMzAyIDEzMCAzNzQgMTM3IDM3NyAxMzggMzA3IiBmaWxsPSIjMTkxOTE5Ii8+Cjxw
+b2x5Z29uIHBvaW50cz0iMTMyIDM5MyAxMzAgMzc0IDEzNyAzNzcgMTQ2IDM3NCAxNDMgMzk0IDEz
+NyAzOTUiIGZpbGw9IiNBRjk2NTEiLz4KPHBvbHlnb24gcG9pbnRzPSIxMzIgMzkzIDEzMCAzNzQg
+MTM3IDM3NyAxMzcgMzk1IiBmaWxsPSIjOTk4MzNEIi8+Cjxwb2x5Z29uIHBvaW50cz0iMzM0IDI4
+MSAzNDQgMzUzIDM1MiAzNTYgMzYxIDM1MyAzNjkgMjkwIDM1MiAyODYiIGZpbGw9IiMzQTNBM0Ei
+Lz4KPHBvbHlnb24gcG9pbnRzPSIzMzQgMjgxIDM0NCAzNTMgMzUyIDM1NiAzNTIgMjg2IiBmaWxs
+PSIjMTkxOTE5Ii8+Cjxwb2x5Z29uIHBvaW50cz0iMzQ2IDM3MiAzNDQgMzUzIDM1MiAzNTYgMzYx
+IDM1MyAzNTggMzczIDM1MiAzNzQiIGZpbGw9IiNBRjk2NTEiLz4KPHBvbHlnb24gcG9pbnRzPSIz
+NDYgMzcyIDM0NCAzNTMgMzUyIDM1NiAzNTIgMzc0IiBmaWxsPSIjOTk4MzNEIi8+Cjxwb2x5Z29u
+IHBvaW50cz0iMTcwIDQwMCAxOTYgNDEwIDIxOCA0MDggMjE4IDQxNCAxOTUgNDE4IDE3MCA0MDci
+IGZpbGw9IiMzQTNBM0EiLz4KPHBvbHlnb24gcG9pbnRzPSIyMTggNDA4IDE5MiAzOTcgMTcwIDQw
+MCAxOTYgNDEwIiBmaWxsPSIjNDI0MjQyIi8+CjxnIGZpbGw9IiMyNjI2MjYiPgoJPHBvbHlnb24g
+cG9pbnRzPSIxNzAgNDAwIDE5NiA0MTAgMTk1IDQxOCAxNzAgNDA3Ii8+Cgk8cG9seWdvbiBwb2lu
+dHM9IjE4OCA0MDQgMTg0IDQwMiAxODQgMzIxIDE4OCAzMjEiLz4KPC9nPgo8cG9seWdvbiBwb2lu
+dHM9IjE5MyA0MDQgMTg4IDQwNCAxODggMzIxIDE5MyAzMjEiIGZpbGw9IiMzQTNBM0EiLz4KPHBv
+bHlnb24gcG9pbnRzPSIyMDAgNDA3IDE5NSA0MDUgMTk1IDMyNSAyMDAgMzI0IiBmaWxsPSIjMjYy
+NjI2Ii8+Cjxwb2x5Z29uIHBvaW50cz0iMjA0IDQwNyAyMDAgNDA3IDIwMCAzMjQgMjA0IDMyNCIg
+ZmlsbD0iIzNBM0EzQSIvPgo8cG9seWdvbiBwb2ludHM9IjIwNyAzMjIgNzEuNiAyODYgNzEuNiAy
+OTMgMjA3IDMyOCIgZmlsbD0iIzJCMkEyQSIvPgo8cGF0aCBkPSJtMTc1IDIyNiAxMTUtNC4zczI1
+LjUgMC45IDM3LjkgMS41YzAgMCA2NC40IDEuNCA2NC40IDYuOXYxOS44bC0xNzQtMTEuNC00NC0x
+Mi41eiIgZmlsbD0iIzIzMjMyMyIvPgo8cGF0aCBkPSJtMTcyIDIyNyAxMTUtNC4zczI1LjUgMC45
+IDM3LjggMS41YzAgMCA2NC40IDEuNCA2NC40IDYuOXYxOS44bC0xNzQtMTEuNC00My45LTEyLjV6
+IiBmaWxsPSIjNDcxNTE4Ii8+CjxnIGZpbGw9IiMxOTE5MTkiPgoJPHBvbHlnb24gcG9pbnRzPSIx
+MDEgMjMxIDIzMiAyNDkgMjMyIDI5NyAxMDEgMjcwIi8+Cgk8cGF0aCBkPSJtMzU1IDgxLjhjLTAu
+Ny0xLjQtNS4xLTEuNC01LjEtMS40bC02NS4zLTMuMi0xMTMgMTM0IDU0LjkgOC4xIDEyNy0xMzRz
+Mi4yLTEuOSAxLjUtMy41eiIvPgo8L2c+CjxwYXRoIGQ9Im0zMDggMjI0czMwLjUtMTUgNDQuMy0y
+N2MwIDAgNTIuNC0zNS41IDE3LTU2LTEzLjEtNy42LTQ3LTguMS00Ni41LTE4LjggMC4yLTUuNCAz
+MC45LTM3LjIgMzAuOS0zNy4ybC02NS43LTIuMy0xMDggMTI2IDUwLjcgMTUuOCA3Ny44LTAuM3oi
+IGZpbGw9IiMyODI4MjgiLz4KPHBhdGggZD0ibTIyNyAyMzYgNjguNC00LjVzOS40LTEuNCAxNi44
+IDEuNGwxNS41IDAuNnMyNC40IDAuNiAzNS4xLTAuM2MxMy45LTEuMiAyIDE2LjMgMiAxNi4zbC01
+Ni40IDEuNy04MS40LTE1LjJ6IiBmaWxsPSIjQzU1RjJFIi8+CjxwYXRoIGQ9Im0yNDIgMjQyIDUz
+LjYtMy43czkuNC0xLjQgMTYuOCAxLjRsMTUuNSA0LjdzMC4yIDIuMiAxMy45LTAuNCAyIDEzLjMg
+MiAxMy4zbC0zNS4yIDAuNi02Ni42LTE1Ljl6IiBmaWxsPSIjRjc4RjUwIi8+Cjxwb2x5Z29uIHBv
+aW50cz0iMjcyIDEyMyAzMDAgMTk5IDMwMSAyMDUgMzE2IDI0NSAzMjQgMjQ2IDMwNyAyMDMgMzA0
+IDE5OCAyNzQgMTIyIiBmaWxsPSIjMDQwOTBEIi8+Cjxwb2x5Z29uIHBvaW50cz0iMjc0IDEyMiAz
+MDIgMTk4IDMwMiAyMDQgMzE4IDI0NCAzMjUgMjQ1IDMwOCAyMDMgMzA1IDE5NyAyNzggMTIyIiBm
+aWxsPSIjNTg1ODU4Ii8+CjxwYXRoIGQ9Im0yMDEgMzI3IDYuMSAxLjZjMjMuNi0yLjIgMTA2LTEx
+LjIgMTEyLTExLjcgMTIuMi0xLjIgMTIuOS00LjEgMTIuOS00LjFsLTkzLjctNjMuMi02LjEtMC44
+djI0LjFzMCAyMC43LTE4LjggMjMuMWwtNyAwLjhzLTUuMSAxLjYtNS4xIDcgMC4xIDIzLjIgMC4x
+IDIzLjJ6IiBmaWxsPSIjMkIyQTJBIi8+CjxwYXRoIGQ9Im0zMzYgMjQzcy0wLjQtMS4zLTEuNy0y
+YzAgMC0xLjQtMS45IDAuNy0yLjQgMCAwIDgtMiAxNi4yLTIuNSAwIDAgMzkuNC0yLjUgNDAuMi01
+LjVsLTAuMSA1My41cy0wLjQgMy41LTI4LjQgNi44YzAgMC0yMi41IDIuOC0yNi45IDUuOXYtNTMu
+OHoiIGZpbGw9IiMyMzIzMjMiLz4KPHBhdGggZD0ibTMzNyAyNDNzLTAuNC0xLjMtMS43LTJjMCAw
+LTEuNC0xLjkgMC43LTIuNCAwIDAgOC0yIDE2LjItMi41IDAgMCAzOS40LTIuNSA0MC4yLTUuNWwt
+MC4xIDUzLjVzLTAuNCAzLjUtMjguNCA2LjhjMCAwLTIyLjUgMi44LTI2LjkgNS45di01My44eiIg
+ZmlsbD0iIzNBM0EzQSIvPgo8cGF0aCBkPSJtMjAxIDMyNyA2LjEgMS42YzIzLjYtMi4yIDEwNi0x
+MS4yIDExMi0xMS43IDEyLjItMS4yIDEyLjktNC4xIDEyLjktNC4xbDUuOS03MC4xLTUuOSAxLjIt
+OTkuNyA0Ljl2MjQuMXMwIDIwLjctMTguOCAyMy4xbC03IDAuOHMtNS4xIDEuNi01LjEgNyAwIDIz
+LjIgMCAyMy4yeiIgZmlsbD0iIzM4MzgzOCIvPgo8cG9seWdvbiBwb2ludHM9IjIzOCAzMjQgMjUy
+IDQxNiAyNjIgNDIwIDI3MiA0MTYgMjg3IDMwOCAyNjIgMzIwIiBmaWxsPSIjM0EzQTNBIi8+Cjxw
+b2x5Z29uIHBvaW50cz0iMjM4IDMyNCAyNTIgNDE2IDI2MiA0MjAgMjYyIDMxNyIgZmlsbD0iIzE5
+MTkxOSIvPgo8cGF0aCBkPSJtMjA3IDMyOHMxMTEtMTAuMyAxMTgtMTFjMTIuMi0xLjIgMTIuOS00
+LjEgMTIuOS00LjF2LTcwLjRzLTMuNSAxLjktMTAuOSAxLjlsLTg4LjggNC41djI0LjFzMCAyMC43
+LTE4LjggMjMuMWwtNyAwLjhzLTUuMSAxLjYtNS4xIDcgMCAyNC4xIDAgMjQuMXoiIGZpbGw9IiM0
+MjQyNDIiLz4KPHBvbHlnb24gcG9pbnRzPSIyMzIgMjQ5IDEwMSAyMzEgMTU2IDIyOCAzMDIgMjQ1
+IiBmaWxsPSIjMkQyRDJEIi8+CjxwYXRoIGQ9Im0xNjAgMjMyIDEyLjMtMjYuMnM0MS4xLTguMiA3
+My43IDlsLTkgMjcuOC03Ny0xMC42eiIgZmlsbD0iIzE5MTkxOSIvPgo8cG9seWdvbiBwb2ludHM9
+IjI1NCA0NDEgMjUyIDQxNiAyNjIgNDIwIDI3MiA0MTYgMjY4IDQ0MSAyNjEgNDQzIiBmaWxsPSIj
+QUY5NjUxIi8+Cjxwb2x5Z29uIHBvaW50cz0iMjU0IDQ0MSAyNTIgNDE2IDI2MiA0MjAgMjYxIDQ0
+MyIgZmlsbD0iIzk5ODMzRCIvPgo8cG9seWdvbiBwb2ludHM9IjE2MiA0MDYgMTY2IDQwNyAxNzcg
+NDA1IDE3NyA0MDcgMTY1IDQwOSAxNjIgNDA4IiBmaWxsPSIjQUY5NjUxIi8+Cjxwb2x5Z29uIHBv
+aW50cz0iMTc3IDQwNSAxNzQgNDA0IDE2MiA0MDYgMTY2IDQwNyIgZmlsbD0iI0JDQTE1QyIvPgo8
+cG9seWdvbiBwb2ludHM9IjE2MiA0MDYgMTY2IDQwNyAxNjUgNDA5IDE2MiA0MDgiIGZpbGw9IiM5
+OTgzM0QiLz4KPHBvbHlnb24gcG9pbnRzPSIxNzggNDEyIDE4MSA0MTQgMTkzIDQxMiAxOTMgNDE0
+IDE4MSA0MTYgMTc4IDQxNCIgZmlsbD0iI0FGOTY1MSIvPgo8cG9seWdvbiBwb2ludHM9IjE5MyA0
+MTIgMTkwIDQxMSAxNzggNDEyIDE4MSA0MTQiIGZpbGw9IiNCQ0ExNUMiLz4KPHBvbHlnb24gcG9p
+bnRzPSIxNzggNDEyIDE4MSA0MTQgMTgxIDQxNiAxNzggNDE0IiBmaWxsPSIjOTk4MzNEIi8+Cjxw
+b2x5Z29uIHBvaW50cz0iMTcwIDQwOSAxNzMgNDEwIDE4NSA0MDkgMTg1IDQxMCAxNzMgNDEyIDE3
+MCA0MTEiIGZpbGw9IiNBRjk2NTEiLz4KPHBvbHlnb24gcG9pbnRzPSIxODUgNDA5IDE4MiA0MDgg
+MTcwIDQwOSAxNzMgNDEwIiBmaWxsPSIjQkNBMTVDIi8+Cjxwb2x5Z29uIHBvaW50cz0iMTcwIDQw
+OSAxNzMgNDEwIDE3MyA0MTIgMTcwIDQxMSIgZmlsbD0iIzk5ODMzRCIvPgo8L3N2Zz4K
+"/>
+ <image x="870" y="390" width="160" height="160" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNTAwIiBo
+ZWlnaHQ9IjUwMCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTMyIDEzMiIgeG1sbnM9Imh0
+dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KIDxnPgogIDxwYXRoIGQ9Im04Ni40IDQ1LjUtMjQu
+NSAyMS40cy04LjI3IDMuMzctMTMuNiAzLjUxYy01LjMxIDAuMTM4LTIwLjEtNS44Ny0yNC44LTcu
+MjEtNC42My0xLjM0LTguMiAwLjc2MS0xMS41IDMuMjYtNC43OCAzLjU4LTUuNjIgMTQuOC01LjMg
+MTYuNyAwLjczMSA0LjE2IDkuNzkgOS42OSAxMS4yIDExLjIgMS4xNSAxLjI4IDQuMjkgNy45MyA0
+LjY1IDEzLjkgMC4yMTQgMy42Mi0yLjE2IDcuNTQtMi41NiA5LjM0LTAuNDY0IDIuMDYtMC4xNiA2
+LjM0LTAuMTYgNi4zNCAxNi0wLjAxOTEgMzMuOSAwLjA0MzkgNDguNiAwIDAgMC0wLjk5NC03LjA2
+LTAuNjk5LTcuNjQgMC4yMjUtMC40MzkgNC4zMS0yLjE0IDQuOTMtMy4zOCAwLjYyNy0xLjI0LTQu
+NzctMTEuNi00Ljc3LTExLjZsMTIuOS0wLjE0IDIxLjItMTEuMS01Ljg0LTEyLjQtMTkuOSA4Ljky
+cy05LjQxIDAuMjk3LTExLjcgMC4yMDljLTIuMjgtMC4wODgzLTAuOTItMS44My0wLjkyLTEuODNs
+MzAuOS0yNy42em0tNDAgNDEuNmg5LjE1YzIuNDUgNC44OCA0LjYyIDkuNjUgNi40NCAxNC4zIDAg
+MCA0LjU4IDEwLjQgNC40NiAxMS4yIDAgMC04LjE2IDMuNDItOS42NiA0LjU3LTEuMSAwLjg0LTQu
+MSAzLjM0LTUuMjQgNS41MS0xLjQ3LTdlLTMgLTMuMjUgNmUtMyAtNS40NCAwLjA0ODEgMC4xNTgt
+MS42MyAwLjY4Ni01LjIzIDEuNTktNy4wNiAxLjk2LTMuOTggNi40Ny04LjE4IDYuNDctOC4xOHoi
+Lz4KICA8cGF0aCBkPSJtMTAxIDg5IDQuOTItMy4zMS01LjU5LTEwLjEtNC40IDIuODh6IiBmaWxs
+PSJub25lIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iLjUyOSIvPgogIDxwYXRoIGQ9Im0x
+MDEgNzYuNyAzLjczIDcuMzljMC4zMDYgMC42MDYgNC4xNC0yLjM1IDcuODQtMS44NSAzLjY4IDAu
+NDkzIDguNjYgMS4wOSA4LjY2IDEuMDlzMS4wNCAwLjI4NiAwLjkxMS0wLjY3Mi00LjU5LTEuMzYt
+NC41OS0xLjM2LTAuNTg2LTAuMjUxLTAuNjItMC40ODFjLTAuMDM4NS0wLjI1NiAwLjYyNy0wLjQz
+IDAuNjI3LTAuNDNsNS44OS0xLjE2czEuMDMtMC4xODUgMS4wMi0wLjg3MmMtNWUtMyAtMC42ODct
+MS40Ny0wLjcwNS0xLjQ3LTAuNzA1bC01LjYzIDAuNzE5cy0xLjA5IDAuMjE0LTEuMDgtMC40Nzhj
+MmUtMyAtMC4zNjIgMC43NzgtMC43NTkgMC43NzgtMC43NTlsOC4wMy0yLjA2czAuNjc3LTAuMjAy
+IDAuNDEtMC44NzVjLTAuMjY3LTAuNjczLTAuODIyLTAuNzg5LTEuMjMtMC43MDctMC40MDQgMC4w
+ODItNy4zNiAxLjc4LTguMzUgMi4wOS0wLjUwOCAwLjE1Ni0xLjA5IDAuNDIzLTEuMzEtMC4xNTIt
+MC4xMzItMC4zNDQgMC4yODUtMC43NzIgMC42MjktMC44ODUgMS44LTAuNTk0IDYuODktMi45MSA2
+Ljg5LTIuOTFzMC42MDEtMC40ODkgMC4xNzItMS4zYy0wLjQyOS0wLjgxMi0xLjk3IDAuMDM3LTEu
+OTcgMC4wMzdsLTcuMDYgMy4yNHMtMS45NiAwLjYyMy0yLjQ2LTAuMjYzYy0wLjQ5OC0wLjg4Ni0w
+LjM5Mi0xLjY0LTAuMjcxLTEuOSAwLjM4Ny0wLjc5OSAxLjI0LTIuMjUgMS4yNC0yLjI1czAuNTQx
+LTAuNjgxIDAuMDgyOS0xLjMzYy0wLjQ1OC0wLjY1My0xLjQ5LTAuMDMwMS0xLjQ5LTAuMDMwMXMt
+MS4xNCAyLjAyLTIuOTIgMy40OGMtMS41OCAxLjMtMy43OSAyLjA1LTQuMTEgMi40MS0wLjY5MiAw
+Ljc4MS0yLjM1IDIuOTgtMi4zNSAyLjk4eiIvPgogIDxwYXRoIGQ9Im04Ni41IDQ3LjcgNC4xNy00
+LjY5IDkuMzkgOC42LTcuNDIgNS4yNHoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMCIgc3Ryb2tl
+LXdpZHRoPSIuNTI5Ii8+CiAgPHBhdGggZD0ibTEwNCAzMC4xIDE2LjUtMjAuOCAwLjYxMy0wLjY1
+M3MwLjI5NC0wLjI5IDAuNTIxLTAuMTE5YzAuMjI3IDAuMTcxLTAuMTA4IDAuNTQyLTAuMTA4IDAu
+NTQybC0wLjc0MSAxLjA2LTE1LjQgMjAuNnoiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIu
+MjY1cHgiLz4KICA8cGF0aCBkPSJtOTIuMSA0NC40czEuNzktOC4yOSAzLjAxLTkuNzVjMS4yMi0x
+LjQ2IDYuMDEtNy42NiA3LjY5LTcuMzMgMS42OCAwLjMyOCAyLjc1IDEuNjUgMi43NSAxLjY1czAu
+NDI5IDAuMzM2IDEuMy0wLjA4NjhjMC44NzItMC40MjMgMS43MyAwLjAxMTUgMS43IDAuOTE2LTAu
+MDE0OSAwLjM4OC0wLjg0MSAxLjA3LTAuOTIyIDEuNzItMC4wNDA3IDAuMzI1IDAuNjY2LTAuMTcz
+IDAuODE2IDAuNDM5IDAuMTM3IDAuNTU4LTAuMzg0IDEuMDctMC40MzMgMS4zMiAwIDAgMC40NDYt
+MC4zNDMgMC42NjQgMC40NiAwLjIxNyAwLjgwMi0wLjYgMi4wMy0wLjYgMi4wM3MwLjQ3IDAuMTM1
+IDAuNjI4IDAuNzMyYzAuMDk3NSAwLjM2My0wLjg1NiAwLjc5Mi0wLjU4IDEuMzUgMCAwIDAuNDU5
+IDAuMTA1IDAuMzkgMC43MTktMC4wNjg2IDAuNjEzLTMuNzMgNC41Ni01LjU1IDUuMTUtMS45IDEu
+NjYtNS40OSA1LjUtNS40OSA1LjV6Ii8+CiAgPHBhdGggZD0ibTE1LjEgNjUuOCAwLjc0OS01Ljcg
+MTguOCAxLjM0IDIuMTIgMi4xIDQuMi0yLjcgMi41NSAzLjAxYy0wLjg5MiAxLjkxLTIuMjcgNC4x
+My0zLjg2IDUuNzF6IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iLjUy
+OSIvPgogIDxwYXRoIGQ9Im0yMi43IDI4LjVjLTYuNDkgMS4xMS0xMC4zIDQuMzMtMTIuMSAxMC42
+LTAuNjM4IDAuNDIzLTEuMDIgMS4xLTEuMDIgMS44MyA2LjU2ZS00IDAuMjAxIDAuMDMwNiAwLjQw
+MSAwLjA4ODkgMC41OTUtMC40MyAwLjQxOC0wLjY3IDAuOTczLTAuNjcxIDEuNTUgMy40ZS01IDAu
+Njg2IDAuMzM5IDEuMzMgMC45MjEgMS43Ni0wLjU2MSAwLjQyOC0wLjg4NSAxLjA2LTAuODg2IDEu
+NzMgNi4xZS00IDAuOTk5IDAuNzE1IDEuODggMS43NiAyLjE2IDAuMDI0OCAwLjA3MzQgMC4wNDk2
+IDAuMTQ3IDAuMDc1NCAwLjIyLTAuMzU0IDAuNDAyLTAuNTQ4IDAuOTAzLTAuNTQ4IDEuNDIgNy45
+OWUtNCAxLjIzIDEuMDcgMi4yMyAyLjQgMi4yNS0wLjExNSAwLjI2Ni0wLjE3NSAwLjU0OS0wLjE3
+NSAwLjgzNi0xLjJlLTQgMS4yNSAxLjEgMi4yNiAyLjQ1IDIuMjYgMC4xODMtMS4xMWUtNCAwLjM2
+Ni0wLjAxOTIgMC41NDUtMC4wNTY4IDAuNTQ0IDAuNDQ4IDEuMTIgMC44NTkgMS43MyAxLjIzbC0w
+LjEwNiAzLjExIDE2LjQgMS4xMyAyLjItMi4yOHMxLjAzLTAuNjUzIDUuNjMtMC41MDhjMC43ODUg
+MC4wMjQ3IDEuMDItMy45NSAxLjA2LTQuNiAwLjAxMTYtMC4yMDgtMC44OTgtMC42MjEtMC44Nzgt
+MC44NDIgMC4wMjAxLTAuMjIgMC44NTQtMC40OTQgMC44NS0wLjkzOC0wLjAwMTktMC4yMDEtMC4z
+NzItMC43MjgtMC41ODEtMS4wNi0wLjM1NS0xLjA3LTAuMzg2LTIuMDktMC4yODgtMy4xOSAwLjEy
+LTAuMTYxIDIuNTEtMC40OTYgMi41MS0wLjQ5NiAwLjYzNy0wLjYwMi0xLjY1LTMuNDUtMi4zOC00
+LjA4LTAuNzI1LTAuNjM1LTIuMzUtNi4xOC00LjMtOC4xNS0yLjU5LTIuNjItNS40LTQuOTktNy4x
+OS01LjYzLTEuNDQtMC41NTktNC4wNi0wLjc5NS03LjU2LTAuODIyem0xMi43IDEwLjRjMS0wLjIz
+NiAyLjA1IDEuMTQgMi40NSAyLjYyIDAuNDY1IDEuNzItMC4wNzMxIDMuMzctMS4yIDMuNjctMC44
+MzIgMC4yMjQtMS43OS0wLjM0Ny0yLjQyLTEuNDQtMC4xMjggMC4xMDItMC4yNiAwLjIzNi0wLjM5
+MSAwLjQxNS0wLjY1MyAwLjg5MS0xLjg3IDEzLjYtMS44NyAxMy42LTAuMTk1LTAuMDg0My0wLjM4
+NS0wLjA4MjItMC42MzYgMC4wNzY1IDAtM2UtNiAwLjc5Ny0xMC4zIDEuMTMtMTEuNyAwLjMxNS0x
+LjI5IDAuODI5LTMgMS4zMS0zLjU3LTAuMDAxNy0wLjAwNTctMC4wMDM1LTAuMDExNC0wLjAwNTIt
+MC4wMTctMC40NjUtMS43MiAwLjA3MzEtMy4zNyAxLjItMy42NyAwLjE0LTAuMDM3NiAwLjI4OS0w
+LjAxMjQgMC40MzQtMC4wNDY1eiIgc3R5bGU9InBhaW50LW9yZGVyOm1hcmtlcnMgc3Ryb2tlIGZp
+bGwiLz4KICA8ZyBmaWxsPSIjZmZmIiBzdHJva2Utd2lkdGg9Ii44OTciPgogICA8cGF0aCB0cmFu
+c2Zvcm09InNjYWxlKC4yNjUpIiBkPSJtMTI2IDI1MWMtNDIuNC0xNC42LTM5LTEzLjYtNDcuOS0x
+My43LTYuMjYtMC4wMjYzLTkuMTggMC40MDctMTMgMS45My0yLjcxIDEuMDgtNS4wNiAxLjk2LTUu
+MiAxLjk2LTAuNDk0IDguM2UtNCAwLjkyNy0xMS4yIDEuNS0xMS44IDAuMzEtMC4zMzQgMTUuOCAw
+LjQ4NSAzNC40IDEuODJsMzMuOSAyLjQzIDguODMgOC42OSAxNS44LTEwLjMgNC4yMiA0LjgxYzMu
+NTEgNC4wMSA0LjA3IDUuMTEgMy4zMiA2LjYxLTIuMSA0LjI1LTEwLjIgMTUuNy0xMS4xIDE1Ljct
+MC41MzggMC0xMS43LTMuNjctMjQuNy04LjE3eiIvPgogICA8cGF0aCB0cmFuc2Zvcm09InNjYWxl
+KC4yNjUpIiBkPSJtMTE5IDIxNGMwLjI0My0yLjEgMS4wNi0xMC45IDEuODItMTkuNSAxLjM4LTE1
+LjcgMy4xMi0yNS4yIDUuNDQtMjkuOCAwLjY3OC0xLjMzIDEuMjMtNC42MSAxLjIzLTcuMjggMC04
+Ljc5IDUuODEtMTIuNiAxMS03LjEyIDIuOTUgMy4xIDQuMjYgNi41MSA0LjI2IDExLjEgMCA4LjY0
+LTUuNjEgMTEuNi0xMS40IDYuMDFsLTIuOTQtMi44NS0xLjMxIDMuMTNjLTEuMDkgMi42MS0zLjgy
+IDIxLjktNi4zNyA0NS0wLjMxMyAyLjg0LTAuOTM2IDUuMTYtMS4zOSA1LjE2LTAuNDQ5IDAtMC42
+MTctMS43Mi0wLjM3My0zLjgxeiIvPgogICA8cGF0aCB0cmFuc2Zvcm09InNjYWxlKC4yNjUpIiBk
+PSJtMzQyIDE5NC0xMS0xNi4yIDEuNjYtMi4xMmMwLjkxNS0xLjE2IDMuNDgtNC4xNCA1LjcxLTYu
+NjJsNC4wNS00LjUgMTYgMTQuNmM4Ljc5IDguMDMgMTYgMTQuOSAxNi4xIDE1LjMgMC4xMDcgMC42
+NzktMTkuOCAxNS41LTIxIDE1LjYtMC4yNjkgMC4wMjQxLTUuNDQtNy4yMy0xMS41LTE2LjF6Ii8+
+CiAgIDxwYXRoIHRyYW5zZm9ybT0ic2NhbGUoLjI2NSkiIGQ9Im0zNzUgMzE2Yy00LjYzLTkuODYt
+OC41NC0xOC4yLTguNjktMTguNi0wLjE1My0wLjM5MiAyLjc0LTIuNzUgNi40NC01LjI0bDYuNzEt
+NC41MyA5LjcyIDE3LjdjNS4zNCA5LjcyIDkuNzIgMTcuOCA5LjcyIDE3LjkgMCAwLjExNS0zLjQ4
+IDIuNTktNy43NCA1LjQ5bC03Ljc0IDUuMjh6Ii8+CiAgIDxwYXRoIHRyYW5zZm9ybT0ic2NhbGUo
+LjI2NSkiIGQ9Im0xNzUgNDYwYzEuMTctNy44NSAzLjA0LTE1LjkgNC43LTIwLjMgMi4zOC02LjI3
+IDEwLjEtMTcuMiAxOC40LTI2bDcuMDYtNy40Ny0xNC4xLTM3Yy03Ljc4LTIwLjQtMTQuMy0zNy41
+LTE0LjYtMzguMS0wLjMyOS0wLjg3MiAzLjMtMS4xMiAxNi4zLTEuMTJoMTYuOGw3LjA0IDE0LjZj
+My44NyA4LjAyIDkuNjYgMjAuOCAxMi45IDI4LjUgMy4yIDcuNjUgOC4yOSAxOS43IDExLjMgMjYu
+OHM2LjQ3IDE1LjcgNy43IDE5LjFsMi4yMyA2LjE4LTIuMDEgMC43ODZjLTUuNjggMi4yMi0xNy4z
+IDcuNDctMjUgMTEuMy05LjgxIDQuODUtMjAuOSAxMy45LTI1LjkgMjFsLTMuMTQgNC41MS04LjY4
+IDAuMDQyYy00Ljc3IDAuMDIzMi05LjMzIDAuMjkyLTEwLjEgMC41OTctMS4yNCAwLjQ3OC0xLjM3
+IDdlLTMgLTAuODY1LTMuMzd6Ii8+CiAgPC9nPgogPC9nPgo8L3N2Zz4K
+"/>
+ <g>
+  <rect x="570" y="260" width="60" height="42.222" rx="4" ry="4" fill="#009" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="600" y="291.14999" fill="#ffffff" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="600" y="291.14999">R1</tspan></text>
+ </g>
+ <text x="560" y="227.675" fill="#000000" font-family="sans-serif" font-size="19.756px" font-style="italic" text-anchor="middle"><tspan x="560" y="227.675">Accumulator</tspan></text>
+ <g>
+  <rect x="490" y="310" width="60" height="42.222" rx="4" ry="4" fill="#009" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="520" y="341.14999" fill="#ffffff" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="520" y="341.14999">R2</tspan></text>
+ </g>
+ <g>
+  <rect x="570" y="310" width="60" height="42.222" rx="4" ry="4" fill="#009" stroke="#7f7f7f" stroke-width="2"/>
+  <text x="600" y="341.14999" fill="#ffffff" font-family="sans-serif" font-size="22.578px" text-anchor="middle"><tspan x="600" y="341.14999">R3</tspan></text>
+ </g>
+ <g>
+  <path d="m33.333 120h133.33c18.409 0 33.333 11.504 33.333 25.694 0 14.191-14.924 25.695-33.333 25.695h-133.33c-18.41 0-33.333-11.504-33.333-25.695 0-14.19 14.924-25.694 33.333-25.694z" fill="#d8e5e5" fill-rule="evenodd" stroke="#000" stroke-dasharray="10" stroke-width="2"/>
+  <text x="100" y="143.22501" fill="#000000" font-family="sans-serif" font-size="19.756px" font-style="italic" text-anchor="middle"><tspan x="100" y="143.22501">Opcode of current</tspan><tspan x="100" y="167.91901">instruction</tspan></text>
+ </g>
+ <line x1="170.17" x2="241.38" y1="172.15" y2="199.01" fill="none" stroke="#000" stroke-dasharray="10" stroke-width="2"/>
 </svg>
